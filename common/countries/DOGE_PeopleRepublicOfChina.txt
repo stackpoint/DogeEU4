@@ -30,7 +30,7 @@ leader_names = {
 
 ship_names = {
 	Haldi Laib Olmai Akka Beaivi Bieggolmai
-	Lieaibolmmai Ruohtta  Stallo  Tjaetsieålmaj Raedieahkka
+	Lieaibolmmai Ruohtta  Stallo  Tjaetsie?lmaj Raedieahkka
 }
 
 monarch_names = {

@@ -14,7 +14,7 @@ native_ferocity = 1
 native_hostileness = 3
 discovered_by = BRK
 
-1500.4.23 = { discovered_by = POR } # Pedro �lvares Cabral
+1500.4.23 = { discovered_by = POR } # Pedro ???lvares Cabral
 1545.1.1 = {
 	owner = POR
 	controller = POR
@@ -24,7 +24,7 @@ discovered_by = BRK
 	culture = portugese
 	religion = catholic
 }
-1590.1.1 = { capital = "S�o Crist�v�o" }
+1590.1.1 = { capital = "S???o Crist???v???o" }
 1624.5.1 = {
 	owner = NED
 	controller = NED

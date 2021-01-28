@@ -21,7 +21,7 @@ add_accepted_culture = khalkha
 
 1294.5.10 = {
 	monarch = {
-		name = "Tem�r"
+		name = "Tem???r"
 		dynasty = "Borjigin"
 		adm = 4
 		dip = 4
@@ -31,7 +31,7 @@ add_accepted_culture = khalkha
 
 1307.6.21 = {
 	monarch = {
-		name = "K�l�g"
+		name = "K???l???g"
 		dynasty = "Borjigin"
 		adm = 4
 		dip = 3
@@ -61,7 +61,7 @@ add_accepted_culture = khalkha
 
 1323.10.4 = {
 	monarch = {
-		name = "Yes�n Tem�r"
+		name = "Yes???n Tem???r"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 3
@@ -123,7 +123,7 @@ add_accepted_culture = khalkha
 
 1333.7.19 = {
 	monarch = {
-		name = "Toghon Tem�r"
+		name = "Toghon Tem???r"
 		dynasty = "Borjigin"
 		adm = 1
 		dip = 4
@@ -135,7 +135,7 @@ add_accepted_culture = khalkha
 
 1370.5.23 = {
 	monarch = {
-		name = "Biligt�"
+		name = "Biligt???"
 		dynasty = "Borjigin"
 		adm = 3
 		dip = 3
@@ -145,7 +145,7 @@ add_accepted_culture = khalkha
 
 1378.5.26 = {
 	monarch = {
-		name = "Uskhal T�g�s Tem�r"
+		name = "Uskhal T???g???s Tem???r"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 2
@@ -155,7 +155,7 @@ add_accepted_culture = khalkha
 
 1388.11.1 = {
 	monarch = {
-		name = "Jorightu Yes�der"
+		name = "Jorightu Yes???der"
 		dynasty = "Borjigin"
 		adm = 1
 		dip = 1
@@ -175,7 +175,7 @@ add_accepted_culture = khalkha
 
 1393.1.1 = {
 	monarch = {
-		name = "Elbeg Nig�les�gchi"
+		name = "Elbeg Nig???les???gchi"
 		dynasty = "Borjigin"
 		adm = 0
 		dip = 0
@@ -185,8 +185,8 @@ add_accepted_culture = khalkha
 
 1393.1.1 = {
 	heir = {
-		name = "G�n Tem�r"
-		monarch_name = "G�n Tem�r"
+		name = "G???n Tem???r"
+		monarch_name = "G???n Tem???r"
 		dynasty = "Borjigin"
 		birth_date = 1377.1.1
 		death_date = 1402.1.1
@@ -199,7 +199,7 @@ add_accepted_culture = khalkha
 
 1400.1.1 = {
 	monarch = {
-		name = "G�n Tem�r"
+		name = "G???n Tem???r"
 		dynasty = "Borjigin"
 		adm = 0
 		dip = 0
@@ -209,7 +209,7 @@ add_accepted_culture = khalkha
 
 1402.1.1 = {
 	monarch = {
-		name = "�r�g Tem�r"
+		name = "???r???g Tem???r"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 1
@@ -219,7 +219,7 @@ add_accepted_culture = khalkha
 
 1408.1.1 = {
 	monarch = {
-		name = "�ljei Tem�r"
+		name = "???ljei Tem???r"
 		dynasty = "Borjigin"
 		adm = 1
 		dip = 1
@@ -293,7 +293,7 @@ add_accepted_culture = khalkha
 
 1454.1.1 = {
 	monarch = {
-		name = "Mark�rgis"
+		name = "Mark???rgis"
 		dynasty = "Borjigin"
 		adm = 1
 		dip = 1
@@ -401,8 +401,8 @@ add_accepted_culture = khalkha
 
 1524.1.1 = {
 	heir = {
-		name = "Darayisung G�deng"
-		monarch_name = "Darayisung G�deng"
+		name = "Darayisung G???deng"
+		monarch_name = "Darayisung G???deng"
 		dynasty = "Borjigin"
 		birth_date = 1520.1.1
 		death_Date = 1557.1.1
@@ -415,7 +415,7 @@ add_accepted_culture = khalkha
 
 1547.1.1 = {
 	monarch = {
-		name = "Darayisung G�deng"
+		name = "Darayisung G???deng"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 2
@@ -425,8 +425,8 @@ add_accepted_culture = khalkha
 
 1547.1.1 = {
 	heir = {
-		name = "T�men Jasaghtu"
-		monarch_name = "T�men Jasaghtu"
+		name = "T???men Jasaghtu"
+		monarch_name = "T???men Jasaghtu"
 		dynasty = "Borjigin"
 		birth_date = 1547.1.1
 		death_date = 1592.1.1
@@ -450,7 +450,7 @@ add_accepted_culture = khalkha
 
 1582.1.1 = {
 	monarch = {
-		name = "T�men Jasaghtu"
+		name = "T???men Jasaghtu"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 2

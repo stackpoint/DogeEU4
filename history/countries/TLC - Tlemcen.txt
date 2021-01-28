@@ -116,7 +116,7 @@ change_estate_land_share = {
 
 1516.1.1 = {
 	monarch = {
-		name = "M�sa III"
+		name = "M???sa III"
 		dynasty = "Zayyanid"
 		adm = 2
 		dip = 1
@@ -126,7 +126,7 @@ change_estate_land_share = {
 
 1527.1.1 = {
 	monarch = {
-		name = "'Abd All�h III"
+		name = "'Abd All???h III"
 		dynasty = "Zayyanid"
 		adm = 2
 		dip = 0

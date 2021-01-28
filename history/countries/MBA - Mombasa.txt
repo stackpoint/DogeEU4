@@ -86,8 +86,8 @@ historical_rival = MLI
 
 1744.1.1 = {
 	heir = {
-		name = "'Al�"
-		monarch_name = "'Al�"
+		name = "'Al???"
+		monarch_name = "'Al???"
 		dynasty = "Al-Mazrui"
 		birth_date = 1720.1.1
 		death_Date = 1753.1.1
@@ -100,7 +100,7 @@ historical_rival = MLI
 
 1746.1.1 = {
 	monarch = {
-		name = "'Al�"
+		name = "'Al???"
 		dynasty = "Al-Mazrui"
 		adm = 1
 		dip = 2
@@ -110,8 +110,8 @@ historical_rival = MLI
 
 1746.1.1 = {
 	heir = {
-		name = "Mas'�d"
-		monarch_name = "Mas'�d"
+		name = "Mas'???d"
+		monarch_name = "Mas'???d"
 		dynasty = "Al-Mazrui"
 		birth_date = 1730.1.1
 		death_Date = 1775.1.1
@@ -124,7 +124,7 @@ historical_rival = MLI
 
 1753.1.1 = {
 	monarch = {
-		name = "Mas'�d"
+		name = "Mas'???d"
 		dynasty = "Al-Mazrui"
 		adm = 0
 		dip = 2
@@ -134,8 +134,8 @@ historical_rival = MLI
 
 1753.1.1 = {
 	heir = {
-		name = "'Abd All�h"
-		monarch_name = "'Abd All�h I"
+		name = "'Abd All???h"
+		monarch_name = "'Abd All???h I"
 		dynasty = "Al-Mazrui"
 		birth_date = 1750.1.1
 		death_Date = 1782.1.1
@@ -148,7 +148,7 @@ historical_rival = MLI
 
 1775.1.1 = {
 	monarch = {
-		name = "'Abd All�h I"
+		name = "'Abd All???h I"
 		dynasty = "Al-Mazrui"
 		adm = 3
 		dip = 3
@@ -182,8 +182,8 @@ historical_rival = MLI
 
 1782.1.1 = {
 	heir = {
-		name = "'Abd All�h"
-		monarch_name = "'Abd All�h II"
+		name = "'Abd All???h"
+		monarch_name = "'Abd All???h II"
 		dynasty = "Al-Mazrui"
 		birth_date = 1780.1.1
 		death_Date = 1830.1.1
@@ -196,7 +196,7 @@ historical_rival = MLI
 
 1811.1.1 = {
 	monarch = {
-		name = "'Abd All�h II"
+		name = "'Abd All???h II"
 		dynasty = "Al-Mazrui"
 		adm = 2
 		dip = 0

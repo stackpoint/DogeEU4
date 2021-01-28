@@ -8,7 +8,7 @@ capital = 81	# Kassel
 
 1807.7.9 = {
 	monarch = {
-		name = "J�r�me"
+		name = "J???r???me"
 		dynasty = "Bonaparte"
 		culture = sardinian #Corsican
 		religion = catholic

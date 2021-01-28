@@ -1,10 +1,10 @@
-#4773 - G�ttingen
+#4773 - G???ttingen
 
 owner = BRU
 controller = BRU
 culture = lower_saxon
 religion = catholic
-capital = "G�ttingen"
+capital = "G???ttingen"
 trade_goods = cloth
 hre = yes
 base_tax = 2 

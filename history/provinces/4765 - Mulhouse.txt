@@ -1,8 +1,8 @@
-# 4765 - Mulhouse. Primary city: M�lhausen
+# 4765 - Mulhouse. Primary city: M???lhausen
 
 owner = MLH
 controller = MLH
-capital = "M�lhausen"
+capital = "M???lhausen"
 is_city = yes
 culture = swabian
 religion = catholic

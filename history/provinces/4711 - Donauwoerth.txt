@@ -1,6 +1,6 @@
 owner = ING
 controller = ING
-capital = "N�rdlingen"
+capital = "N???rdlingen"
 is_city = yes
 culture = swabian
 religion = catholic

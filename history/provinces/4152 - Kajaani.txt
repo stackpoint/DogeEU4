@@ -1,4 +1,4 @@
-#4152 - Kuusamo incl Maanselkä and Kitka
+#4152 - Kuusamo incl Maanselk? and Kitka
 
 owner = SMI
 controller = SMI
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 trade_goods = fur
 base_manpower = 1
-capital = "Maanselkä"
+capital = "Maanselk?"
 is_city = yes
 
 discovered_by = eastern

@@ -36,44 +36,44 @@ historical_units = {
 
 leader_names = {
 	Adlercreutz Ahlqvist
-	Berg Björn Blom 
+	Berg Bj?rn Blom 
 	Cronstedt
 	Dufva
-	Ehrensvärd "von Essen" 
+	Ehrensv?rd "von Essen" 
 	Glad
 	Haataja Helander Helin Hiltunen Horn
 	Ilkka Isotalo
-	Järvelä Järnberg
-	Kesäläinen Klingspor Kortelainen Krouvari Kyrö
-	Liljencrantz Länkinen
-	Pentti Pietilä 
-	Rehnskiöld Renner Rokka Rutanen
-	Sakari Sjögren Stålhandske Stoor
+	J?rvel? J?rnberg
+	Kes?l?inen Klingspor Kortelainen Krouvari Kyr?
+	Liljencrantz L?nkinen
+	Pentti Pietil? 
+	Rehnski?ld Renner Rokka Rutanen
+	Sakari Sj?gren St?lhandske Stoor
 	Tapani Termonen Turunen
 	Wilander
 }
 
 ship_names = {
 	Agricola Aura
-	Borgå "Birger Jarl"
+	Borg? "Birger Jarl"
 	Helsingfors Hakkapeliitta
 	Ilmarinen
 	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
+	Lemmink?inen Lapland
 	Nyland
 	Oulu
 	"Per Brahe"
 	Sampo "St. Henrik" Savolax
 	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	V?in?m?inen Vasa Viborg Vanda Vuoksi
+	?bo
+	?sterbotten
 }
 
 monarch_names = {
 	"Eerikki #0" = 20
 	"Niklas #0" = 20
-	"Väinämöinen #0" = 20
+	"V?in?m?inen #0" = 20
 	"Aato #0" = 10
 	"Fredrik #0" = 10
 	"Jani #0" = 10

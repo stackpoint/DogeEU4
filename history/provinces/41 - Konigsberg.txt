@@ -1,8 +1,8 @@
-#41 - Königsberg
+#41 - K?nigsberg
 
 owner = TEU
 controller = TEU
-capital = "Königsberg"
+capital = "K?nigsberg"
 culture = prussian
 religion = catholic
 trade_goods = gems #Amber

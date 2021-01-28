@@ -1,8 +1,8 @@
-# 4386 - Vendée
+# 4386 - Vend?e
 
 owner = POI
 controller = POI
-capital = "Luçon"
+capital = "Lu?on"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic 

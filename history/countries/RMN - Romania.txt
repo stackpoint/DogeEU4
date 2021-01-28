@@ -4,4 +4,4 @@ government_rank = 1
 primary_culture = romanian
 religion = orthodox
 technology_group = eastern
-capital = 161	# T�rgoviste
+capital = 161	# T???rgoviste

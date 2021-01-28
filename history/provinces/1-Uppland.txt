@@ -1,4 +1,4 @@
-#Uppland, contains Stockholm, Uppsala & Nyköping.
+#Uppland, contains Stockholm, Uppsala & Nyk?ping.
 
 add_core = SWE
 owner = SWE
@@ -27,7 +27,7 @@ center_of_trade = 2
 1448.6.20 = { revolt = {} controller = SWE } # Karl VIII is elected king of Sweden
 1501.8.1 = { controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
 1502.5.9 = { controller = SWE } # Retaken by Sweden
-1523.6.7 = { base_manpower = 4 } # Kgl.Drabantkåren/Svea Livgarde
+1523.6.7 = { base_manpower = 4 } # Kgl.Drabantk?ren/Svea Livgarde
 1527.6.1 = {
 	religion = protestant
 	reformation_center = protestant

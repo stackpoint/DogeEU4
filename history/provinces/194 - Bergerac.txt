@@ -1,4 +1,4 @@
-# 194 P�rigord - Principal cities: Bergerac
+# 194 P???rigord - Principal cities: Bergerac
 
 owner = GUY
 controller = GUY

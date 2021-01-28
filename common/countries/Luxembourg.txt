@@ -86,7 +86,7 @@ monarch_names = {
 leader_names = {
 	"von Bettborn" "von Bous" "von Capellen" "von Grevenmach"
 	"von Grosbous" "von Pontpierre" "von Reisdorf" "von Redange"
-	"von Diekirch" "von Schuttrange" Borchert Bültel Dumont
+	"von Diekirch" "von Schuttrange" Borchert B?ltel Dumont
 	Genot Hoscheit Mersch Nissar Riener Schannen Pinkernell
 	Petilliot Paguet "von Sommerfeld" Voigt Weiler Winen Biberen
 	Clees Cemmerer Croye Delhaes "du Carme" Gonderinger Greff Herrig

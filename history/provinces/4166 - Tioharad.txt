@@ -1,4 +1,4 @@
-#Western Småland - Tiohärads Lagsaga, ie: Värend, Finnveden och Njudung
+#Western Sm?land - Tioh?rads Lagsaga, ie: V?rend, Finnveden och Njudung
 
 add_core = GTA
 owner = GTA
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 trade_goods = naval_supplies
 base_manpower = 1
-capital = "Växjö"
+capital = "V?xj?"
 is_city = yes
 discovered_by = western
 discovered_by = eastern

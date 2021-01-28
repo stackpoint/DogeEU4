@@ -28,111 +28,111 @@ historical_units = {
 }
 
 monarch_names = {
-	"Eiríkr #2" = 8
+	"Eir?kr #2" = 8
 	"Leifr #4" = 12
-	"Ásvaldur #1" = 6
+	"?svaldur #1" = 6
 	"Vithar #3" = 5
 	"Vermundr #5" = 5
 	"Ormr #1" = 5
 	"Ragnheidur #3" = 5
 	"Logmar #0" = 5
-	"Liúlfur #1" = 5
-	"Njáll #5" = 5
-	"Ásmundr #2" = 5
+	"Li?lfur #1" = 5
+	"Nj?ll #5" = 5
+	"?smundr #2" = 5
 	"Baldr #6" = 5	
-	"Hákon #6" = 5
-	"Óláfr #4" = 5
+	"H?kon #6" = 5
+	"?l?fr #4" = 5
 	"Haraldr #4" = 5
 	"Thorfinnr #1" = 4
-	"Knútr #0" = 6
+	"Kn?tr #0" = 6
 	"Kraki #0" = 2
-	"Stígandr #0" = 1
-	"Stígr #0" = 1
-	"Thorgnýr #0" = 1
-	"Thórvaldr #0" = 1
-	"Rádúlfr #0" = 5
+	"St?gandr #0" = 1
+	"St?gr #0" = 1
+	"Thorgn?r #0" = 1
+	"Th?rvaldr #0" = 1
+	"R?d?lfr #0" = 5
 	"Alrekr #0" = 1
-	"Áskell #0" = 1
+	"?skell #0" = 1
 	"Bjarni #0" = 1
-	"Snaebjörn #0" = 1
+	"Snaebj?rn #0" = 1
 	"Volundr #0" = 1
-	"Önundr #0" = 1
-	"Álfljótr #0" = 1
-	"Alvíss #0" = 1
-	"Ánleifr #0" = 1
-	"Árni #0" = 1
-	"Arnthórr #0" = 1
+	"?nundr #0" = 1
+	"?lflj?tr #0" = 1
+	"Alv?ss #0" = 1
+	"?nleifr #0" = 1
+	"?rni #0" = 1
+	"Arnth?rr #0" = 1
 	"Arnvidr #0" = 1
-	"Ásbjorn #0" = 1
+	"?sbjorn #0" = 1
 	"Brandr #0" = 1
 	"Eysteinn #0" = 1
 	"Eyvindr #0" = 1
 	"Freyr #0" = 1
-	"Gandálfr #0" = 2
-	"Hávardr #0" = 1
+	"Gand?lfr #0" = 2
+	"H?vardr #0" = 1
 	"Naglfar #0" = 1
 	"Heinrikr #0" = 1
 	"Herleifr #0" = 1
-	"Hjálmar #0" = 1
-	"Hróaldr #0" = 1
-	"Ingólfr #0" = 1
-	"Úlfhrafn #0" = 1
-	"Ásgeirr #0" = 2
+	"Hj?lmar #0" = 1
+	"Hr?aldr #0" = 1
+	"Ing?lfr #0" = 1
+	"?lfhrafn #0" = 1
+	"?sgeirr #0" = 2
 	"Ingvarr #0" = 1
-	"Ívarr #0" = 1
-	"Ódinn #0" = 1
-	"Ósvaldr #0" = 1
-	"Ránulfr #0" = 1
-	"Ríg #0" = 1
-	"Hródgeirr #0" = 1
+	"?varr #0" = 1
+	"?dinn #0" = 1
+	"?svaldr #0" = 1
+	"R?nulfr #0" = 1
+	"R?g #0" = 1
+	"Hr?dgeirr #0" = 1
 	"Ragnvaldr #0" = 1
-	"Rúni #0" = 1
+	"R?ni #0" = 1
 	"Sigvardr #0" = 1
-	"Skári #0" = 1
+	"Sk?ri #0" = 1
 	"Einarr #0" = 1
 	"Erlingr #0" = 1
 	"Eitri #0" = 1
-	"Fáfnir #0" = 1
-	"Njåld #0" = 1
-	"Njördr #0" = 1
+	"F?fnir #0" = 1
+	"Nj?ld #0" = 1
+	"Nj?rdr #0" = 1
 	"Rikard #0" = 1
 	"Sveinn #0" = 1
-	"Thórlákr #0" = 1
+	"Th?rl?kr #0" = 1
 	"Torhild #0" = 1
 	"Agnarr #0" = 1
 	"Fundinn #0" = 1
-	"Grímur #0" = 1
+	"Gr?mur #0" = 1
 	"Hrafn #0" = 1
 	"Snorri #0" = 1
-	"Thórdur #0" = 1
-	"Frídr #0" = -1
+	"Th?rdur #0" = 1
+	"Fr?dr #0" = -1
 	"Gudridr #0" = -1
-	"Freydís #0" = -3
-	"Sága #0" = -3
+	"Freyd?s #0" = -3
+	"S?ga #0" = -3
 	"Gudrun #0" = -2
-	"Áslaug #0" = -1
-	"Ástridr #0" = -1
+	"?slaug #0" = -1
+	"?stridr #0" = -1
 	"Audr #0" = -1
 	"Dagny #0" = -1
 	"Eira #0" = -1
-	"Eydís #0" = -1
+	"Eyd?s #0" = -1
 	"Freyja #0" = -1
 	"Signy #0" = -1
-	"Valdís #0" = -1
-	"Vigdís #0" = -1
+	"Vald?s #0" = -1
+	"Vigd?s #0" = -1
 	"Siv #0" = -1
-	"Heidrún #0" = -2
-	"Hjördis #0" = -1
+	"Heidr?n #0" = -2
+	"Hj?rdis #0" = -1
 	"Ingrid #0" = -1
-	"Jórunnr #0" = -1
-	"Tófa #0" = -1
+	"J?runnr #0" = -1
+	"T?fa #0" = -1
 	"Tyra #0" = -1
 	"Thyri #0" = -1
 	"Yngvildr #0" = -1
 	"Ynghildr #0" = -1
 	"Thrudr #0" = -1
-	"Thórhildr #0" = -1
-	"Thordís #0" = -1
+	"Th?rhildr #0" = -1
+	"Thord?s #0" = -1
 	"Svanhildr #0" = -1
 	"Solveig #0" = -1
 	"Nessa #0" = -1
@@ -140,24 +140,24 @@ monarch_names = {
 	"Skuld #0" = -1
 	"Urdr #0" = -1
 	"Verdandi #0" = -1
-	"Hrútr #0" = -1
-	"Kári #0" = -1
+	"Hr?tr #0" = -1
+	"K?ri #0" = -1
 }
 
 leader_names = {
-	Herjólfsson Eiríksson Thórvaldsson
-	Knútsson Árnisson Bjarnisson
+	Herj?lfsson Eir?ksson Th?rvaldsson
+	Kn?tsson ?rnisson Bjarnisson
 	Leifsson Folkisson Freysson Gunnarsson
-	Hákonsson Haraldsson Hjálmarsson
-	Hjálmarsson Hróaldsson Hrólfsson
-	Ingvarsson Ingólfsson Ívarsson
-	Lokisson Njördsson Ódinsson
-	Ósvaldsson Rádúlfsson Rúnisson
-	Grímursson Skárisson Steinsson
-	Stígsson Týrsson Válisson
-	Yngvarsson Óláfsson Alreksson
-	Alvísson Rígsson Hrafnsson Snorrisson
-	Thórdusson Ragnvaldsson Krakuson
+	H?konsson Haraldsson Hj?lmarsson
+	Hj?lmarsson Hr?aldsson Hr?lfsson
+	Ingvarsson Ing?lfsson ?varsson
+	Lokisson Nj?rdsson ?dinsson
+	?svaldsson R?d?lfsson R?nisson
+	Gr?mursson Sk?risson Steinsson
+	St?gsson T?rsson V?lisson
+	Yngvarsson ?l?fsson Alreksson
+	Alv?sson R?gsson Hrafnsson Snorrisson
+	Th?rdusson Ragnvaldsson Krakuson
 	Einarsson Ulfsson Sveinsson
 }
 
@@ -175,9 +175,9 @@ ship_names = {
 }
 
 army_names = {
-	"Ríki Herr" "Ríki Riddari" "Hvítr Hrafn" "Hvítr Ulfr" "Silfr Haukr" "Hrímthurs Herr" "Hljódr Herr" "$PROVINCE$ Herr" 
+	"R?ki Herr" "R?ki Riddari" "Hv?tr Hrafn" "Hv?tr Ulfr" "Silfr Haukr" "Hr?mthurs Herr" "Hlj?dr Herr" "$PROVINCE$ Herr" 
 }
 
 fleet_names = {
-	"Ríki Dreki" "Mikill Dreki" "Heppinn Dreki" "Veidr Dreki" "$PROVINCE$ Dreki" 
+	"R?ki Dreki" "Mikill Dreki" "Heppinn Dreki" "Veidr Dreki" "$PROVINCE$ Dreki" 
 }

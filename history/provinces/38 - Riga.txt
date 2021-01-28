@@ -1,4 +1,4 @@
-#Riga Bight, incl. the city of Riga, and Dünamünde.
+#Riga Bight, incl. the city of Riga, and D?nam?nde.
 
 owner = RIG
 controller = RIG

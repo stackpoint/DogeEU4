@@ -42,7 +42,7 @@ capital = 1228	# Dongola
 
 1570.1.1 = {
 	monarch = {
-		name = "B�d�" #Fictional Name for Maliks of Dongola subservient to the Funj
+		name = "B???d???" #Fictional Name for Maliks of Dongola subservient to the Funj
 		dynasty = "Barabara"
 		adm = 3
 		dip = 3

@@ -492,7 +492,7 @@ capital = 514	# Jodphur
 
 1793.7.7 = {
 	monarch = {
-		name = "Bh�m Singh"
+		name = "Bh???m Singh"
 		dynasty = "Rathore"
 		DIP = 1
 		MIL = 0

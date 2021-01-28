@@ -1,4 +1,4 @@
-#1979 - F�r�arna
+#1979 - F???r???arna
 #NOR NORWAY
 owner = LOI
 controller = LOI 

@@ -1,4 +1,4 @@
-#Värmland
+#V?rmland
 
 add_core = SWE
 owner = SWE

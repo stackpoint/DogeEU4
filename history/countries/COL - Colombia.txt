@@ -8,7 +8,7 @@ capital = 825	# Bogota
 
 1810.7.20 = {
 	monarch = {
-		name = "Jos� Miguel Pey de Andrade"
+		name = "Jos??? Miguel Pey de Andrade"
 		adm = 3
 		dip = 2
 		mil = 4
@@ -28,7 +28,7 @@ capital = 825	# Bogota
 # Triumvirate of the United Provinces of New Granada
 1814.10.5 = {
 	monarch = {
-		name = "Jos� Fern�ndez Madrid"
+		name = "Jos??? Fern???ndez Madrid"
 		adm = 2
 		dip = 2
 		mil = 2
@@ -37,7 +37,7 @@ capital = 825	# Bogota
 
 1814.11.23 = {
 	monarch = {
-		name = "Custodio Garc�a Rovira"
+		name = "Custodio Garc???a Rovira"
 		adm = 2
 		dip = 2
 		mil = 2
@@ -55,7 +55,7 @@ capital = 825	# Bogota
 
 1819.12.17 = {
 	monarch = {
-		name = "Sim�n Bol�var"
+		name = "Sim???n Bol???var"
 		adm = 5
 		dip = 3
 		mil = 4

@@ -40,7 +40,7 @@ monarch_names = {
 	"Choghtu #0" = 20
 	"Dawa #0" = 20
 	"Esen #0" = 20
-	"Güshi #0" = 20
+	"G?shi #0" = 20
 	"Lha-bzang #0" = 20
 	"Khara Khula #0" = 20
 	"Kho #0" = 20
@@ -55,13 +55,13 @@ monarch_names = {
 	"Quduqa #0" = 10
 	"Toghto #0" = 10
 	"Altai #0" = 0
-	"Bäki #0" = 0
+	"B?ki #0" = 0
 	"Bayan #0" = 0
 	"Dayan #0" = 0
 	"Hami #0" = 0
 	"Molon #0" = 0
 	"Oori #0" = 0
-	"Orlök #0" = 0
+	"Orl?k #0" = 0
 	"Sechen #0" = 0
 	"Radi #0" = 0
 	"Talman #0" = 0
@@ -74,7 +74,7 @@ monarch_names = {
 	"Yelu #0" = 0
 	"Zaya #0" = 0
 	"Hoelun #0" = -1
-	"Tamülün #0" = -1
+	"Tam?l?n #0" = -1
 	"Sorghaghtani #0" = -1
 }
 
@@ -139,7 +139,7 @@ leader_names = {
 }
 
 ship_names = {
-	Bargut Buzav Kerait Naiman "Dörvn Öörd"
+	Bargut Buzav Kerait Naiman "D?rvn ??rd"
 	Khoshut Olo Dzungar Torgut Dorbot
-	Amdo "Altan Khan" Khoshot Olöts Güshi
+	Amdo "Altan Khan" Khoshot Ol?ts G?shi
 }

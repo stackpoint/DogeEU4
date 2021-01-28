@@ -135,7 +135,7 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 
 1581.6.4 = {
 	monarch = {
-		name = "Johann von Sch�nenberg"
+		name = "Johann von Sch???nenberg"
 		birth_date = 1525.1.1
 		dip = 2
 		adm = 2
@@ -159,7 +159,7 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 
 1623.9.7 = {
 	monarch = {
-		name = "Philipp von S�ttern"
+		name = "Philipp von S???ttern"
 		birth_date = 1567.12.11
 		dip = 2
 		adm = 2
@@ -211,7 +211,7 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 
 1729.4.7 = {
 	monarch = {
-		name = "Franz Georg von Sch�nborn"
+		name = "Franz Georg von Sch???nborn"
 		birth_date = 1682.6.15
 		dip = 2
 		adm = 2

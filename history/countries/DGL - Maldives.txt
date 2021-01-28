@@ -4,7 +4,7 @@ add_government_reform = indian_sultanate_reform
 technology_group = indian
 religion = sunni
 primary_culture = malayalam
-capital = 1248	# Mal�
+capital = 1248	# Mal???
 #religious_school = shafii_school
 
 #Sultans of the Maldives

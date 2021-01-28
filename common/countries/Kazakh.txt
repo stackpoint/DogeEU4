@@ -82,7 +82,7 @@ leader_names = {
 }
 
 ship_names = {
-	"Uli Jüz" "Orta Jüz" "Kisi Jüz" Töre
-	Qoja Tölengit Turgay Isim Emba Uil
+	"Uli J?z" "Orta J?z" "Kisi J?z" T?re
+	Qoja T?lengit Turgay Isim Emba Uil
 	Syrdarja Cu Ili Irtys Nura
 }

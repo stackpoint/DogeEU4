@@ -9,7 +9,7 @@ capital = 589 # Chiang Mai
 
 1355.1.1 = {
 	monarch = {
-		name = "K� Na"
+		name = "K??? Na"
 		dynasty = "Mangrai"
 		adm = 3
 		dip = 3

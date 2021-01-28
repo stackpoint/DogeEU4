@@ -31,28 +31,28 @@ historical_units = {
 }
 
 leader_names = {
-	Piratininga Tabajara Temiminó Tamoio Tabajara Caeté Tupinaé Temiminó Tupina Aricobé
+	Piratininga Tabajara Temimin? Tamoio Tabajara Caet? Tupina? Temimin? Tupina Aricob?
 }
 
 monarch_names = {
 	"Cunhambebe #0" = 30
-	"Araribóia #0" = 10
-	"Maracajá #0" = 10
+	"Ararib?ia #0" = 10
+	"Maracaj? #0" = 10
 	"Ramalho #0" = 10
 	"Italo #0" = 10
 	"Arah #0" = 10
-	"Pirijá #0" = 10
+	"Pirij? #0" = 10
 	"Arata #0" = 10
-	"Toruí #0" = 10
+	"Toru? #0" = 10
 	"Yperoig #0" = 10
 	
 	"Bartira #0" = -1
-	"Guaibimpará #0" = -1
+	"Guaibimpar? #0" = -1
 	"Azelene #0" = -1
 	"Potira #0" = -1
 }
 
 ship_names = {
-	Bartira Cacique Guaibimpará Italo Niterói Piratininga Pirijá Potira Piquerobi Ubatuba Toruí Uruçumirim "Kari'boka"
+	Bartira Cacique Guaibimpar? Italo Niter?i Piratininga Pirij? Potira Piquerobi Ubatuba Toru? Uru?umirim "Kari'boka"
 }
 

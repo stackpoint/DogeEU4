@@ -7,7 +7,7 @@ government_rank = 1
 technology_group = western
 primary_culture = bavarian
 religion = catholic
-capital = 65	# M�nchen!
+capital = 65	# M???nchen!
 
 
 1375.1.1 = {

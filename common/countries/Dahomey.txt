@@ -49,7 +49,7 @@ monarch_names = {
 	"Aidododo #0" = 20
 	"Togni-ahoussou #0" = 20
 	"Agolli Agbo #0" = 20
-	"Houédogni #0" = 20
+	"Hou?dogni #0" = 20
 	"Kokpon #0" = 10
 	"Te-Agdanlin #0" = 10
 	"Dosu #0" = 0
@@ -63,7 +63,7 @@ monarch_names = {
 	"Afyavi #0" = -1
 	"Ahwlikponuwa #0" = -1
 	"Asiba #0" = -1
-	"Ayàbà #0" = -1
+	"Ay?b? #0" = -1
 }
 
 leader_names = {
@@ -74,12 +74,12 @@ leader_names = {
 	Sinzogan
 	Koukou
 	Maiga
-	Séka
+	S?ka
 	Sessegnon
-	Glélé
+	Gl?l?
 }
 
 ship_names = {
-	Adakpén Adan Agasu Agbanlin Agbo Aixosu Ajinaku Ato Atoké Azwi
-	Alotlo Jawunta Agbète "Adla Denkpè" Gbègluza
+	Adakp?n Adan Agasu Agbanlin Agbo Aixosu Ajinaku Ato Atok? Azwi
+	Alotlo Jawunta Agb?te "Adla Denkp?" Gb?gluza
 }

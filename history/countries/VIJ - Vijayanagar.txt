@@ -271,8 +271,8 @@ capital = 541	# Vijayanagara
 
 1491.1.1 = {
 	heir = {
-		name = "V�ra Narasimha"
-		monarch_name = "V�ra Narasimha"
+		name = "V???ra Narasimha"
+		monarch_name = "V???ra Narasimha"
 		dynasty = "Tuluva"
 		birth_date = 1483.1.1
 		death_date = 1509.8.9
@@ -283,9 +283,9 @@ capital = 541	# Vijayanagara
 	}
 }
 
-1503.1.1 = {	#1503 - 1505 V�ra Narasimha acts as regent of Immadhi Narisimha who dies in 1505 leaving V�ra as Raja
+1503.1.1 = {	#1503 - 1505 V???ra Narasimha acts as regent of Immadhi Narisimha who dies in 1505 leaving V???ra as Raja
 	monarch = {
-		name = "V�ra Narasimha"
+		name = "V???ra Narasimha"
 		dynasty = "Tuluva"
 		ADM = 2
 		DIP = 2
@@ -374,8 +374,8 @@ capital = 541	# Vijayanagara
 
 1542.1.1 = {
 	heir = {
-		name = "S�dashiva"
-		monarch_name = "S�dashiva"
+		name = "S???dashiva"
+		monarch_name = "S???dashiva"
 		dynasty = "Tuluva"
 		birth_date = 1522.1.1
 		death_date = 1565.1.1
@@ -388,7 +388,7 @@ capital = 541	# Vijayanagara
 
 1543.1.1 = {	#Final coronation of Sadashiva by Rama Raya who remains the power behind the throne
 	monarch = {
-		name = "S�dashiva"
+		name = "S???dashiva"
 		dynasty = "Tuluva"
 		ADM = 0
 		DIP = 0
@@ -517,8 +517,8 @@ capital = 541	# Vijayanagara
 
 1614.10.1 = {
 	heir = {
-		name = "R�ma"
-		monarch_name = "R�ma I"
+		name = "R???ma"
+		monarch_name = "R???ma I"
 		dynasty = "Aravidu"
 		birth_date = 1590.1.1
 		death_date = 1634.1.1
@@ -531,7 +531,7 @@ capital = 541	# Vijayanagara
 
 1615.1.1 = {
 	monarch = {
-		name = "R�ma I"
+		name = "R???ma I"
 		dynasty = "Aravidu"
 		ADM = 2
 		DIP = 2

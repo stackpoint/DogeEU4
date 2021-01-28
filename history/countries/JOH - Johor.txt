@@ -11,7 +11,7 @@ capital = 597	# Johor
 
 1528.1.1 = {
 	monarch = {
-		name = "Alauddin Riayat Sh�h II"
+		name = "Alauddin Riayat Sh???h II"
 		dynasty = "Melaka"
 		adm = 4
 		dip = 4
@@ -22,8 +22,8 @@ capital = 597	# Johor
 
 1528.1.1 = {
 	heir = {
-		name = "Muzaffar Sh�h"
-		monarch_name = "Muzaffar Sh�h II"
+		name = "Muzaffar Sh???h"
+		monarch_name = "Muzaffar Sh???h II"
 		dynasty = "Melaka"
 		birth_date = 1523.1.1
 		death_Date = 1570.1.1
@@ -36,7 +36,7 @@ capital = 597	# Johor
 
 1564.1.1 = {
 	monarch = {
-		name = "Muzaffar Sh�h II"
+		name = "Muzaffar Sh???h II"
 		dynasty = "Melaka"
 		adm = 2
 		dip = 2
@@ -46,8 +46,8 @@ capital = 597	# Johor
 
 1564.1.1 = {
 	heir = {
-		name = "Abd al-Jal�l Sh�h"
-		monarch_name = "Abd al-Jal�l Sh�h"
+		name = "Abd al-Jal???l Sh???h"
+		monarch_name = "Abd al-Jal???l Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1562.1.1
 		death_Date = 1571.1.1
@@ -60,7 +60,7 @@ capital = 597	# Johor
 
 1570.1.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Sh�h"
+		name = "Abd al-Jal???l Sh???h"
 		dynasty = "Melaka"
 		adm = 1
 		dip = 1
@@ -70,7 +70,7 @@ capital = 597	# Johor
 
 1571.1.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Sh�h II"
+		name = "Abd al-Jal???l Sh???h II"
 		dynasty = "Melaka"
 		adm = 4
 		dip = 3
@@ -80,8 +80,8 @@ capital = 597	# Johor
 
 1575.1.1 = {
 	heir = {
-		name = "Alauddin Riayat Sh�h"
-		monarch_name = "Alauddin Riayat Sh�h III"
+		name = "Alauddin Riayat Sh???h"
+		monarch_name = "Alauddin Riayat Sh???h III"
 		dynasty = "Melaka"
 		birth_date = 1575.1.1
 		death_Date = 1615.1.1
@@ -94,7 +94,7 @@ capital = 597	# Johor
 
 1597.1.1 = {
 	monarch = {
-		name = "Alauddin Riayat Sh�h III"
+		name = "Alauddin Riayat Sh???h III"
 		dynasty = "Melaka"
 		adm = 2
 		dip = 2
@@ -104,8 +104,8 @@ capital = 597	# Johor
 
 1597.1.1 = {
 	heir = {
-		name = "Abdullah Ma'ayat Sh�h"
-		monarch_name = "Abdullah Ma'ayat Sh�h"
+		name = "Abdullah Ma'ayat Sh???h"
+		monarch_name = "Abdullah Ma'ayat Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1572.1.1
 		death_Date = 1623.3.1
@@ -118,7 +118,7 @@ capital = 597	# Johor
 
 1615.1.1 = {
 	monarch = {
-		name = "Abdullah Ma'ayat Sh�h"
+		name = "Abdullah Ma'ayat Sh???h"
 		dynasty = "Melaka"
 		adm = 3
 		dip = 3
@@ -128,8 +128,8 @@ capital = 597	# Johor
 
 1615.1.1 = {
 	heir = {
-		name = "Abd al-Jal�l Sh�h"
-		monarch_name = "Abd al-Jal�l Sh�h III"
+		name = "Abd al-Jal???l Sh???h"
+		monarch_name = "Abd al-Jal???l Sh???h III"
 		dynasty = "Melaka"
 		birth_date = 1590.1.1
 		death_Date = 1677.3.1
@@ -142,7 +142,7 @@ capital = 597	# Johor
 
 1623.3.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Sh�h III"
+		name = "Abd al-Jal???l Sh???h III"
 		dynasty = "Melaka"
 		adm = 3
 		dip = 3
@@ -152,8 +152,8 @@ capital = 597	# Johor
 
 1630.1.1 = {
 	heir = {
-		name = "Ibr�h�m Sh�h"
-		monarch_name = "Ibr�h�m Sh�h"
+		name = "Ibr???h???m Sh???h"
+		monarch_name = "Ibr???h???m Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1630.1.1
 		death_Date = 1685.2.16
@@ -166,7 +166,7 @@ capital = 597	# Johor
 
 1677.1.1 = {
 	monarch = {
-		name = "Ibr�h�m Sh�h"
+		name = "Ibr???h???m Sh???h"
 		dynasty = "Melaka"
 		adm = 2
 		dip = 2
@@ -176,8 +176,8 @@ capital = 597	# Johor
 
 1677.1.1 = {
 	heir = {
-		name = "Mahm�d Sh�h"
-		monarch_name = "Mahm�d Sh�h II"
+		name = "Mahm???d Sh???h"
+		monarch_name = "Mahm???d Sh???h II"
 		dynasty = "Melaka"
 		birth_date = 1675.1.1
 		death_Date = 1699.1.1
@@ -190,7 +190,7 @@ capital = 597	# Johor
 
 1685.2.16 = {
 	monarch = {
-		name = "Mahm�d Sh�h II"
+		name = "Mahm???d Sh???h II"
 		dynasty = "Melaka"
 		adm = 1
 		dip = 1
@@ -202,7 +202,7 @@ capital = 597	# Johor
 
 1699.1.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Sh�h IV"
+		name = "Abd al-Jal???l Sh???h IV"
 		dynasty = "Bendahara"
 		adm = 3
 		dip = 3
@@ -214,7 +214,7 @@ capital = 597	# Johor
 
 1720.1.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Rahmat Sh�h"
+		name = "Abd al-Jal???l Rahmat Sh???h"
 		dynasty = "Melaka"
 		adm = 4
 		dip = 3
@@ -224,8 +224,8 @@ capital = 597	# Johor
 
 1720.1.1 = {
 	heir = {
-		name = "Abd al-Jal�l Muazzam Sh�h"
-		monarch_name = "Abd al-Jal�l Muazzam Sh�h"
+		name = "Abd al-Jal???l Muazzam Sh???h"
+		monarch_name = "Abd al-Jal???l Muazzam Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1710.1.1
 		death_Date = 1761.1.1
@@ -238,7 +238,7 @@ capital = 597	# Johor
 
 1722.1.1 = {
 	monarch = {
-		name = "Abd al-Jal�l Muazzam Sh�h"
+		name = "Abd al-Jal???l Muazzam Sh???h"
 		dynasty = "Melaka"
 		adm = 3
 		dip = 2
@@ -248,8 +248,8 @@ capital = 597	# Johor
 
 1730.1.1 = {
 	heir = {
-		name = "Ahmad Riayat Sh�h"
-		monarch_name = "Ahmad Riayat Sh�h"
+		name = "Ahmad Riayat Sh???h"
+		monarch_name = "Ahmad Riayat Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1730.1.1
 		death_Date = 1761.7.1
@@ -262,7 +262,7 @@ capital = 597	# Johor
 
 1761.1.1 = {
 	monarch = {
-		name = "Ahmad Riayat Sh�h"
+		name = "Ahmad Riayat Sh???h"
 		dynasty = "Melaka"
 		adm = 1
 		dip = 1
@@ -272,7 +272,7 @@ capital = 597	# Johor
 
 1761.7.1 = {
 	monarch = {
-		name = "Mahm�d Sh�h"
+		name = "Mahm???d Sh???h"
 		dynasty = "Melaka"
 		adm = 2
 		dip = 3
@@ -282,8 +282,8 @@ capital = 597	# Johor
 
 1765.1.1 = {
 	heir = {
-		name = "Abd al-Rahm�n Sh�h"
-		monarch_name = "Abd al-Rahm�n Sh�h"
+		name = "Abd al-Rahm???n Sh???h"
+		monarch_name = "Abd al-Rahm???n Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1765.1.1
 		death_Date = 1819.1.1
@@ -296,8 +296,8 @@ capital = 597	# Johor
 
 1776.1.1 = {
 	heir = {
-		name = "Hussein Sh�h"
-		monarch_name = "Husseinn Sh�h"
+		name = "Hussein Sh???h"
+		monarch_name = "Husseinn Sh???h"
 		dynasty = "Melaka"
 		birth_date = 1776.1.1
 		death_Date = 1835.9.5
@@ -310,7 +310,7 @@ capital = 597	# Johor
 
 1812.1.1 = {
 	monarch = {
-		name = "Abd al-Rahm�n Sh�h"
+		name = "Abd al-Rahm???n Sh???h"
 		dynasty = "Melaka"
 		adm = 2
 		dip = 2
@@ -320,7 +320,7 @@ capital = 597	# Johor
 
 1819.1.1 = {
 	monarch = {
-		name = "Hussein Sh�h"
+		name = "Hussein Sh???h"
 		dynasty = "Melaka"
 		adm = 1
 		dip = 1

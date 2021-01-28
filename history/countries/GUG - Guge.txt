@@ -115,8 +115,8 @@ fixed_capital = 2128 # Cannot move capital away from this province & no power co
 
 1485.1.1 = {
 	heir = {
-		name = "Shakya �"
-		monarch_name = "Shakya �"
+		name = "Shakya ???"
+		monarch_name = "Shakya ???"
 		dynasty = "Darma"
 		birth_Date = 1470.1.1
 		death_Date = 1537.1.1
@@ -129,7 +129,7 @@ fixed_capital = 2128 # Cannot move capital away from this province & no power co
 
 1510.1.1 = {
 	monarch = {
-		name = "Shakya �"
+		name = "Shakya ???"
 		dynasty = "Darma"
 		adm = 2
 		dip = 4

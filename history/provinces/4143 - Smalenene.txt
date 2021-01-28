@@ -1,4 +1,4 @@
-#Smålenene, incl. Mossedal, Heggen og Fröland, Vemme, Rakkestad, Idd og Marker, Onsöy, Verne Kloster, Moss, Tune og Åbygge and part of Nedre Romerike.
+#Sm?lenene, incl. Mossedal, Heggen og Fr?land, Vemme, Rakkestad, Idd og Marker, Ons?y, Verne Kloster, Moss, Tune og ?bygge and part of Nedre Romerike.
  
 owner = NOR
 controller = NOR
@@ -21,7 +21,7 @@ discovered_by = ottoman
 1531.11.1 = { unrest = 7 } # The Return of Christian II
 1532.7.15 = { unrest = 0 } # The Capture of Christian II
 1536.1.1 = { religion = protestant } # Unknown date
-1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unknown date)
+1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handf?stningen'(Unknown date)
 1567.1.1 = { capital = "Fredrikstad" }
 1661.1.1 = { fort_17th = yes }
 1814.1.14 = {

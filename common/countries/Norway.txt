@@ -38,7 +38,7 @@ historical_units = {
 }
 
 monarch_names = {
-	"Håkon #6" = 40
+	"H?kon #6" = 40
 	"Olav #4" = 40
 	"Erik #2" = 20
 	"Christoffer #0" = 20
@@ -58,7 +58,7 @@ monarch_names = {
 	"Arvid #0" = 0
 	"Bernt #0" = 0
 	"Birger #0" = 0
-	"Bjørn #0" = 0
+	"Bj?rn #0" = 0
 	"Daniel #0" = 0
 	"Edvard #0" = 0
 	"Eilert #0" = 0
@@ -73,13 +73,13 @@ monarch_names = {
 	"Ludvig #0" = 0
 	"Mats #0" = 0
 	"Mikael #0" = 0
-	"Njåld #0" = 0
+	"Nj?ld #0" = 0
 	"Njord #0" = 0
 	"Oddmund #0" = 0
 	"Peder #0" = 0
 	"Rikard #0" = 0
 	"Simon #0" = 0
-	"Søren #0" = 0
+	"S?ren #0" = 0
 	"Tollak #0" = 0
 }
 
@@ -97,29 +97,29 @@ leader_names = {
 }
 
 ship_names = {
-	Aasgardstrand Agder Allehelgensdag Alta Alvgeir Andenæs Arendal Areon Ariadne "Ark Noa" Asgerd Askøy Astræa Austavind
-	Austerveg Austri Austvangen Balder Balduin Barden Barøy Bastø Benediktsbåten Bidevind Biskopsbussen "Bjæring Drott" Bjørgvin
-	Bjørnvik Blaamanden Blåsel Bokn Bonde Borgfred Borgholm Borgland Borgsund Borgundbåten Borrebranden Brage Bragernes Brand Brettingen
-	Brisk Brott Bru Bøkesuden Capella Delfin Desideria Dragmarken Draken Draug Draupner Dromunden Dronningen Ebenezer "Eirik Blodøks"
+	Aasgardstrand Agder Allehelgensdag Alta Alvgeir Anden?s Arendal Areon Ariadne "Ark Noa" Asgerd Ask?y Astr?a Austavind
+	Austerveg Austri Austvangen Balder Balduin Barden Bar?y Bast? Benediktsb?ten Bidevind Biskopsbussen "Bj?ring Drott" Bj?rgvin
+	Bj?rnvik Blaamanden Bl?sel Bokn Bonde Borgfred Borgholm Borgland Borgsund Borgundb?ten Borrebranden Brage Bragernes Brand Brettingen
+	Brisk Brott Bru B?kesuden Capella Delfin Desideria Dragmarken Draken Draug Draupner Dromunden Dronningen Ebenezer "Eirik Blod?ks"
 	Ellida Erkesuden "Erling Jarl" Falken Fenris Finnmarken Fitjarbranden Fjordbris Fjordbuen Fjorddrott Fjordknollen Fjordsol Flint
-	Forra Fredsbryter Freia Frigg Frost Frøy Frøysleiken Færdesmanden Galdalv Gammar Garm Garsøy Gjestafløyet Glommen Gor Gornen Gram
-	Gråbein Gråfellen Grågåsen Gullbringen Gyller "Haakon Adalstein" "Haakon Jarl" Habil Hadsel Haien Halfdansnautr Halten "Harald Gråfell"
+	Forra Fredsbryter Freia Frigg Frost Fr?y Fr?ysleiken F?rdesmanden Galdalv Gammar Garm Gars?y Gjestafl?yet Glommen Gor Gornen Gram
+	Gr?bein Gr?fellen Gr?g?sen Gullbringen Gyller "Haakon Adalstein" "Haakon Jarl" Habil Hadsel Haien Halfdansnautr Halten "Harald Gr?fell"
 	"Harald Haarfagre" "Harald Hardraade" Haugesund Hauk Haukelid Hedmark Hegren "Heilag Halvard" "Heilag Olav" Heimdal Heinersuden
-	Hekseblakken Heljarskinn Hera Hjelmeland Hjelmelandsfjord Hjelperen Honningsvåg Hordabranden Hother Hugro Hvalrossen Hysnes Hårkniven
-	Ingøy Irma Isaksbussen Jarlsberg Jarnmeiss Jernbarden Jernland Jernskogmøya Jotunfjell Jupiter Jæren Jøsenfjord Jøsur Karlshovde Karmøy
-	Keipa Kjempen Kjertesveinen Knurr "Kong Gor" "Kong Gudrød" "Kong Haakon" "Kong Halfdan" "Kong Harald" "Kong Magnus" "Kong Nor" "Kong Olav"
-	"Kong Sverre" Kongsberg Korsfjord Kosmos Kristsuden Krokodillen Krossuden Kvalsund Kvitsøy Kyndelsmesse Kyngesbussen Lafjord Lafrantz
-	Langesund Langfredag Lillesand Lindormen Lofoten Lom Lyngen Lyra Lysebussen "Magnus Berrføtt" "Magnus Blinde" "Magnus Gode"
-	"Magnus Lagabøte" Margaretasuden Mariasuden Mars Mercur Meteor Midnatsol Midtvinter Mikkelsmess Mira Mjølner Molde Mosken Moss
-	Munkholmen Myklefløyet Mørvika Møvik Møysalen Najaden Narvik Neptun Nidaros Njord Nor Nordavind Nordhav Nordkapp Nordkyn Nordnorge
-	Nordstjernen Nornen Nova Nyholm Nøk Ognarbranden "Olav Kyrre" Olavssuden Ombofjord Oppland Orion Ormen Oslo "Ottar Jarl" "Patrioten Georg"
-	Petersbåten Pol Polarlys Postulasuden "Prins Olav" "Prinsesse Ragnhild" Providentia "Ragnvald Jarl" Raket Rakne Randaberg Ranen
-	Ranrike Rap Rauden Raudsuden Ravnanger Reinen Ringulv Risør Rogaland Rokken Ropeid Ryfylke Rygjarbranden Saksesuden Saltdal Salten
-	"Sanct Olaf" "Sanct Svithun" Sandanger Sandeid Sarp Sauda Saude Selifar Selvik Sigarsøyka "Sigurd Jorsalfare" "Sigurd Jarl" Sirius
-	Skagerak Skien Skjeggen Skjerstad Skjold Skjoldmøya Skjærtorsdag Skorpionen Skrim Skudenes Skytteren Sleipner Snar Snø Solbakk Solglimt
-	Solli Solve Stadt Stangarfare Stegg Stigandi Stjerne Storm Strand Strindaknollen Støren Sundal Sunnifusuden Sveinsnautr Svenner
-	Sværdfisken Syftesok Sygnafylke Sættarspillir Sønnavind Sørøy Søviknes Tanafjord Tarmen Tau Taurus Tegnen Terne Thermopylæ Tignesvennen
+	Hekseblakken Heljarskinn Hera Hjelmeland Hjelmelandsfjord Hjelperen Honningsv?g Hordabranden Hother Hugro Hvalrossen Hysnes H?rkniven
+	Ing?y Irma Isaksbussen Jarlsberg Jarnmeiss Jernbarden Jernland Jernskogm?ya Jotunfjell Jupiter J?ren J?senfjord J?sur Karlshovde Karm?y
+	Keipa Kjempen Kjertesveinen Knurr "Kong Gor" "Kong Gudr?d" "Kong Haakon" "Kong Halfdan" "Kong Harald" "Kong Magnus" "Kong Nor" "Kong Olav"
+	"Kong Sverre" Kongsberg Korsfjord Kosmos Kristsuden Krokodillen Krossuden Kvalsund Kvits?y Kyndelsmesse Kyngesbussen Lafjord Lafrantz
+	Langesund Langfredag Lillesand Lindormen Lofoten Lom Lyngen Lyra Lysebussen "Magnus Berrf?tt" "Magnus Blinde" "Magnus Gode"
+	"Magnus Lagab?te" Margaretasuden Mariasuden Mars Mercur Meteor Midnatsol Midtvinter Mikkelsmess Mira Mj?lner Molde Mosken Moss
+	Munkholmen Myklefl?yet M?rvika M?vik M?ysalen Najaden Narvik Neptun Nidaros Njord Nor Nordavind Nordhav Nordkapp Nordkyn Nordnorge
+	Nordstjernen Nornen Nova Nyholm N?k Ognarbranden "Olav Kyrre" Olavssuden Ombofjord Oppland Orion Ormen Oslo "Ottar Jarl" "Patrioten Georg"
+	Petersb?ten Pol Polarlys Postulasuden "Prins Olav" "Prinsesse Ragnhild" Providentia "Ragnvald Jarl" Raket Rakne Randaberg Ranen
+	Ranrike Rap Rauden Raudsuden Ravnanger Reinen Ringulv Ris?r Rogaland Rokken Ropeid Ryfylke Rygjarbranden Saksesuden Saltdal Salten
+	"Sanct Olaf" "Sanct Svithun" Sandanger Sandeid Sarp Sauda Saude Selifar Selvik Sigars?yka "Sigurd Jorsalfare" "Sigurd Jarl" Sirius
+	Skagerak Skien Skjeggen Skjerstad Skjold Skjoldm?ya Skj?rtorsdag Skorpionen Skrim Skudenes Skytteren Sleipner Snar Sn? Solbakk Solglimt
+	Solli Solve Stadt Stangarfare Stegg Stigandi Stjerne Storm Strand Strindaknollen St?ren Sundal Sunnifusuden Sveinsnautr Svenner
+	Sv?rdfisken Syftesok Sygnafylke S?ttarspillir S?nnavind S?r?y S?viknes Tanafjord Tarmen Tau Taurus Tegnen Terne Thermopyl? Tignesvennen
 	Titran Tjeldsund Tor Torden "Tore Jarl" Torshovde Tranen Tranen Troll Trollfjord Trondheim Trudvang Tyr Uller Ulven Ulvhalden Ulvhedningen
-	Utvær Vaagen Vale Valkyrien Vallebussen Valslynga Varangberg Vardø Vargen Varøy Vesteraalen Vestevind Vestri Vidar Vidsjå Viken Vindafjord
-	Vinland Visund Vollsøy Volva Væringen Våle Æge Æger Øibuen Ørn Årdalsfjord Årmannen
+	Utv?r Vaagen Vale Valkyrien Vallebussen Valslynga Varangberg Vard? Vargen Var?y Vesteraalen Vestevind Vestri Vidar Vidsj? Viken Vindafjord
+	Vinland Visund Volls?y Volva V?ringen V?le ?ge ?ger ?ibuen ?rn ?rdalsfjord ?rmannen
 }

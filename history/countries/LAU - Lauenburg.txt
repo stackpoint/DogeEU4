@@ -8,7 +8,7 @@ religion = catholic
 capital = 1857	# Lauenburg
 fixed_capital = 1857 # Cannot move capital away from this province & no power cost to move to it
 
-# L�neburg (Dukes of Braunschweig-L�neburg)
+# L???neburg (Dukes of Braunschweig-L???neburg)
 1368.1.1 = {
 	monarch = {
 		name = "Erich IV"

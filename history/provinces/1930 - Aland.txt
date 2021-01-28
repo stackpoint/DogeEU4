@@ -1,4 +1,4 @@
-#�land
+#???land
 
 owner = FIN
 controller = FIN

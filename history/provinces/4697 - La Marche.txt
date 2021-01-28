@@ -1,7 +1,7 @@
 #4697 La Marche
 owner = AMG
 controller = AMG
-capital = "Guéret"
+capital = "Gu?ret"
 is_city = yes
 culture = gascon
 religion = catholic

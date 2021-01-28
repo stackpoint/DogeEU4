@@ -1,4 +1,4 @@
-#18 Ume, Åsele, Piteå Lappmarks
+#18 Ume, ??sele, Pite?? Lappmarks
 
 capital = "Arvidsjaur"
 culture = sapmi

@@ -171,7 +171,7 @@ el_yunque = {
 	picture = "technology_cost"
 }
 
-# Gal�pagos Islands (Natural Selection): 2002
+# Gal???pagos Islands (Natural Selection): 2002
 natural_selection = {
 	trade_value = 0.1
 	dip_tech_cost_modifier = -0.01
@@ -272,7 +272,7 @@ victoria_falls = {
 	picture = "adm_tech_cost_modifier"
 }
 
-# Par�cutin: This natural wonder cannot appear in the EU4 Vanilla Timeline, since it was formed from 1943 to 1952. #
+# Par???cutin: This natural wonder cannot appear in the EU4 Vanilla Timeline, since it was formed from 1943 to 1952. #
 
 ### Wonders of the World 2007 ###
 
@@ -510,7 +510,7 @@ niagara_falls = {
 	picture = "adm_tech_cost_modifier"
 }
 
-# Cape Horn and Diego Ram�rez Islands: 782
+# Cape Horn and Diego Ram???rez Islands: 782
 cape_horn = {
 	trade_value = 0.25
 	local_hostile_attrition = 0.5

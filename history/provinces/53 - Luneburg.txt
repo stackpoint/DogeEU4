@@ -1,11 +1,11 @@
-#53 - L�neburg
+#53 - L???neburg
 
 owner = LUN
 controller = LUN
 add_core = LUN
 culture = lower_saxon
 religion = catholic
-capital = "L�neburg"
+capital = "L???neburg"
 trade_goods = salt
 hre = yes
 base_tax = 3

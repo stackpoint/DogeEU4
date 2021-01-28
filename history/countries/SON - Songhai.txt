@@ -59,8 +59,8 @@ change_estate_land_share = {
 
 1449.1.1 = {
 	heir = {
-		name = "Sulaym�n"
-		monarch_name = "Sulaym�n"
+		name = "Sulaym???n"
+		monarch_name = "Sulaym???n"
 		dynasty = "Sonni"
 		birth_date = 1420.1.1
 		death_Date = 1464.1.1
@@ -73,7 +73,7 @@ change_estate_land_share = {
 
 1456.1.1 = {
 	monarch = {
-		name = "Sulaym�n"
+		name = "Sulaym???n"
 		dynasty = "Sonni"
 		adm = 1
 		dip = 1
@@ -83,8 +83,8 @@ change_estate_land_share = {
 
 1456.1.1 = {
 	heir = {
-		name = "Al� Ber"
-		monarch_name = "Al� Ber"
+		name = "Al??? Ber"
+		monarch_name = "Al??? Ber"
 		dynasty = "Sonni"
 		birth_date = 1430.1.1
 		death_Date = 1492.11.7
@@ -92,18 +92,18 @@ change_estate_land_share = {
 		adm = 4
 		dip = 0
 		mil = 6
-		leader = {	name = "'Al� Ber"              	type = general	fire = 4	shock = 3	manuever = 3	siege = 1}
+		leader = {	name = "'Al??? Ber"              	type = general	fire = 4	shock = 3	manuever = 3	siege = 1}
 	}
 }
 
 1464.1.1 = {
 	monarch = {
-		name = "'Al� Ber"
+		name = "'Al??? Ber"
 		dynasty = "Sonni"
 		adm = 4
 		dip = 0
 		mil = 6
-		leader = {	name = "'Al� Ber"              	type = general	fire = 4	shock = 3	manuever = 3	siege = 1}
+		leader = {	name = "'Al??? Ber"              	type = general	fire = 4	shock = 3	manuever = 3	siege = 1}
 	}
 }
 
@@ -124,7 +124,7 @@ change_estate_land_share = {
 
 1492.11.7 = {
 	monarch = {
-		name = "Bakar�"
+		name = "Bakar???"
 		dynasty = "Sonni"
 		adm = 0
 		dip = 2
@@ -160,8 +160,8 @@ change_estate_land_share = {
 
 1493.3.4 = {
 	heir = {
-		name = "M�s�"
-		monarch_name = "M�s�"
+		name = "M???s???"
+		monarch_name = "M???s???"
 		dynasty = "Askiya"
 		birth_date = 1490.1.1
 		death_Date = 1531.4.13
@@ -174,7 +174,7 @@ change_estate_land_share = {
 
 1528.8.27 = {
 	monarch = {
-		name = "M�s�"
+		name = "M???s???"
 		dynasty = "Askiya"
 		adm = 0
 		dip = 0
@@ -208,8 +208,8 @@ change_estate_land_share = {
 
 1531.4.13 = {
 	heir = {
-		name = "Ism�'�l"
-		monarch_name = "Ism�'�l"
+		name = "Ism???'???l"
+		monarch_name = "Ism???'???l"
 		dynasty = "Askiya"
 		birth_date = 1510.1.1
 		death_Date = 1539.12.2
@@ -222,7 +222,7 @@ change_estate_land_share = {
 
 1537.4.23 = {
 	monarch = {
-		name = "Ism�'�l"
+		name = "Ism???'???l"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 5
@@ -232,8 +232,8 @@ change_estate_land_share = {
 
 1537.4.23 = {
 	heir = {
-		name = "Ish�q"
-		monarch_name = "Ish�q I"
+		name = "Ish???q"
+		monarch_name = "Ish???q I"
 		dynasty = "Askiya"
 		birth_date = 1510.1.1
 		death_Date = 1549.3.24
@@ -246,7 +246,7 @@ change_estate_land_share = {
 
 1539.12.2 = {
 	monarch = {
-		name = "Ish�q I"
+		name = "Ish???q I"
 		dynasty = "Askiya"
 		adm = 0
 		dip = 0
@@ -256,8 +256,8 @@ change_estate_land_share = {
 
 1539.12.2 = {
 	heir = {
-		name = "D�'�d"
-		monarch_name = "D�'�d"
+		name = "D???'???d"
+		monarch_name = "D???'???d"
 		dynasty = "Askiya"
 		birth_date = 1530.1.1
 		death_Date = 1582.8.7
@@ -265,18 +265,18 @@ change_estate_land_share = {
 		adm = 5
 		dip = 3
 		mil = 4
-		leader = {	name = "D�'�d"                 	type = general	fire = 3	shock = 2	manuever = 3	siege = 0}
+		leader = {	name = "D???'???d"                 	type = general	fire = 3	shock = 2	manuever = 3	siege = 0}
 	}
 }		
 
 1549.3.24 = {
 	monarch = {
-		name = "D�'�d"
+		name = "D???'???d"
 		dynasty = "Askiya"
 		adm = 5
 		dip = 3
 		mil = 4
-		leader = {	name = "D�'�d"                 	type = general	fire = 3	shock = 2	manuever = 3	siege = 0}
+		leader = {	name = "D???'???d"                 	type = general	fire = 3	shock = 2	manuever = 3	siege = 0}
 	}
 }
 
@@ -330,8 +330,8 @@ change_estate_land_share = {
 
 1586.12.16 = {
 	heir = {
-		name = "Ish�q"
-		monarch_name = "Ish�q II"
+		name = "Ish???q"
+		monarch_name = "Ish???q II"
 		dynasty = "Askiya"
 		birth_date = 1570.1.1
 		death_Date = 1591.4.15
@@ -344,7 +344,7 @@ change_estate_land_share = {
 
 1588.4.10 = {
 	monarch = {
-		name = "Ish�q II"
+		name = "Ish???q II"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 0
@@ -354,8 +354,8 @@ change_estate_land_share = {
 
 1588.4.10 = {
 	heir = {
-		name = "N�h"
-		monarch_name = "N�h"
+		name = "N???h"
+		monarch_name = "N???h"
 		dynasty = "Askiya"
 		birth_date = 1570.1.1
 		death_Date = 1599.1.1
@@ -370,7 +370,7 @@ change_estate_land_share = {
 }
 1591.4.15 = {
 	monarch = {
-		name = "N�h"
+		name = "N???h"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 0
@@ -404,8 +404,8 @@ change_estate_land_share = {
 
 1599.1.1 = {
 	heir = {
-		name = "H�r�n"
-		monarch_name = "H�r�n"
+		name = "H???r???n"
+		monarch_name = "H???r???n"
 		dynasty = "Askiya"
 		birth_date = 1590.1.1
 		death_Date = 1612.1.1
@@ -418,7 +418,7 @@ change_estate_land_share = {
 
 1604.1.1 = {
 	monarch = {
-		name = "H�r�n"
+		name = "H???r???n"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 2
@@ -428,8 +428,8 @@ change_estate_land_share = {
 
 1604.1.1 = {
 	heir = {
-		name = "al-Am�n"
-		monarch_name = "al-Am�n"
+		name = "al-Am???n"
+		monarch_name = "al-Am???n"
 		dynasty = "Askiya"
 		birth_date = 1604.1.1
 		death_Date = 1617.1.1
@@ -442,7 +442,7 @@ change_estate_land_share = {
 
 1612.1.1 = {
 	monarch = {
-		name = "al-Am�n"
+		name = "al-Am???n"
 		dynasty = "Askiya"
 		adm = 4
 		dip = 1
@@ -452,8 +452,8 @@ change_estate_land_share = {
 
 1612.1.1 = {
 	heir = {
-		name = "D�'�d"
-		monarch_name = "D�'�d I"
+		name = "D???'???d"
+		monarch_name = "D???'???d I"
 		dynasty = "Askiya"
 		birth_date = 1600.1.1
 		death_Date = 1635.1.1
@@ -466,7 +466,7 @@ change_estate_land_share = {
 
 1617.1.1 = {
 	monarch = {
-		name = "D�'�d I"
+		name = "D???'???d I"
 		dynasty = "Askiya"
 		adm = 5
 		dip = 0
@@ -476,8 +476,8 @@ change_estate_land_share = {
 
 1617.1.1 = {
 	heir = {
-		name = "Ism�'�l"
-		monarch_name = "Ism�'�l I"
+		name = "Ism???'???l"
+		monarch_name = "Ism???'???l I"
 		dynasty = "Askiya"
 		birth_date = 1600.1.1
 		death_Date = 1639.1.1
@@ -489,7 +489,7 @@ change_estate_land_share = {
 }
 1635.1.1 = {
 	monarch = {
-		name = "Ism�'�l I"
+		name = "Ism???'???l I"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 4
@@ -523,8 +523,8 @@ change_estate_land_share = {
 
 1639.1.1 = {
 	heir = {
-		name = "D�'�d II"
-		monarch_name = "D�'�d II"
+		name = "D???'???d II"
+		monarch_name = "D???'???d II"
 		dynasty = "Askiya"
 		birth_date = 1600.1.1
 		death_date = 1650.1.1
@@ -537,7 +537,7 @@ change_estate_land_share = {
 
 1645.1.1 = {
 	monarch = {
-		name = "D�'�d II"
+		name = "D???'???d II"
 		dynasty = "Askiya"
 		adm = 0
 		dip = 0
@@ -547,8 +547,8 @@ change_estate_land_share = {
 
 1645.1.1 = {
 	heir = {
-		name = "Ism�'�l"
-		monarch_name = "Ism�'�l II"
+		name = "Ism???'???l"
+		monarch_name = "Ism???'???l II"
 		dynasty = "Askiya"
 		birth_date = 1620.1.1
 		death_Date = 1660.1.1
@@ -562,7 +562,7 @@ change_estate_land_share = {
 
 1650.1.1 = {
 	monarch = {
-		name = "Ism�'�l II"
+		name = "Ism???'???l II"
 		dynasty = "Askiya"
 		adm = 2
 		dip = 0
@@ -572,8 +572,8 @@ change_estate_land_share = {
 
 1650.1.1 = {
 	heir = {
-		name = "D�'�d"
-		monarch_name = "D�'�d III"
+		name = "D???'???d"
+		monarch_name = "D???'???d III"
 		dynasty = "Askiya"
 		birth_date = 1650.1.1
 		death_Date = 1680.1.1
@@ -586,7 +586,7 @@ change_estate_land_share = {
 
 1660.1.1 = {
 	monarch = {
-		name = "D�'�d III"
+		name = "D???'???d III"
 		dynasty = "Askiya"
 		adm = 0
 		dip = 3
@@ -596,8 +596,8 @@ change_estate_land_share = {
 
 1660.1.1 = {
 	heir = {
-		name = "Ish�q"
-		monarch_name = "Ish�q"
+		name = "Ish???q"
+		monarch_name = "Ish???q"
 		dynasty = "Askiya"
 		birth_date = 1660.1.1
 		death_Date = 1700.1.1
@@ -610,7 +610,7 @@ change_estate_land_share = {
 
 1680.1.1 = {
 	monarch = {
-		name = "Ish�q"
+		name = "Ish???q"
 		dynasty = "Askiya"
 		adm = 1
 		dip = 1
@@ -644,8 +644,8 @@ change_estate_land_share = {
 
 1700.1.1 = {
 	heir = {
-		name = "D�'�d"
-		monarch_name = "D�'�d IV"
+		name = "D???'???d"
+		monarch_name = "D???'???d IV"
 		dynasty = "Askiya"
 		birth_date = 1700.1.1
 		death_Date = 1761.1.1
@@ -658,7 +658,7 @@ change_estate_land_share = {
 
 1730.1.1 = {
 	monarch = {
-		name = "D�'�d IV"
+		name = "D???'???d IV"
 		dynasty = "Askiya"
 		adm = 2
 		dip = 1

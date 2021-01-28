@@ -76,7 +76,7 @@ capital = 2245	# Niani
 		adm = 1
 		mil = 3
 	}
-} #Actually ruler of a minor state in the Niger delta, refused to assist Mali at the battle of Jenn�
+} #Actually ruler of a minor state in the Niger delta, refused to assist Mali at the battle of Jenn???
 
 1615.1.1 = {
 	monarch = {
@@ -113,7 +113,7 @@ capital = 2245	# Niani
 
 1818.1.1 = {
 	monarch = {
-		name = "S�kou Amadou"
+		name = "S???kou Amadou"
 		dynasty = "Lobbo"
 		dip = 3
 		adm = 3

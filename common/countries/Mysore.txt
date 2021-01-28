@@ -33,7 +33,7 @@ historical_units = {
 
 monarch_names = {
 	"Yadu Raya #0" = 20
-	"Châma Râja #0" = 20
+	"Ch?ma R?ja #0" = 20
 	"Timmaraja #0" = 20
 	"Chamaraja #1" = 50
 	"Bettada Devaraja #0" = 10

@@ -35,22 +35,22 @@ historical_units = {
 
 monarch_names = {
 	"Francisco #0" = 20
-	"José #0 Francisco" = 20
+	"Jos? #0 Francisco" = 20
 	"Diego #0" = 15
-	"José #0 Santiago" = 15
+	"Jos? #0 Santiago" = 15
 	"Juan #0 Vicente" = 15
 	"Vicente #0" = 15
 	"Gabino #0" = 10
 	"Gregorio #0" = 10
-	"José #0 Cecilio" = 10
-	"Manuel #0 José" = 10
-	"Pedro #0 José" = 10
-	"Tomás #0 Antonio" = 10
-	"Agustín #0" = 0
+	"Jos? #0 Cecilio" = 10
+	"Manuel #0 Jos?" = 10
+	"Pedro #0 Jos?" = 10
+	"Tom?s #0 Antonio" = 10
+	"Agust?n #0" = 0
 	"Alberto #0" = 0
-	"Álvaro #0" = 0
+	"?lvaro #0" = 0
 	"Antonio #0" = 0
-	"Bartolomé #0" = 0
+	"Bartolom? #0" = 0
 	"Carlos #0" = 0
 	"Daniel #0" = 0
 	"David #0" = 0
@@ -61,7 +61,7 @@ monarch_names = {
 	"Fernando #0" = 0
 	"Fulgencio #0" = 0
 	"Gabriel #0" = 0
-	"José #0" = 0
+	"Jos? #0" = 0
 	"Leonardo #0" = 0
 	"Manuel #0" = 0
 	"Marcos #0" = 0
@@ -73,7 +73,7 @@ monarch_names = {
 	"Roberto #0" = 0
 	"Santiago #0" = 0
 	"Tadeo #0" = 0
-	"Ulíses #0" = 0
+	"Ul?ses #0" = 0
 	
 	"Violeta #0" = -1
 	"Yessica #0" = -1
@@ -81,11 +81,11 @@ monarch_names = {
 }
 
 leader_names = {
-	Alcantuz Alfaro Anzoátegui Bello Beltrán Berbeo Betancur Bolívar Cabezas Díaz Flores
-	Gaitán Galán "García de Toledo" Gómez "Gutiérrez de Piñeres"
-	Marño Márquez Mazariegos Méndez Michelena Mier "de Miranda" Molina Monagas Monsalve Montúfar
-	Nariño Narvarte O'Baal O'Leary Ortíz Páez Paredo Pastrana Pinilla Pizarro Plata Plaza
-	Roa Rodríguez Rojas Rondón Rosillo Santander Soublette Torres
+	Alcantuz Alfaro Anzo?tegui Bello Beltr?n Berbeo Betancur Bol?var Cabezas D?az Flores
+	Gait?n Gal?n "Garc?a de Toledo" G?mez "Guti?rrez de Pi?eres"
+	Mar?o M?rquez Mazariegos M?ndez Michelena Mier "de Miranda" Molina Monagas Monsalve Mont?far
+	Nari?o Narvarte O'Baal O'Leary Ort?z P?ez Paredo Pastrana Pinilla Pizarro Plata Plaza
+	Roa Rodr?guez Rojas Rond?n Rosillo Santander Soublette Torres
 	Urbaneja Uribe Vargas Viscardo
 }
 

@@ -38,17 +38,17 @@ historical_units = {
 monarch_names = {
 	"Juan #0" = 20
 	"Manuel #0" = 20
-	"José #0 Bernardo" = 15
-	"José #0 Francisco" = 15
-	"Luis #0 José" = 10
-	"Juan #0 José" = 10
+	"Jos? #0 Bernardo" = 15
+	"Jos? #0 Francisco" = 15
+	"Luis #0 Jos?" = 10
+	"Juan #0 Jos?" = 10
 	"Adalberto #0" = 0
-	"Adán #0" = 0
-	"Agustín #0" = 0
+	"Ad?n #0" = 0
+	"Agust?n #0" = 0
 	"Alberto #0" = 0
 	"Alejandro #0" = 0
 	"Ambrosio #0" = 0
-	"Andrés #0" = 0
+	"Andr?s #0" = 0
 	"Antonio #0" = 0
 	"Augusto #0" = 0
 	"David #0" = 0
@@ -60,36 +60,36 @@ monarch_names = {
 	"Francisco Javier #0" = 0
 	"Guillermo #0" = 0
 	"Javier #0" = 0
-	"José #0" = 0
+	"Jos? #0" = 0
 	"Juan #0 Antonio" = 0
 	"Juan #0 Francisco" = 0
 	"Luis #0" = 0
 	"Mariano #0" = 0
-	"Martín #0" = 0
+	"Mart?n #0" = 0
 	"Miguel #0" = 0
 	"Melchor #0" = 0
-	"Nicolás #0" = 0
-	"Óscar #0" = 0
+	"Nicol?s #0" = 0
+	"?scar #0" = 0
 	"Pedro #0" = 0
 	"Pedro #0 Pablo" = 0
 	"Remigio #0" = 0
 	"Ricardo #0" = 0
 	"Sergio #0" = 0
-	"Valentín #0" = 0
+	"Valent?n #0" = 0
 	
-	"Pacífica #0" = -1
+	"Pac?fica #0" = -1
 	"Valencia #0" = -1
 	"Nereida #0" = -1
 }
 
 leader_names = {
-	Aguilar "Álvarez de Arenales" Angulo Ara Astete Barahona Barrios Béjar
-	"Cacma Condori" Carreño Carrión Castelli "Chimo Capac" Condorcanqui Córdoba
-	Galán Gamarra González Guise "Hurtado de Mendoza" Lara "de Luna"
+	Aguilar "?lvarez de Arenales" Angulo Ara Astete Barahona Barrios B?jar
+	"Cacma Condori" Carre?o Carri?n Castelli "Chimo Capac" Condorcanqui C?rdoba
+	Gal?n Gamarra Gonz?lez Guise "Hurtado de Mendoza" Lara "de Luna"
 	"del Mar" Melgar Mendoza Miller Monteagudo Moscoso "Orco Huaranca"
-	Pallardelli Paz Pizarro Pumacahua Quiroga "del Río" "de la Riva Agüero" Rojas
-	Salaverry Sánchez Suárez "de Sucre" "de la Torre" Tovar Ubalde Unánue
-	Velarde Velasco "Vélez de Cordova" "de Vivanco" "de Zela"
+	Pallardelli Paz Pizarro Pumacahua Quiroga "del R?o" "de la Riva Ag?ero" Rojas
+	Salaverry S?nchez Su?rez "de Sucre" "de la Torre" Tovar Ubalde Un?nue
+	Velarde Velasco "V?lez de Cordova" "de Vivanco" "de Zela"
 }
 
 ship_names = {

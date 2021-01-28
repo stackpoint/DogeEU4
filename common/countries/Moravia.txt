@@ -48,20 +48,20 @@ monarch_names = {
 	"Frantisek Josef #0" = 0
 	"Bocek #0" = 0
 	"Jan #1" = 10
-	"Ludvík #0" = 0
-	"Vladimír #0" = 0
+	"Ludv?k #0" = 0
+	"Vladim?r #0" = 0
 	"Petr #0" = 0
-	"Viktorín #0" = 0
+	"Viktor?n #0" = 0
 	"Anton #0" = 0
-	"Josef Václav #0" = 0
+	"Josef V?clav #0" = 0
 	"Karel Josef #0" = 0
-	"Matyáš #0" = 0
+	"Maty?? #0" = 0
 	"Ferdinand #0" = 5
 	"Vratislav #0" = 5
 	"Boleslav #0" = 5
-	"Vilém #0" = 5
+	"Vil?m #0" = 5
 	"Viktor #0" = 0
-	"Jaromír #0" = 5
+	"Jarom?r #0" = 5
 	"Jaroslav #0" = 1
 	"Anezka #0" = -1
 	"Eliska #0" = -1
@@ -72,76 +72,76 @@ monarch_names = {
 }
 
 leader_names = {
-	"z Ditrichštejna"
-	"Haugvicové z Biskupic"
-	"z Lichtenštejna"
+	"z Ditrich?tejna"
+	"Haugvicov? z Biskupic"
+	"z Lichten?tejna"
 	"z Nostic"
 	Petrasch
-	Žerotínové
+	?erot?nov?
 	
-	Zajíc
+	Zaj?c
 	Jiskra
-	Zelezný
+	Zelezn?
 	Capek
 	Thurn
 	Kolowrat
 	Schwarzenberg
 	"z Rozmberka"
-	Komenský
+	Komensk?
 	"z Boskovic"
 	Velen
 	Sokol
-	"ze Zerotína"
+	"ze Zerot?na"
 	"z Husi"
 	"z Polzic"
 	Harant
-	"z Brandýsa"
+	"z Brand?sa"
 	Purkyne
-	"z Veleslavína"
-	"z Rozmitálu"
+	"z Veleslav?na"
+	"z Rozmit?lu"
 	Berka
 	"z Pardubic"
 	"ze Lvovic"
-	"z Kunštátu a Podebrad"
+	"z Kun?t?tu a Podebrad"
 	Kaspar
 	Reiner
-	"z Pernštejna"
+	"z Pern?tejna"
 	"ze Svamberka"
 	"z Vartemberka"
-	Píka
+	P?ka
 	Mansfeld
-	Veliký
-	Syrový
+	Velik?
+	Syrov?
 	"z Otradovic"
 	"z Falkensteina"
 	Pilchramb
 }
 
 ship_names = {
-	"Svatý Vaclav"
-	"Svatá Ludmila"
-	"Svatý Jan Nepomucký"
-	"Svatý Mikulás"
-	"Svatý Jirí"
-	"Svatá Anezká"
-	"Nejsvetejsí Trojice"
-	"Král Karel"
-	"Král Boleslav"
-	"Král Premysl"
-	"Panna Maria Vitezná"
+	"Svat? Vaclav"
+	"Svat? Ludmila"
+	"Svat? Jan Nepomuck?"
+	"Svat? Mikul?s"
+	"Svat? Jir?"
+	"Svat? Anezk?"
+	"Nejsvetejs? Trojice"
+	"Kr?l Karel"
+	"Kr?l Boleslav"
+	"Kr?l Premysl"
+	"Panna Maria Vitezn?"
 	"Jan Hus"
 	"Jan Zizka"
-	"Prokop Holý"
-	"Kníze Bretislav"
+	"Prokop Hol?"
+	"Kn?ze Bretislav"
 	"Premysl Orac"
 	Ctirad
 	Cechy
 	Morava
 	Libuse
-	Odvázný
-	Neporazitelný
-	Rychlý
-	Bystrý
+	Odv?zn?
+	Neporaziteln?
+	Rychl?
+	Bystr?
 	Orel
 	Sokol
 	Slezsko

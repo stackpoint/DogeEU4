@@ -32,7 +32,7 @@ capital = 677 # Lhasa
 
 1479.1.1 = {
 	monarch = {
-		name = "D�ny� Dorje"
+		name = "D???ny??? Dorje"
 		dynasty = "Rinpungpa"
 		adm = 3
 		dip = 3
@@ -52,7 +52,7 @@ capital = 677 # Lhasa
 
 1544.1.1 = {
 	monarch = {
-		name = "T�ndap Tseten"
+		name = "T???ndap Tseten"
 		dynasty = "Rinpungpa"
 		adm = 2
 		dip = 2
@@ -83,7 +83,7 @@ capital = 677 # Lhasa
 
 1605.1.1 = {
 	monarch = {
-		name = "Ph�ntso Namgyal"
+		name = "Ph???ntso Namgyal"
 		dynasty = "Tsangpa"
 		adm = 3
 		dip = 3

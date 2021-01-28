@@ -5,7 +5,7 @@ government_rank = 1
 primary_culture = romanian
 religion = orthodox
 technology_group = eastern
-capital = 161 # T�rgoviste
+capital = 161 # T???rgoviste
 
 
 1386.1.1 = {
@@ -196,7 +196,7 @@ capital = 161 # T�rgoviste
 
 1477.11.1 = {
 	monarch = {
-		name = "Basarab III cel T�nar"
+		name = "Basarab III cel T???nar"
 		dynasty = "Danesti"
 		adm = 1
 		dip = 0
@@ -258,7 +258,7 @@ capital = 161 # T�rgoviste
 
 1559.9.22 = {
 	monarch = {
-		name = "Petru cel T�nar"
+		name = "Petru cel T???nar"
 		dynasty = "Draculesti"
 		birth_date = 1546.1.1
 		adm = 1
@@ -335,7 +335,7 @@ capital = 161 # T�rgoviste
 1632.7.30 = {
 	monarch = {
 		name = "Matei I Basarab"
-		dynasty = "Br�ncovenesti"
+		dynasty = "Br???ncovenesti"
 		birth_date = 1588.1.1
 		adm = 1
 		dip = 3
@@ -388,7 +388,7 @@ capital = 161 # T�rgoviste
 1688.11.10 = {
 	monarch = {
 		name = "Constantin II"
-		dynasty = "Br�ncovenesti"
+		dynasty = "Br???ncovenesti"
 		birth_date = 1654.1.1
 		adm = 1
 		dip = 2

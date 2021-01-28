@@ -44,8 +44,8 @@ capital = 636	# Brunei Town
 
 1415.1.1 = {
 	heir = {
-		name = "Sulaym�n"
-		monarch_name = "Sulaym�n"
+		name = "Sulaym???n"
+		monarch_name = "Sulaym???n"
 		dynasty = "Bolkiah"
 		birth_date = 1400.1.1
 		death_Date = 1485.1.1
@@ -58,7 +58,7 @@ capital = 636	# Brunei Town
 
 1432.1.1 = {
 	monarch = {
-		name = "Sulaym�n"
+		name = "Sulaym???n"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 4
@@ -142,8 +142,8 @@ capital = 636	# Brunei Town
 
 1530.1.1 = {
 	heir = {
-		name = "Sh�h Bruni"
-		monarch_name = "Sh�h Bruni"
+		name = "Sh???h Bruni"
+		monarch_name = "Sh???h Bruni"
 		dynasty = "Bolkiah"
 		birth_date = 1528.1.1
 		death_Date = 1582.1.1
@@ -156,7 +156,7 @@ capital = 636	# Brunei Town
 
 1578.1.1 = {
 	monarch = {
-		name = "Sh�h Brun�"
+		name = "Sh???h Brun???"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 1
@@ -190,8 +190,8 @@ capital = 636	# Brunei Town
 
 1582.1.1 = {
 	heir = {
-		name = "'Abd al-Jal�l"
-		monarch_name = "'Abd al-Jal�l I"
+		name = "'Abd al-Jal???l"
+		monarch_name = "'Abd al-Jal???l I"
 		dynasty = "Bolkiah"
 		birth_date = 1580.1.1
 		death_Date = 1659.1.1
@@ -204,7 +204,7 @@ capital = 636	# Brunei Town
 
 1598.1.1 = {
 	monarch = {
-		name = "'Abd al-Jal�l I"
+		name = "'Abd al-Jal???l I"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 4
@@ -214,8 +214,8 @@ capital = 636	# Brunei Town
 
 1598.1.1 = {
 	heir = {
-		name = "'Abd al-Jal�l II"
-		monarch_name = "'Abd al-Jal�l II"
+		name = "'Abd al-Jal???l II"
+		monarch_name = "'Abd al-Jal???l II"
 		dynasty = "Bolkiah"
 		birth_date = 1590.1.1
 		death_Date = 1660.1.1
@@ -228,7 +228,7 @@ capital = 636	# Brunei Town
 		
 1659.1.1 = {
 	monarch = {
-		name = "'Abd al-Jal�l II"
+		name = "'Abd al-Jal???l II"
 		dynasty = "Bolkiah"
 		adm = 6
 		dip = 2
@@ -238,8 +238,8 @@ capital = 636	# Brunei Town
 
 1659.1.1 = {	
 	heir = {
-		name = "Muhammad 'Al�"
-		monarch_name = "Muhammad 'Al�"
+		name = "Muhammad 'Al???"
+		monarch_name = "Muhammad 'Al???"
 		dynasty = "Bolkiah"
 		birth_date = 1640.1.1
 		death_Date = 1661.11.7
@@ -252,7 +252,7 @@ capital = 636	# Brunei Town
 
 1660.1.1 = {
 	monarch = {
-		name = "Muhammad 'Al�"
+		name = "Muhammad 'Al???"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 2
@@ -286,8 +286,8 @@ capital = 636	# Brunei Town
 
 1661.11.7 = {
 	heir = {
-		name = "Muhy� ad-D�n"
-		monarch_name = "Muhy� ad-D�n"
+		name = "Muhy??? ad-D???n"
+		monarch_name = "Muhy??? ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1650.1.1
 		death_Date = 1690.1.1
@@ -300,7 +300,7 @@ capital = 636	# Brunei Town
 
 1673.1.1 = {
 	monarch = {
-		name = "Muhy� ad-D�n"
+		name = "Muhy??? ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 2
@@ -310,8 +310,8 @@ capital = 636	# Brunei Town
 
 1673.1.1 = {
 	heir = {
-		name = "Nasr ad-D�n"
-		monarch_name = "Nasr ad-D�n"
+		name = "Nasr ad-D???n"
+		monarch_name = "Nasr ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1673.1.1
 		death_Date = 1710.1.1
@@ -324,7 +324,7 @@ capital = 636	# Brunei Town
 
 1690.1.1 = {
 	monarch = {
-		name = "Nasr ad-D�n"
+		name = "Nasr ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 1
@@ -334,8 +334,8 @@ capital = 636	# Brunei Town
 
 1690.1.1 = {
 	heir = {
-		name = "Kam�l ad-D�n"
-		monarch_name = "Kam�l ad-D�n"
+		name = "Kam???l ad-D???n"
+		monarch_name = "Kam???l ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1690.1.1
 		death_Date = 1740.1.1
@@ -348,7 +348,7 @@ capital = 636	# Brunei Town
 
 1710.1.1 = {
 	monarch = {
-		name = "Kam�l ad-D�n"
+		name = "Kam???l ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 2
@@ -358,8 +358,8 @@ capital = 636	# Brunei Town
 
 1710.1.1 = {
 	heir = {
-		name = "Al�' ad-D�n"
-		monarch_name = "Al�' ad-D�n"
+		name = "Al???' ad-D???n"
+		monarch_name = "Al???' ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1690.1.1
 		death_Date = 1762.1.1
@@ -372,7 +372,7 @@ capital = 636	# Brunei Town
 
 1740.1.1 = {
 	monarch = {
-		name = "Al�' ad-D�n"
+		name = "Al???' ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 1
@@ -382,8 +382,8 @@ capital = 636	# Brunei Town
 
 1740.1.1 = {
 	heir = {
-		name = "Sayf ad-D�n"
-		monarch_name = "Sayf ad-D�n I"
+		name = "Sayf ad-D???n"
+		monarch_name = "Sayf ad-D???n I"
 		dynasty = "Bolkiah"
 		birth_date = 1740.1.1
 		death_Date = 1795.7.11
@@ -396,7 +396,7 @@ capital = 636	# Brunei Town
 
 1762.1.1 = {
 	monarch = {
-		name = "Sayf ad-D�n I"
+		name = "Sayf ad-D???n I"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 3
@@ -406,8 +406,8 @@ capital = 636	# Brunei Town
 
 1762.1.1 = {
 	heir = {
-		name = "Muhammad Jam�l ad-D�n"
-		monarch_name = "Muhammad Jam�l ad-D�n"
+		name = "Muhammad Jam???l ad-D???n"
+		monarch_name = "Muhammad Jam???l ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1760.1.1
 		death_Date = 1796.2.17
@@ -420,7 +420,7 @@ capital = 636	# Brunei Town
 
 1795.7.11 = {
 	monarch = {
-		name = "Muhammad Jam�l ad-D�n"
+		name = "Muhammad Jam???l ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 2
@@ -430,8 +430,8 @@ capital = 636	# Brunei Town
 
 1795.7.11 = {
 	heir = {
-		name = "Muhammad T�j ad-D�n"
-		monarch_name = "Muhammad T�j ad-D�n"
+		name = "Muhammad T???j ad-D???n"
+		monarch_name = "Muhammad T???j ad-D???n"
 		dynasty = "Bolkiah"
 		birth_date = 1780.1.1
 		death_Date = 1807.2.14
@@ -444,7 +444,7 @@ capital = 636	# Brunei Town
 
 1796.2.17 = {
 	monarch = {
-		name = "Muhammad T�j ad-D�n"
+		name = "Muhammad T???j ad-D???n"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 3
@@ -454,8 +454,8 @@ capital = 636	# Brunei Town
 
 1796.2.17 = {
 	heir = {
-		name = "Muhammad Kh�n dhul 'Alam"
-		monarch_name = "Muhammad Kh�n dhul 'Alam"
+		name = "Muhammad Kh???n dhul 'Alam"
+		monarch_name = "Muhammad Kh???n dhul 'Alam"
 		dynasty = "Bolkiah"
 		birth_date = 1790.1.1
 		death_Date = 1829.1.1
@@ -468,7 +468,7 @@ capital = 636	# Brunei Town
 
 1807.2.14 = {
 	monarch = {
-		name = "Muhammad Kh�n dhul 'Alam"
+		name = "Muhammad Kh???n dhul 'Alam"
 		dynasty = "Bolkiah"
 		adm = 1
 		dip = 2

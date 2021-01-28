@@ -1,8 +1,8 @@
-# 184 Orléannais + Blois - Principal cities: Orléans
+# 184 Orl?annais + Blois - Principal cities: Orl?ans
 
 owner = ORL
 controller = ORL
-capital = "Orléans"
+capital = "Orl?ans"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic

@@ -48,7 +48,7 @@ monarch_names = {
 	"Emmanuel #0" = 0
 	"Evrard #0" = 0
 	"Foilan #0" = 0
-	"Franc˜s #0" = 0
+	"Franc?s #0" = 0
 	"Gelis #0" = 0
 	"Godefroi #0" = 0
 	"Guiraud #0" = 0
@@ -71,19 +71,19 @@ monarch_names = {
 }
 
 leader_names = {
-	"d'Arnal" Ass˜zat
-	"de Bacalan" "de Barbasan" "de Bernuy" "de Besons" "de Boulb˜ne"
+	"d'Arnal" Ass?zat
+	"de Bacalan" "de Barbasan" "de Bernuy" "de Besons" "de Boulb?ne"
 	"de Casteras" "de Caussada" "de Cornelhan"
 	Delguy Delpuech
 	"d'Espanha" "d'Estadens" "d'Estissac"
 	Fabre Faure
 	"de Galard" "de Goth" "de Grossoles"
 	Imbert "de l'Isle-Jourdain"
-	"de La Broue de Gandelon" "de Lacaze" "de Ladev˜ze" "de Loupiac" 
-	"de Madaillan" "Malvin de Montazet" "Martin de Vivi˜s"
-	"de Nogar˜de" "de Nogaret" Nogu˜s
+	"de La Broue de Gandelon" "de Lacaze" "de Ladev?ze" "de Loupiac" 
+	"de Madaillan" "Malvin de Montazet" "Martin de Vivi?s"
+	"de Nogar?de" "de Nogaret" Nogu?s
 	"d'Ouvrier"
-	Pandaries "de Pelamourgues" Per˜s "de Perricard" Pons "de Pradines" "de Puechgarric"
+	Pandaries "de Pelamourgues" Per?s "de Perricard" Pons "de Pradines" "de Puechgarric"
 	"de Rabastens" "de Ros d'Alzonne"
 	Sabatier "de Sant Felix"
 	Teyssier "de Tholozany" "de Tolosa-Foissac" "de Toulouse-Lautrec"
@@ -94,22 +94,22 @@ leader_names = {
 ship_names = {
 	Aucamville Auzeville-Tolosane Balma Beauzelle "Lo Busca"
 	Blagnac Capitole Castanet-Tolosan Colomiers Cugneaux
-	"Iscla dau Ramier" Lab˜ge Labruc "La Cepiera" "La Pasquiera"
+	"Iscla dau Ramier" Lab?ge Labruc "La Cepiera" "La Pasquiera"
 	Laran Lardenne Launaguet "Lo Grand Redon" "Lo Miralh"
 	"Las Damoiselas" "Los Minimes" "Les Paradous" L'Union Marquisat
-	Montaudran Montrab˜ Muret Pechbonnieu Pechbusque
+	Montaudran Montrab? Muret Pechbonnieu Pechbusque
 	"Pech David" Pibrac Plaisance-du-Touch "Portet sus Garona" Quint-Fonsegrives
 	"Patte d'Oie" Ramonville-St-Agne Rangueil Tournefeuille "Saint Aubin"
-	"St Geni˜s Bellevue" "St Martin du Touch" "Saint Orens" "Saint Sernin" "Sant Simon"
-	Salvetat-St-Gilles Soul˜ "Vielha Tolosa" "Vilanova-Tolosana" "Pytheas" "Lo Phocean"
+	"St Geni?s Bellevue" "St Martin du Touch" "Saint Orens" "Saint Sernin" "Sant Simon"
+	Salvetat-St-Gilles Soul? "Vielha Tolosa" "Vilanova-Tolosana" "Pytheas" "Lo Phocean"
 }
 
 army_names = {
-	 "Armada dau Lauragais"  "Armada dau Minervois"  "Armada dau Cabard˜s" 
-	 "Armada de las Corbieras" "Armada dau Carcass˜s"  "Armada de la Colla Negra"
-	 "Armada dau Quercob"    "Armada dau Raz˜s"      "Armada dau Pays de Sault"
+	 "Armada dau Lauragais"  "Armada dau Minervois"  "Armada dau Cabard?s" 
+	 "Armada de las Corbieras" "Armada dau Carcass?s"  "Armada de la Colla Negra"
+	 "Armada dau Quercob"    "Armada dau Raz?s"      "Armada dau Pays de Sault"
 	 "Armada de Fois"       "Armada dau Couserans"  "Armada de Comminges"
-	 "Armada de Gasconha"   "Armada de Sav˜s"      "Armada dau Pa˜s d'Aur"
-	 "Armada de Bigora"    "Armada de los Capitols" "Armada de l'Albig˜s"
+	 "Armada de Gasconha"   "Armada de Sav?s"      "Armada dau Pa?s d'Aur"
+	 "Armada de Bigora"    "Armada de los Capitols" "Armada de l'Albig?s"
 	 "Armada de $PROVINCE$" 
 }

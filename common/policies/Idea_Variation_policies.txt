@@ -7235,7 +7235,7 @@ idea_variation_act_90 = {
 }
 
 ########################################################
-###### Mercenary Army / S�ldnerheer
+###### Mercenary Army / S???ldnerheer
 ########################################################
 
 idea_variation_act_91 = {
@@ -7523,7 +7523,7 @@ idea_variation_act_99 = {
 }
 
 ########################################################
-###### Weapon Quality / Waffenqualit�t
+###### Weapon Quality / Waffenqualit???t
 ########################################################
 
 idea_variation_act_100 = {

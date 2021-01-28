@@ -363,7 +363,7 @@ prussian_missions_main_slot1 = {
 ##############################################################################################################################
 # 												European Expansion Tree
 # A One-Sided Partition
-# "Historically, the three partitions of the Polish–Lithuanian Commonwealth that took place towards the end of the 18th century and ended the existence of the state were conducted by Habsburg Austria, the Kingdom of Prussia, and the Russian Empire which divided up the Commonwealth lands among themselves progressively in the process of territorial seizures and annexations. However, what need have we to entertain the pretenses of these would-be powers? We will divide the lands of Poland-Lithuania as we see fit."
+# "Historically, the three partitions of the Polish???Lithuanian Commonwealth that took place towards the end of the 18th century and ended the existence of the state were conducted by Habsburg Austria, the Kingdom of Prussia, and the Russian Empire which divided up the Commonwealth lands among themselves progressively in the process of territorial seizures and annexations. However, what need have we to entertain the pretenses of these would-be powers? We will divide the lands of Poland-Lithuania as we see fit."
 # Meant to provide a path for expanding into Prussia's historical territory early, and ahistorical expansion late
 # Player must complete Conquest of Greater Poland, 
 # Effect: Polish partitions Modifier
@@ -600,7 +600,7 @@ prussian_missions_main_slot1 = {
 ##############################################################################################################################
 # 												European Expansion Tree
 # Purchase the Sejm
-# "During the reign of Władysław IV (1632–48), the liberum veto was developed, a policy of parliamentary procedure based on the assumption of the political equality of every "gentleman", with the corollary that unanimous consent was needed for all measures. The liberum veto also provided openings for foreign diplomats to get their ways, through bribing nobles to exercise it. Thus, Poland–Lithuania in its final period was in a state of disorder and not a completely sovereign state, and almost as a vassal state, or in modern terms, a satellite nation, with Russian tsars effectively using their coffers to choose Polish kings. In the extreme this meant that, with enough gold, the entire sovereignty of Poland could be bought."
+# "During the reign of W??adys??aw IV (1632???48), the liberum veto was developed, a policy of parliamentary procedure based on the assumption of the political equality of every "gentleman", with the corollary that unanimous consent was needed for all measures. The liberum veto also provided openings for foreign diplomats to get their ways, through bribing nobles to exercise it. Thus, Poland???Lithuania in its final period was in a state of disorder and not a completely sovereign state, and almost as a vassal state, or in modern terms, a satellite nation, with Russian tsars effectively using their coffers to choose Polish kings. In the extreme this meant that, with enough gold, the entire sovereignty of Poland could be bought."
 # Meant to provide a path for expanding into Prussia's historical territory early, and ahistorical expansion late
 # Player must complete Conquest of Greater Poland, 
 # Effect: Polish partitions Modifier
@@ -1384,7 +1384,7 @@ prussian_missions_main_slot3 = {
 ##############################################################################################################################
 # 													Reform Tree
 # An Army with a Country
-# Starting with the establishment of garrisons in Brandenberg and Prussia, the Prussian army slowly slowly evolved into a state apparatus with deep ties across all of Prussian social strata. In 1776 the Prussian army consisted of 187,000 soldiers, 90,000 of whom were Prussian subjects in central and eastern Prussia. The remainder were foreign (both German and non-German) volunteers or conscripts. By the end of Frederick Williams's reign, the army had become nearly inseparable from Prussian society and numbered 200,000 soldiers, making it the third largest in Europe after the armies of Russia and Austria. The social classes were all expected to serve the state and its army — the nobility led the army, the middle class supplied the army, and the peasants composed the army. This reality led Minister Friedrich von Schrötter to remark that, "Prussia was not a country with an army, but an army with a country".
+# Starting with the establishment of garrisons in Brandenberg and Prussia, the Prussian army slowly slowly evolved into a state apparatus with deep ties across all of Prussian social strata. In 1776 the Prussian army consisted of 187,000 soldiers, 90,000 of whom were Prussian subjects in central and eastern Prussia. The remainder were foreign (both German and non-German) volunteers or conscripts. By the end of Frederick Williams's reign, the army had become nearly inseparable from Prussian society and numbered 200,000 soldiers, making it the third largest in Europe after the armies of Russia and Austria. The social classes were all expected to serve the state and its army ??? the nobility led the army, the middle class supplied the army, and the peasants composed the army. This reality led Minister Friedrich von Schr??tter to remark that, "Prussia was not a country with an army, but an army with a country".
 # Player must have max manpower over 80k and military tech 10>
 # Effect: Improve professionalism and tradition, add absolutism
 ##############################################################################################################################
@@ -2861,7 +2861,7 @@ BRA_trade_company_region_abroad = {
 ##############################################################################################################################
 # 												Trade Tree
 # Strike the Sleeve
-# "The Ärmelkanal has long been the eye of conflict amongst British, French, and Dutch factors. Having secured the continental ports, it is time for a new balance of trade."
+# "The ??rmelkanal has long been the eye of conflict amongst British, French, and Dutch factors. Having secured the continental ports, it is time for a new balance of trade."
 # Standalone trade missions 
 # Effect: permanent merchant + trade buffs
 ##############################################################################################################################

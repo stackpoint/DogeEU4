@@ -5,4 +5,4 @@ government_rank = 1
 primary_culture = prussian
 religion = catholic
 technology_group = western
-capital = 41	# K�nigsberg
+capital = 41	# K???nigsberg

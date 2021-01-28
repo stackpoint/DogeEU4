@@ -5,7 +5,7 @@ primary_culture = hessian
 add_accepted_culture = hannoverian
 religion = catholic
 technology_group = western
-capital = 85	# K�ln
+capital = 85	# K???ln
 fixed_capital = 85 # Cannot move capital away from this province & no power cost to move to it
 
 1372.1.1 = {

@@ -34,7 +34,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1500.1.1 = {
 	monarch = {
-		name = "Mans�r Sh�h" # Fictional
+		name = "Mans???r Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 3
@@ -44,7 +44,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1530.1.1 = {
 	monarch = {
-		name = "Ma'ayat Sh�h" # Fictional
+		name = "Ma'ayat Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 3
@@ -54,7 +54,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1560.1.1 = {
 	monarch = {
-		name = "Mu'azzam Sh�h" # Fictional
+		name = "Mu'azzam Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 3
 		dip = 2
@@ -68,7 +68,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1590.1.1 = {
 	monarch = {
-		name = "Mahm�d Sh�h" # Fictional
+		name = "Mahm???d Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 3
 		dip = 2
@@ -78,7 +78,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1620.1.1 = {
 	monarch = {
-		name = "Muhammad Sh�h" # Fictional
+		name = "Muhammad Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 2
@@ -88,7 +88,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1650.1.1 = {
 	monarch = {
-		name = "Sulaym�n Badr Sh�h" # Fictional
+		name = "Sulaym???n Badr Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 3
@@ -108,7 +108,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1710.1.1 = {
 	monarch = {
-		name = "Mans�r Sh�h" # Fictional
+		name = "Mans???r Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 2
@@ -118,7 +118,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1740.1.1 = {
 	monarch = {
-		name = "Sulaym�n Badr Sh�h" # Fictional
+		name = "Sulaym???n Badr Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 3
@@ -138,7 +138,7 @@ capital = 593	# Nakhon Si Thammarat
 
 1800.1.1 = {
 	monarch = {
-		name = "'Abd ar-Rahm�n Sh�h" # Fictional
+		name = "'Abd ar-Rahm???n Sh???h" # Fictional
 		dynasty = "Ligor"
 		adm = 2
 		dip = 2

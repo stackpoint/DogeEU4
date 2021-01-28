@@ -19,7 +19,7 @@ capital = 1816
 
 1294.5.10 = {
 	monarch = {
-		name = "Tem�r"
+		name = "Tem???r"
 		dynasty = "Borjigin"
 		adm = 4
 		dip = 4
@@ -29,7 +29,7 @@ capital = 1816
 
 1307.6.21 = {
 	monarch = {
-		name = "K�l�g"
+		name = "K???l???g"
 		dynasty = "Borjigin"
 		adm = 4
 		dip = 3
@@ -59,7 +59,7 @@ capital = 1816
 
 1323.10.4 = {
 	monarch = {
-		name = "Yes�n Tem�r"
+		name = "Yes???n Tem???r"
 		dynasty = "Borjigin"
 		adm = 2
 		dip = 3
@@ -121,7 +121,7 @@ capital = 1816
 
 1333.7.19 = {
 	monarch = {
-		name = "Toghon Tem�r"
+		name = "Toghon Tem???r"
 		dynasty = "Borjigin"
 		adm = 1
 		dip = 4

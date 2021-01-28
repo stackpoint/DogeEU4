@@ -57,11 +57,11 @@ leader_names = {
 	"Naaket L'ahi" "Tsin Sikaadnii" "Biih Bitoodnii" "Tl'ogi" "Todik'ozhi" "K'aahanaanii" "Todich'ii'nii" "Totshnii"
 	"Hooghan Lani" "Dzaaneez Lani" "Tse Deeshgizhnii" "Hasht L'ishnii" Tabaaha Haltsooi "To Baazhni'azhi" "Tachii'nii"
 	"Kin Ichii'nii" Tsenjikini Dibelzhini "Ma'ii Deeshgiizhinii" "Ashinuii" "Keha'atiinii" "To'aheedliinii"
-	"Tsi'naajinii" "Deeshchii'nii" "Tl'izi Lani" "Tl'aaschi'I" Tsenabahituii Nashashi "T'ÿschebaanii" "Jaa'yaaloolii"
+	"Tsi'naajinii" "Deeshchii'nii" "Tl'izi Lani" "Tl'aaschi'I" Tsenabahituii Nashashi "T'?schebaanii" "Jaa'yaaloolii"
 	"Keha'atiintii" "Naashaashi"
 }
 
 ship_names = {
-	Tééchaa'i Tii Ayani Biih Ma'ittsoh Shash Nashdoitsoh Tabaah ma'ii Golizhii Dahsani
+	T??chaa'i Tii Ayani Biih Ma'ittsoh Shash Nashdoitsoh Tabaah ma'ii Golizhii Dahsani
 	Atsa Gaagii Ne'eshjaa Ti'iish Tsis'na
 }

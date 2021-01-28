@@ -70,8 +70,8 @@ add_accepted_culture = bengali
 
 1415.1.1 = {
 	heir = {
-		name = "Susenph�"
-		monarch_name = "Susenph�"
+		name = "Susenph???"
+		monarch_name = "Susenph???"
 		dynasty = "Khen"
 		birth_date = 1410.1.1
 		death_date = 1440.1.1
@@ -84,7 +84,7 @@ add_accepted_culture = bengali
 
 1439.1.1 = {
 	monarch = {
-		name = "Susenph�"
+		name = "Susenph???"
 		dynasty = "Khen"
 		ADM = 1
 		DIP = 2
@@ -94,8 +94,8 @@ add_accepted_culture = bengali
 
 1439.1.1 = {
 	heir = {
-		name = "Niladhwaj�"
-		monarch_name = "Niladhwaj�"
+		name = "Niladhwaj???"
+		monarch_name = "Niladhwaj???"
 		dynasty = "Khen"
 		birth_date = 1420.1.1
 		death_date = 1460.1.1
@@ -108,7 +108,7 @@ add_accepted_culture = bengali
 
 1440.1.1 = {
 	monarch = {
-		name = "Niladhwaj�"
+		name = "Niladhwaj???"
 		dynasty = "Khen"
 		ADM = 2
 		DIP = 1

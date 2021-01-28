@@ -40,7 +40,7 @@ capital = 2190
 
 1246.1.1 = {
 	monarch = {
-		name = "G�y�k"
+		name = "G???y???k"
 		dynasty = "Borjigin"
 		adm = 6
 		dip = 6
@@ -50,7 +50,7 @@ capital = 2190
 
 1251.1.1 = {
 	monarch = {
-		name = "M�ngke"
+		name = "M???ngke"
 		dynasty = "Borjigin"
 		adm = 6
 		dip = 6

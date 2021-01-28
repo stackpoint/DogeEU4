@@ -62,13 +62,13 @@ country_decisions = {
 			is_emperor = no
 			
 
-			owns_core_province = 45 	# L�beck
+			owns_core_province = 45 	# L???beck
 			owns_core_province = 47		# Stralsund
 			owns_core_province = 50		# Berlin
 			owns_core_province = 52		# Magdeburg
 			owns_core_province = 83		# Nassau
-			owns_core_province = 85 	# K�ln
-			owns_core_province = 86		# M�nster
+			owns_core_province = 85 	# K???ln
+			owns_core_province = 86		# M???nster
 			owns_core_province = 1758	# Hannover
 			owns_core_province = 1762	# Kassel
 			owns_core_province = 1874	# Bremen
@@ -76,7 +76,7 @@ country_decisions = {
 			owns_core_province = 1931	# Ostfriesland
 			owns_core_province = 2995	# Stolp
 
-			owns_core_province = 41		# K�nigsberg
+			owns_core_province = 41		# K???nigsberg
 			owns_core_province = 254	# Posen
 			owns_core_province = 1775	# Holstein
 			owns_core_province = 1841	# Marienburg

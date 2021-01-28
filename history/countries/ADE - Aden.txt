@@ -12,7 +12,7 @@ capital = 388	# Aden
 
 1444.1.1 = {
 	monarch = {
-		name = "Sal�h ad-Din 'Amir I"
+		name = "Sal???h ad-Din 'Amir I"
 		dynasty = "Tahirid"
 		adm = 4
 		dip = 4
@@ -22,8 +22,8 @@ capital = 388	# Aden
 
 1447.1.1 = {
 	heir = {
-		name = "'Al�"
-		monarch_name = "'Al�"
+		name = "'Al???"
+		monarch_name = "'Al???"
 		dynasty = "Tahirid"
 		birth_date = 1420.1.1
 		death_date = 1478.5.12
@@ -36,7 +36,7 @@ capital = 388	# Aden
 
 1466.7.2 = {
 	monarch = {
-		name = "'Al�"
+		name = "'Al???"
 		dynasty = "Tahirid"
 		adm = 1
 		dip = 1
@@ -46,8 +46,8 @@ capital = 388	# Aden
 
 1466.7.2 = {
 	heir = {
-		name = "'Abd al-Wahh�b"
-		monarch_name = "'Abd al-Wahh�b"
+		name = "'Abd al-Wahh???b"
+		monarch_name = "'Abd al-Wahh???b"
 		dynasty = "Tahirid"
 		birth_date = 1450.1.1
 		death_date = 1489.4.9
@@ -60,7 +60,7 @@ capital = 388	# Aden
 
 1478.5.12 = {
 	monarch = {
-		name = "'Abd al-Wahh�b"
+		name = "'Abd al-Wahh???b"
 		dynasty = "Tahirid"
 		adm = 2
 		dip = 2
@@ -70,8 +70,8 @@ capital = 388	# Aden
 
 1478.5.12 = {
 	heir = {
-		name = "Sal�h ad-Din 'Amir"
-		monarch_name = "Sal�h ad-Din 'Amir II"
+		name = "Sal???h ad-Din 'Amir"
+		monarch_name = "Sal???h ad-Din 'Amir II"
 		dynasty = "Tahirid"
 		birth_date = 1460.1.1
 		death_Date = 1517.5.16
@@ -84,7 +84,7 @@ capital = 388	# Aden
 
 1489.4.9 = {
 	monarch = {
-		name = "Sal�h ad-Din 'Amir II"
+		name = "Sal???h ad-Din 'Amir II"
 		dynasty = "Tahirid"
 		adm = 2
 		dip = 3

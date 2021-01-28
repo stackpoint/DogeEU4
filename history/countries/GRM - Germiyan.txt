@@ -5,7 +5,7 @@ add_government_reform = beylik
 primary_culture = turkish
 religion = sunni
 technology_group = ottoman
-capital = 322 # K�tahya
+capital = 322 # K???tahya
 #religious_school = hanafi_school
 
 1402.8.1 = {

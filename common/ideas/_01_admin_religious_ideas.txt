@@ -1264,7 +1264,7 @@ romuva0 = {
 	}
 
 	romuva4 = {
-		missionaries = 1    # geschichten erz�hler
+		missionaries = 1    # geschichten erz???hler
 		missionary_maintenance_cost = -0.1
 	}
 
@@ -1357,7 +1357,7 @@ suomi0 = {
 		heir_chance = 0.3 # Akka
 	}
 	suomi3 = {
-		missionaries = 1    # geschichten erz�hler
+		missionaries = 1    # geschichten erz???hler
 		missionary_maintenance_cost = -0.1
 	}
 
@@ -1425,7 +1425,7 @@ suomi0 = {
  
  
 ########################################################
-####### J�dische Ideen / Jewish Ideas
+####### J???dische Ideen / Jewish Ideas
 ########################################################
 
 
@@ -1549,7 +1549,7 @@ slav0 = {
 		land_morale = 0.05 # Hausgeister
 	}
 	slav3 = {
-		missionaries = 1    # geschichten erz�hler
+		missionaries = 1    # geschichten erz???hler
 		missionary_maintenance_cost = -0.1
 	}
 

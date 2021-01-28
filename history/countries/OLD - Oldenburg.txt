@@ -225,8 +225,8 @@ fixed_capital = 55 # Cannot move capital away from this province & no power cost
 
 1583.11.10 = {
 	heir = {
-		name = "Anton G�nther"
-		monarch_name = "Anton G�nther I"
+		name = "Anton G???nther"
+		monarch_name = "Anton G???nther I"
 		dynasty = "von Oldenburg"
 		birth_date = 1583.11.10
 		death_date = 1667.6.19
@@ -239,7 +239,7 @@ fixed_capital = 55 # Cannot move capital away from this province & no power cost
 
 1603.11.13 = {
 	monarch = {
-		name = "Anton G�nther I"
+		name = "Anton G???nther I"
 		dynasty = "von Oldenburg"
 		birth_date = 1583.11.10
 		adm = 4
@@ -252,7 +252,7 @@ fixed_capital = 55 # Cannot move capital away from this province & no power cost
 
 1773.12.11 = {
 	monarch = {
-		name = "Paul I von Ru�land "
+		name = "Paul I von Ru???land "
 		dynasty = "von Oldenburg"
 		birth_date = 1754.10.1
 		adm = 1

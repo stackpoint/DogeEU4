@@ -1,4 +1,4 @@
-#224 - Andaluc�a
+#224 - Andaluc???a
 
 owner = SEV	#Juan II of Castille
 controller = SEV

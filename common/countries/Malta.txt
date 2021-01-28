@@ -101,7 +101,7 @@ ship_names = {
 	"Gastone de Murols"
 	"Gilbert of Syria"
 	"Roger de Moulins"
-	"Hélion de Villeneuve"
+	"H?lion de Villeneuve"
 	"Hermangard d'Asp"
 	"Garnier de Naplous"
 	"Geoffroy de Donjon"

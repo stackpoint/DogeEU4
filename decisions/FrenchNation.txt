@@ -55,8 +55,8 @@ country_decisions = {
 						owns_core_province = 201
 					}
 				}
-				province_id = 183	# �le-de-France
-				province_id = 184	# Orl�annais
+				province_id = 183	# ???le-de-France
+				province_id = 184	# Orl???annais
 				province_id = 186	# Champagne
 				province_id = 178
 				province_id = 190
@@ -74,8 +74,8 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no			
 			NOT = { exists = FRA }
-			owns_core_province = 183	# �le-de-France
-			owns_core_province = 184	# Orl�annais
+			owns_core_province = 183	# ???le-de-France
+			owns_core_province = 184	# Orl???annais
 			owns_core_province = 186	# Champagne
 			owns_core_province = 178 	# Anjou
 			owns_core_province = 190	# Bourbonnais

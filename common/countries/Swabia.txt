@@ -112,32 +112,32 @@ monarch_names = {
 leader_names = {
 	Breitmayer Danhauser Gohl Gute Helber Henke 
 	Kircher Klein Knapp Kopp Meck Roether Schupp
-	Stütz Sülzle Veit Vietz Vogel Weber Wieland Wurst
+	St?tz S?lzle Veit Vietz Vogel Weber Wieland Wurst
 	Ortlieb
 	Merkel
 	Humpis
 	Hummelberger
-	Börner
+	B?rner
 	Pfeilsticker
 	Susenbrot
 	Buchner
 	Beich
-	Börrner
+	B?rrner
 }
 
 ship_names = {
 	Wirtemberg "Kaiser Friedrich I" "Kaiser Friedrich II"
-	"Gräfin Mechthild" Stuttgart "Kaiser Heinrich VI"
+	"Gr?fin Mechthild" Stuttgart "Kaiser Heinrich VI"
 	Ravensburg Konstanz Breisgau
-	Marbach Neuffen Balingen Mömpelgard
+	Marbach Neuffen Balingen M?mpelgard
 
 	"St. Sebaldus" Memmingen  "St. Kilian" "Tassilo III"
-	"König Arnulf" "Graf von Bogen"
+	"K?nig Arnulf" "Graf von Bogen"
 	"Graf von Sulzbach" "Graf von Diepolding" Otto
 	Augsburg Andechs Burgau Diessen Friedberg Kempten Lindau
 	Memmingen Mindel Oettingen Wolfstein Konstanz
 }
 
 army_names = {
-	"Erste Schwäbische Armee" "Zweite Schwäbische Armee" "Dritte Schwäbische Armee" "Armee von $PROVINCE$" 
+	"Erste Schw?bische Armee" "Zweite Schw?bische Armee" "Dritte Schw?bische Armee" "Armee von $PROVINCE$" 
 }

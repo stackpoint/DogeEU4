@@ -26,7 +26,7 @@ discovered_by = north_american
 	controller = IRO
 	culture = iroquois
 } #Taken by Iroquois in Beaver Wars.
-1659.1.1 = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1659.1.1 = { discovered_by = FRA } # M?dard Chouart Des Groseilliers
 1671.1.1 = { discovered_by = ENG } # Abraham Wood
 1701.8.14 = {
 	owner = ---

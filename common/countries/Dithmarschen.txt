@@ -51,26 +51,26 @@ leader_names = {
 	Carl
 	Frese
 	Giesebert
-	Köster
+	K?ster
 	Nann
 	Rachel
 	Reimers
 	Russe
 	Swyn
 	Wiben
-	"von Hochwöhrden"
+	"von Hochw?hrden"
 	"von Wiemerstedt"
 }
 
 ship_names = {
 	Dahme
-	Grömtz Grossenbrode
+	Gr?mtz Grossenbrode
 	Kiel Kellenhusen
 	Neustadt
 	Ostsee 
 	Scharbeutz Sierksdorf
 	Wedel
-	"Telse von Hochwöhrden"
+	"Telse von Hochw?hrden"
 }
 
 

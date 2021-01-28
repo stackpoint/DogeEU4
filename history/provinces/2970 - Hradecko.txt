@@ -3,7 +3,7 @@
 owner = BOH
 controller = BOH
 add_core = BOH
-capital = "Hradec Kr�lov�"
+capital = "Hradec Kr???lov???"
 culture = czech
 religion = hussite
 trade_goods = grain 

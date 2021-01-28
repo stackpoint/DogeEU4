@@ -33,7 +33,7 @@
 2481	= "	Bae o' Coos	"
 997	= "	Bagh Iasg	"
 482	= "	Bahama Eilands	"
-962	= "	Baile Earra-Ghàidheil	"
+962	= "	Baile Earra-Gh?idheil	"
 807	= "	Baile nan Righ	"
 847	= "	Balliol	"
 2824	= "	Balvenie	"

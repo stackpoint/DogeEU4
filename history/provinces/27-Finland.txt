@@ -1,4 +1,4 @@
-#Finland, incl. Åbo.
+#Finland, incl. ?bo.
 
 owner = FIN
 controller = FIN
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 2
-capital = "Åbo"
+capital = "?bo"
 is_city = yes
 #fort_15th = yes
 discovered_by = western

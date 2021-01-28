@@ -38,7 +38,7 @@ capital = 677 # Lhasa
 
 1481.1.1 = {
 	monarch = {
-		name = "D�n-y� Dorje"
+		name = "D???n-y??? Dorje"
 		adm = 1
 		dip = 3
 		mil = 0
@@ -56,7 +56,7 @@ capital = 677 # Lhasa
 
 1550.1.1 = {
 	monarch = {
-		name = "T�ndap Tseten"
+		name = "T???ndap Tseten"
 		adm = 2
 		dip = 2
 		mil = 1
@@ -83,7 +83,7 @@ capital = 677 # Lhasa
 
 1603.1.1 = {
 	monarch = {
-		name = "Ph�ntso Namgye"
+		name = "Ph???ntso Namgye"
 		adm = 3
 		dip = 3
 		mil = 2

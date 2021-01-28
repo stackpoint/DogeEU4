@@ -4,12 +4,12 @@ add_government_reform = presidential_despot_reform
 technology_group = western
 religion = catholic
 primary_culture = castillian
-capital = 778	# Santa Mar�a del Buen Ayre
+capital = 778	# Santa Mar???a del Buen Ayre
 
 
 1815.1.31 = {
 	monarch = {
-		name = "Carlos Mar�a de Alvear"
+		name = "Carlos Mar???a de Alvear"
 		adm = 2
 		dip = 1
 		mil = 4

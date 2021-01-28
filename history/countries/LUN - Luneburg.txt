@@ -5,10 +5,10 @@ government_rank = 1
 technology_group = western
 primary_culture = lower_saxon
 religion = catholic
-capital = 53 # L�neburg
+capital = 53 # L???neburg
 fixed_capital = 53 # Cannot move capital away from this province & no power cost to move to it
 
-# L�neburg (Dukes of Braunschweig-L�neburg)
+# L???neburg (Dukes of Braunschweig-L???neburg)
 1373.1.1 = {
 	monarch = {
 		name = "Bernhard I"

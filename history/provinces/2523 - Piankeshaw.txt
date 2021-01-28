@@ -24,7 +24,7 @@ discovered_by = north_american
 	is_city = yes
 	trade_goods = fur 
 } #Extent of the Miami around the start of the Beaver Wars
-1659.1.1 = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1659.1.1 = { discovered_by = FRA } # M?dard Chouart Des Groseilliers
 1679.1.1 = { discovered_by = ENG }
 1680.1.1 = { 
 	owner = IRO

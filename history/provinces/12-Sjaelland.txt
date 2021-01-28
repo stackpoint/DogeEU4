@@ -1,4 +1,4 @@
-#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+#Sjaelland, incl. K?benhavn, Roskilde, Helsing?r, Ringsted
 
 add_core = ZEA
 owner = ZEA
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = fish
 base_manpower = 4
-capital = "København"
+capital = "K?benhavn"
 is_city = yes
 discovered_by = eastern
 discovered_by = western

@@ -264,7 +264,7 @@ country_event = { # We? We Found the?
 		add_prestige = 50
 		163 = {
 			if = {
-				#Has 1° lvl fort
+				#Has 1?? lvl fort
 				limit = {
 					has_building = fort_15th
 				}
@@ -274,7 +274,7 @@ country_event = { # We? We Found the?
 					cost = 0
 				}
 			}
-			#Has 2° lvl fort
+			#Has 2?? lvl fort
 			else_if = {
 				limit = {
 					has_building = fort_16th
@@ -285,7 +285,7 @@ country_event = { # We? We Found the?
 					cost = 0
 				}
 			}
-			#Has 3° lvl fort
+			#Has 3?? lvl fort
 			else_if = {
 				limit = {
 					has_building = fort_17th

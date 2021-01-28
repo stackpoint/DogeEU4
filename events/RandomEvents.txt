@@ -10754,7 +10754,7 @@ country_event = {
 	}
 }
 
-### Scripted by Sara Wendel-Örtqvist ###
+### Scripted by Sara Wendel-??rtqvist ###
 
 namespace = random_event
 

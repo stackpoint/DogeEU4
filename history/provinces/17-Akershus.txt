@@ -1,4 +1,4 @@
-#Akershus, incl. Oslo (Christiania), Tönsberg
+#Akershus, incl. Oslo (Christiania), T?nsberg
  
 owner = NOR
 controller = NOR
@@ -22,7 +22,7 @@ center_of_trade = 1
 1531.11.1 = { unrest = 7 } # The Return of Christian II
 1532.7.15 = { unrest = 0 } # The Capture of Christian II
 1536.1.1 = { religion = protestant } # Unknown date
-1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unknown date)
+1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handf?stningen'(Unknown date)
 1630.1.1 = { trade_goods = naval_supplies } # Approximate date
 
 1814.1.14 = {

@@ -18,7 +18,7 @@ capital = 852	# Mexico
 
 1811.7.30 = {
 	monarch = {
-		name = "Jos� Mar�a Morelos"
+		name = "Jos??? Mar???a Morelos"
 		adm = 4
 		dip = 3
 		mil = 4

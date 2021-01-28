@@ -40,7 +40,7 @@ monarch_names = {
 	"Anton #0" = 40
 	"Moritz #1" = 20
 	"Adolf #0" = 20
-	"Anton Günther #0" = 20
+	"Anton G?nther #0" = 20
 	"Christoph #0" = 20
 	"Dietrich #0" = 20
 	"Friedrich August #0" = 20
@@ -82,13 +82,13 @@ monarch_names = {
 }
 
 leader_names = { 
-	Becker Behrmann Brockstede Büsing Eilers Engel
+	Becker Behrmann Brockstede B?sing Eilers Engel
 	Franz Harms Hinrichs Kleen Lammers Luchte Meyer
-	Munderloh Prüß Renke Roth Schmitt Stolle
+	Munderloh Pr?? Renke Roth Schmitt Stolle
 }
 
 ship_names = {
-	"Graf Christian" "Graf Anton Günther"
+	"Graf Christian" "Graf Anton G?nther"
 	Elsfleth Hude Hatten Wardenburg Edewecht
 	Zwischenahn Weifelstede Rastede
 }

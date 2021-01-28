@@ -300,7 +300,7 @@ fixed_capital = 76 # Cannot move capital away from this province & no power cost
 
 1803.2.11 = {
 	monarch = {
-		name = "Ferdinand von �sterreich"
+		name = "Ferdinand von ???sterreich"
 		birth_date = 1769.5.6
 		adm = 0
 		dip = 1

@@ -38,13 +38,13 @@ historical_units = {
 
 monarch_names = {
 	"Ramazan #1" = 10
-	"Ibrâhim #2" = 30
+	"Ibr?him #2" = 30
 	"Ahmed #1" = 20
 	"Hamza #1" = 20
 	"Mehmed #1" = 40
-	"Eylük #1" = 10
-	"Dündar #1" = 10
-	"Ömer #0" = 10
+	"Eyl?k #1" = 10
+	"D?ndar #1" = 10
+	"?mer #0" = 10
 	"Halil #0" = 10
 	"Mahmud #0" = 10
 	"Selim #0" = 10
@@ -52,13 +52,13 @@ monarch_names = {
 	"Kubad #0" = 10
 	"Dervish #0" = 10
 	"Mansur #0" = 10
-	"Izeddîn #0" = 5
-	"Sihâbeddîn #0" = 5
-	"Giyâseddîn #0" = 5
-	"Pîrî #0" = 5
-	"Pîr #0" = 5
+	"Izedd?n #0" = 5
+	"Sih?bedd?n #0" = 5
+	"Giy?sedd?n #0" = 5
+	"P?r? #0" = 5
+	"P?r #0" = 5
 	"Ilyas #0" = 0
-	"Süleyman #0" = 0
+	"S?leyman #0" = 0
 	"Cihangir #0" = 0
 	"Isa #0" = 0
 	"Musa #0" = 0
@@ -68,7 +68,7 @@ monarch_names = {
 	"Ali #0" = 0
 	"Davud #0" = 0
 	"Hasan #0" = 0
-	"Hüseyin #0" = 0
+	"H?seyin #0" = 0
 	"Kasim #0" = 0
 	"Korkud #0" = 0
 	"Murad #0" = 0
@@ -84,37 +84,37 @@ monarch_names = {
 leader_names = {
 	Alemdar Amasyali Ayas
 	Bali Barbaros Bayram
-	Cezzar Çandarli Çelebi Cerrah Çerkes Civan Çuhadar
+	Cezzar ?andarli ?elebi Cerrah ?erkes Civan ?uhadar
 	Damad Dervis Defterdar
-	Gedik Gazi Gümülcineli Gürcü
+	Gedik Gazi G?m?lcineli G?rc?
 	Hadim Hekimoglu Hersekli
-	Köprülü Kemal Küçük Koca Karamanli Köse Kara Kanijeli Kemankes Kaymak Kavalali
+	K?pr?l? Kemal K???k Koca Karamanli K?se Kara Kanijeli Kemankes Kaymak Kavalali
 	Ishak Izzed
 	Lala Lefkeli
-	Malkoç Müezzinzade
+	Malko? M?ezzinzade
 	Nevsehirli Nisanci
-	Oruç Uluç Osmancikli Ohrili Oflu
+	Oru? Ulu? Osmancikli Ohrili Oflu
 	Rumi
 	Piri Pargali Piyale Pehlivan
 	Salih Sokullu Sari Silahdar Semiz Serdar
 	Topal Tayyar Turgut Tarhuncu
 	Veli
-	Yemisçi
+	Yemis?i
 }
 
 ship_names = {
-	Adana Tarsus Mersin Erdemli Asmali Sis Agaçli Misis
-	Osmaniye Konstantiniyye Hüdavendigar Muradiye Mesudiye Hamidiye Resadiye
-	Heybetnüma Tayyar Sultanhisar Gelibolu Alparslan Timsah Mecidiye Mahabet Ejder
-	Yunus Sivrihisar Akhisar Akka Aziziye Bereket Galata Kozlu Kuzlum Nilüfer Zuhaf
+	Adana Tarsus Mersin Erdemli Asmali Sis Aga?li Misis
+	Osmaniye Konstantiniyye H?davendigar Muradiye Mesudiye Hamidiye Resadiye
+	Heybetn?ma Tayyar Sultanhisar Gelibolu Alparslan Timsah Mecidiye Mahabet Ejder
+	Yunus Sivrihisar Akhisar Akka Aziziye Bereket Galata Kozlu Kuzlum Nil?fer Zuhaf
 	Ceyhan Feke Kozan Seyhan Kahta Bolvadin Dinar Ihsaniye Incehisar Sandikli Sultandagi
-	Güdül Haymana Kazan Kalecik Nallihan Polatli Akseki Alanya Elmali Finike Kepez Korkuteli
-	Kumluca Manavgat Serik Saka Kuyucak Kusadasi Nazilli Söke Ayvalik
-	Havran Bigadiç Edremit Manyas Balya Amasra Bozüyük Sögüt Adakli Solhan Ahlat Gerede
-	Seben Göynük Bucak Gemlik Gürsu Inegöl Ayvacik Biga Ezine Lapseki Korgun Dodurga Iskilip
-	Laçin Çivril Honaz Tavas Dicle Firat Lice Ergani Enez Ipsala Meriç Havsa Nizip Görele
-	Göce Kelkit Belen Erzin Hassa Gönen Safranbolu Ermenek Akyaka Sürmene Vakfikebir Eregli
-	Darica Kandira Ahirli Emet Yatagan Malazgirt Fatsa Ünye
+	G?d?l Haymana Kazan Kalecik Nallihan Polatli Akseki Alanya Elmali Finike Kepez Korkuteli
+	Kumluca Manavgat Serik Saka Kuyucak Kusadasi Nazilli S?ke Ayvalik
+	Havran Bigadi? Edremit Manyas Balya Amasra Boz?y?k S?g?t Adakli Solhan Ahlat Gerede
+	Seben G?yn?k Bucak Gemlik G?rsu Ineg?l Ayvacik Biga Ezine Lapseki Korgun Dodurga Iskilip
+	La?in ?ivril Honaz Tavas Dicle Firat Lice Ergani Enez Ipsala Meri? Havsa Nizip G?rele
+	G?ce Kelkit Belen Erzin Hassa G?nen Safranbolu Ermenek Akyaka S?rmene Vakfikebir Eregli
+	Darica Kandira Ahirli Emet Yatagan Malazgirt Fatsa ?nye
 	Kadirli Findikli Arifiye Atakum Havza Kavak Ladik Terme Baykan Boyabat
 }
 
@@ -123,5 +123,5 @@ army_names = {
 }
 
 fleet_names = {
-	"$PROVINCE$ Donanmasî"
+	"$PROVINCE$ Donanmas?"
 }

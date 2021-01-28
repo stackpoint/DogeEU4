@@ -37,18 +37,18 @@ historical_units = {
 
 monarch_names = {
 	"Fulgencio #0" = 20
-	"José #0 Gaspar" = 20
-	"Juan #0 José" = 15
+	"Jos? #0 Gaspar" = 20
+	"Juan #0 Jos?" = 15
 	"Manuel #0 Antonio" = 15
 	"Carlos #0 Antonio" = 10
 	"Mariano #0" = 10
 	"Abel #0" = 0
-	"Agustín #0" = 0
+	"Agust?n #0" = 0
 	"Alberto #0" = 0
-	"Álvaro #0" = 0
+	"?lvaro #0" = 0
 	"Antonio #0" = 0
-	"Asdrúbal #0" = 0
-	"Bartolomé #0" = 0
+	"Asdr?bal #0" = 0
+	"Bartolom? #0" = 0
 	"Carlos #0" = 0
 	"Daniel #0" = 0
 	"David #0" = 0
@@ -60,7 +60,7 @@ monarch_names = {
 	"Fernando #0" = 0
 	"Fidel #0" = 0
 	"Gabriel #0" = 0
-	"José #0" = 0
+	"Jos? #0" = 0
 	"Juan #0" = 0
 	"Leonardo #0" = 0
 	"Manuel #0" = 0
@@ -75,7 +75,7 @@ monarch_names = {
 	"Rufino #0" = 0
 	"Santiago #0" = 0
 	"Tadeo #0" = 0
-	"Ulíses #0" = 0
+	"Ul?ses #0" = 0
 	
 	"Paloma #0" = -1
 	"Reina #0" = -1
@@ -83,16 +83,16 @@ monarch_names = {
 }
 
 leader_names = {
-	Alberti Álvarez "de Alvear" Artigas Azcuenaga Balcarce Bazán Belgrano Brown Bustos
-	Cabral Castro Chiclana Costa Derqui Dorrego González Goyeneche Guazurary "de Güemes"
-	Heredia Jonte "Kaunitz de Holmberg" "de Laprida" Larrea "de las Heras" López
-	Mansilla Matheu Monteagudo Moreno Paso Paz Peña Pérez Planes Posadas "de Pueyrredón"
-	Ramírez Riglos Robinson Rodríguez Rondeau "de Rosas"
-	Saavedra Sáenz "de San Martín" Sarratea Urquiza Warnes
+	Alberti ?lvarez "de Alvear" Artigas Azcuenaga Balcarce Baz?n Belgrano Brown Bustos
+	Cabral Castro Chiclana Costa Derqui Dorrego Gonz?lez Goyeneche Guazurary "de G?emes"
+	Heredia Jonte "Kaunitz de Holmberg" "de Laprida" Larrea "de las Heras" L?pez
+	Mansilla Matheu Monteagudo Moreno Paso Paz Pe?a P?rez Planes Posadas "de Pueyrred?n"
+	Ram?rez Riglos Robinson Rodr?guez Rondeau "de Rosas"
+	Saavedra S?enz "de San Mart?n" Sarratea Urquiza Warnes
 }
 
 ship_names = {
-	"Asunción"
+	"Asunci?n"
 	"Gaspar"
 	"El Plata"
 	"Fulgencio"

@@ -48,13 +48,13 @@ fixed_capital = 522 # Cannot move capital away from this province & no power cos
 
 1451.4.20 = {
 	monarch = {
-		name = "Bahl�l"
+		name = "Bahl???l"
 		dynasty = "Lodi"
 		culture = afghani
 		ADM = 4
 		DIP = 5
 		MIL = 6
-		leader = { name = "Bahl�l Lodi"		type = general	fire = 4	shock = 4	manuever = 4	siege = 1 }
+		leader = { name = "Bahl???l Lodi"		type = general	fire = 4	shock = 4	manuever = 4	siege = 1 }
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
@@ -65,7 +65,7 @@ fixed_capital = 522 # Cannot move capital away from this province & no power cos
 1451.4.20 = {
 	heir = {
 		name = "Nizam Khan"
-		monarch_name = "Sikandar Sh�h"
+		monarch_name = "Sikandar Sh???h"
 		dynasty = "Lodi"
 		culture = afghani
 		birth_date = 1450.1.1
@@ -74,20 +74,20 @@ fixed_capital = 522 # Cannot move capital away from this province & no power cos
 		ADM = 0
 		DIP = 1
 		MIL = 3
-		leader = { name = "Sikandar Sh�h"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
+		leader = { name = "Sikandar Sh???h"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
 	}
 }
 
 
 1489.7.17 = {
 	monarch = {
-		name = "Sikandar Sh�h"
+		name = "Sikandar Sh???h"
 		dynasty = "Lodi"
 		culture = afghani
 		ADM = 0
 		DIP = 1
 		MIL = 3
-		leader = { name = "Sikandar Sh�h"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
+		leader = { name = "Sikandar Sh???h"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = secretive_personality
@@ -97,8 +97,8 @@ fixed_capital = 522 # Cannot move capital away from this province & no power cos
 
 1489.7.17 = {
 	heir = {
-		name = "Ibr�h�m Sh�h"
-		monarch_name = "Ibr�h�m Sh�h"
+		name = "Ibr???h???m Sh???h"
+		monarch_name = "Ibr???h???m Sh???h"
 		dynasty = "Lodi"
 		culture = afghani
 		birth_date = 1489.1.1
@@ -107,19 +107,19 @@ fixed_capital = 522 # Cannot move capital away from this province & no power cos
 		ADM = 0
 		DIP = 0
 		MIL = 0
-		leader = { name = "Ibr�h�m Sh�h"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
+		leader = { name = "Ibr???h???m Sh???h"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
 	}
 }
 		
 1517.11.21 = {
 	monarch = {
-		name = "Ibr�h�m Sh�h"
+		name = "Ibr???h???m Sh???h"
 		dynasty = "Lodi"
 		culture = afghani
 		ADM = 0
 		DIP = 0
 		MIL = 0
-		leader = { name = "Ibr�h�m Sh�h"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
+		leader = { name = "Ibr???h???m Sh???h"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
@@ -133,7 +133,7 @@ capital = 522	# Delhi
 
 1553.1.1 = {
 		monarch = {
-		name = "Ibr�h�m Sh�h"
+		name = "Ibr???h???m Sh???h"
 		dynasty = "Suri"
 		ADM = 2
 		DIP = 3

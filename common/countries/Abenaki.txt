@@ -74,7 +74,7 @@ leader_names = {
 	Kinipekw Odanak
 	Ossipee Panawahpskek
 	Apikwahki Rocameca
-	Wawinak Wôlinak
+	Wawinak W?linak
 }
 
 ship_names = {

@@ -1,4 +1,4 @@
-# Chevauchée
+# Chevauch?e
 
 type = cavalry
 unit_type = western

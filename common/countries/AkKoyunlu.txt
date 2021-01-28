@@ -32,23 +32,23 @@ historical_units = {
 }
 
 monarch_names = {
-	"Qara Yülüq Osman #0" = 10
+	"Qara Y?l?q Osman #0" = 10
 	"Ali #0" = 20
-	"Yaqûb #0" = 20
+	"Yaq?b #0" = 20
 	"Cihangir #0" = 20
 	"Uzun Hasan #0" = 20
-	"Halîl #0" = 20
+	"Hal?l #0" = 20
 	"Baysungur #0" = 20
-	"Rüstem #0" = 20
-	"Ahmed Gövde #0" = 20
-	"Murâd #0" = 20
+	"R?stem #0" = 20
+	"Ahmed G?vde #0" = 20
+	"Mur?d #0" = 20
 	"Elvend Mehmed #0" = 20
 	"Hamza #0" = 10
 	"Tur Ali #0" = 10
-	"Fahreddîn Qutlu #0" = 10
+	"Fahredd?n Qutlu #0" = 10
 	"Hasan #0" = 10
 	"Qara Hasan #0" = 10
-	"Muhammed Mirzâ #1" = 20
+	"Muhammed Mirz? #1" = 20
 	
 	"Salwah #1" = -1
 	"Halima #1" = -1
@@ -58,7 +58,7 @@ monarch_names = {
 	"Safiye #0" = -1
 	"Umut #0" = -1
 	"Ziynet #0" = -1
-	"Zübeyde #0" = -1
+	"Z?beyde #0" = -1
 }
 
 leader_names = {
@@ -66,33 +66,33 @@ leader_names = {
 	Ahmed 
 	Cihangir
 	Elvend
-	Fahreddîn
-	Gövde
+	Fahredd?n
+	G?vde
 	Halil
 	Hamza
 	Hasan
-	Mirzâ
+	Mirz?
 	Muhammed
-	Murâd
+	Mur?d
 	Osman
 	Qara
 	Qutlu
-	Rüstem
+	R?stem
 	Uzun
-	Yaqûb
-	Yülüq
+	Yaq?b
+	Y?l?q
 }
 
 ship_names = {
 	Ahlat
-	Ardabîl
+	Ardab?l
 	Basra
 	Bayburt
-	Bayîndîr
+	Bay?nd?r
 	"Diyar Baqr"
 	Erzincan
 	Esfahan
-	"Fahreddîn Qutlu"
+	"Fahredd?n Qutlu"
 	Gilan
 	Hamadan
 	Hasan
@@ -100,7 +100,7 @@ ship_names = {
 	Karbala
 	Mardin
 	Musul
-	"Qara Yülüq"
+	"Qara Y?l?q"
 	Sirvan
 	Sultan
 	"Tur Ali"

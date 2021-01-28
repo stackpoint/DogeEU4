@@ -1,10 +1,10 @@
-#56 - Osnabr�ck
+#56 - Osnabr???ck
 
 owner = BRG
 controller = BRG
 culture = hannoverian
 religion = catholic
-capital = "Osnabr�ck"
+capital = "Osnabr???ck"
 trade_goods = salt
 hre = yes
 base_tax = 3

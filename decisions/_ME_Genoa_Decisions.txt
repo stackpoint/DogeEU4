@@ -129,7 +129,7 @@ country_decisions = {
 					}
 				}
 				2470 = {
-					rename_capital = "Safì"
+					rename_capital = "Saf??"
 					add_province_modifier = {
 						name = gen_colonia_genovese
 						duration = -1
@@ -151,7 +151,7 @@ country_decisions = {
 					}
 				}
 				4563 = {
-					rename_capital = "Salè"
+					rename_capital = "Sal??"
 					add_province_modifier = {
 						name = gen_colonia_genovese
 						duration = -1

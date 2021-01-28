@@ -9,12 +9,12 @@ capital = 524 #Agra
 
 1494.6.6 = {
 	monarch = {
-		name = "B�bur"
+		name = "B???bur"
 		dynasty = "Timurid"
 		adm = 5
 		dip = 5
 		mil = 6
-		leader = {	name = "B�bur"	type = general	fire = 5	shock = 5	manuever = 3	siege = 1 }
+		leader = {	name = "B???bur"	type = general	fire = 5	shock = 5	manuever = 3	siege = 1 }
 	}
 	leader = {	name = "Ustad Ali Quli"	type = general	fire = 2	shock = 2	manuever = 1	siege = 1 death_date = 1531.1.1 }
 	leader = {	name = "Chin Timur Khan" type = general	fire = 2	shock = 3	manuever = 1	siege = 0 death_date = 1531.1.1 }
@@ -27,7 +27,7 @@ capital = 524 #Agra
 1508.3.6 = {
 	heir = {
 		name = "Muhammad"
-		monarch_name = "Hum�y�n"
+		monarch_name = "Hum???y???n"
 		dynasty = "Timurid"
 		birth_date = 1508.3.6
 		death_date = 1556.1.1
@@ -47,7 +47,7 @@ capital = 524 #Agra
 
 1530.12.27 = {
 	monarch = {
-		name = "Hum�y�n"
+		name = "Hum???y???n"
 		dynasty = "Timurid"
 		adm = 5
 		dip = 2
@@ -98,7 +98,7 @@ capital = 524 #Agra
 1569.10.1 = {
 	heir = {
 		name = "Salim"
-		monarch_name = "Jah�ng�r"
+		monarch_name = "Jah???ng???r"
 		dynasty = "Timurid"
 		birth_date = 1569.10.1
 		death_date = 1605.10.26
@@ -125,7 +125,7 @@ capital = 524 #Agra
 	
 1605.10.26 = {
 	monarch = {
-		name = "Jah�ng�r"
+		name = "Jah???ng???r"
 		dynasty = "Timurid"
 		adm = 3
 		dip = 5
@@ -136,7 +136,7 @@ capital = 524 #Agra
 1605.10.26 = {
 	heir = {
 		name = "Khurram"
-		monarch_name = "Sh�h Jeh�n"
+		monarch_name = "Sh???h Jeh???n"
 		dynasty = "Timurid"
 		birth_date = 1592.1.5
 		death_date = 1666.1.22
@@ -149,7 +149,7 @@ capital = 524 #Agra
 
 1627.10.28 = {
 	monarch = { 
-		name = "Sh�h Jeh�n"
+		name = "Sh???h Jeh???n"
 		dynasty = "Timurid"
 		adm = 5
 		dip = 4
@@ -175,19 +175,19 @@ capital = 524 #Agra
 
 1658.6.8 = { #Shah Jahan surrenders to Aurangzeb and becomes his prisoner.
 	monarch = {
-		name = "Aurangz�b Alamgir"
+		name = "Aurangz???b Alamgir"
 		dynasty = "Timurid"
 		dip = 6
 		adm = 4
 		mil = 6
-		leader = {	name = "Aurangz�b Alamgir Timurid"	type = general	fire = 5	shock = 5	manuever = 2	siege = 0 }
+		leader = {	name = "Aurangz???b Alamgir Timurid"	type = general	fire = 5	shock = 5	manuever = 2	siege = 0 }
 	}
 }
 
 1658.6.8 = {
 	heir = {
 		name = "Mu'azzam"
-		monarch_name = "Bah�dur Sh�h I"
+		monarch_name = "Bah???dur Sh???h I"
 		dynasty = "Timurid"
 		birth_date = 1643.10.14
 		death_date = 1712.2.27
@@ -206,7 +206,7 @@ capital = 524 #Agra
 
 1707.3.15 = {
 	monarch = {
-		name = "Bah�dur Sh�h I"
+		name = "Bah???dur Sh???h I"
 		dynasty = "Timurid"
 		adm = 2
 		dip = 2
@@ -338,7 +338,7 @@ capital = 524 #Agra
 1720.1.1 = {
 	heir = {
 		name = "Muhammad"
-		monarch_name = "Muhammad Sh�h"
+		monarch_name = "Muhammad Sh???h"
 		dynasty = "Timurid"
 		birth_date = 1702.1.1
 		death_date = 1748.4.26
@@ -351,7 +351,7 @@ capital = 524 #Agra
 
 1720.2.1 = {
 	monarch = {
-		name = "Muhammad Sh�h"
+		name = "Muhammad Sh???h"
 		dynasty = "Timurid"
 		adm = 3
 		dip = 2
@@ -362,7 +362,7 @@ capital = 524 #Agra
 1725.1.1 = {
 	heir = {
 		name = "Ahmad"
-		monarch_name = "Ahmad Sh�h"
+		monarch_name = "Ahmad Sh???h"
 		dynasty = "Timurid"
 		birth_date = 1725.1.1
 		death_date = 1754.6.3
@@ -375,7 +375,7 @@ capital = 524 #Agra
 
 1748.4.26 = {
 	monarch = {
-		name = "Ahmad Sh�h"
+		name = "Ahmad Sh???h"
 		dynasty = "Timurid"
 		adm = 0
 		dip = 1
@@ -409,8 +409,8 @@ capital = 524 #Agra
 
 1754.6.3 = {
 	heir = {
-		name = "Jah�n"
-		monarch_name = "Sh�h Jah�n III"
+		name = "Jah???n"
+		monarch_name = "Sh???h Jah???n III"
 		dynasty = "Timurid"
 		birth_date = 1750.1.1
 		death_date = 1770.1.1
@@ -423,7 +423,7 @@ capital = 524 #Agra
 
 1759.12.11 = {
 	monarch = {
-		name = "Sh�h Jah�n III"
+		name = "Sh???h Jah???n III"
 		dynasty = "Timurid"
 		dip = 0
 		adm = 0
@@ -434,7 +434,7 @@ capital = 524 #Agra
 1759.12.11 = {
 	heir = {
 		name = "'Alam"
-		monarch_name = "Sh�h 'Alam II"
+		monarch_name = "Sh???h 'Alam II"
 		dynasty = "Timurid"
 		birth_date = 1728.1.1
 		death_date = 1806.1.1
@@ -447,7 +447,7 @@ capital = 524 #Agra
 
 1760.10.11 = {
 	monarch = {
-		name = "Sh�h 'Alam II"
+		name = "Sh???h 'Alam II"
 		dynasty = "Timurid"
 		dip = 2
 		adm = 1

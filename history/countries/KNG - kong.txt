@@ -93,7 +93,7 @@ capital = 1125	# Niani
 
 1660.1.1 = {
 	monarch = {
-		name = "Lasiri Gomb�l�"
+		name = "Lasiri Gomb???l???"
 		dynasty = "Gorogo"
 		DIP = 2
 		ADM = 1

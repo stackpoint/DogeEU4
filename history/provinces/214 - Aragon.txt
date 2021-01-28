@@ -1,4 +1,4 @@
-#214 - Aragón
+#214 - Arag?n
 
 owner = ARA		# Alfons V of Aragon
 controller = ARA

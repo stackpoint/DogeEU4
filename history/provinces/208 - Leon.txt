@@ -1,4 +1,4 @@
-#208 - León
+#208 - Le?n
 
 owner = LON		#Juan II of Castille
 controller = LON
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 trade_goods = livestock
 base_manpower = 2
-capital = "León"
+capital = "Le?n"
 is_city = yes
 discovered_by = eastern
 discovered_by = western

@@ -91,8 +91,8 @@ capital = 552	# Cuttack
 
 1476.1.1 = {
 	heir = {
-		name = "Prat�prudra"
-		monarch_name = "Prat�prudra"
+		name = "Prat???prudra"
+		monarch_name = "Prat???prudra"
 		dynasty = "Gajapati"
 		birth_date = 1470.1.1
 		death_date = 1540.1.1
@@ -119,7 +119,7 @@ capital = 552	# Cuttack
 
 1497.4.2 = {
 	monarch = {
-		name = "Prat�prudra"
+		name = "Prat???prudra"
 		dynasty = "Gajapati"
 		ADM = 1
 		DIP = 3
@@ -163,8 +163,8 @@ capital = 552	# Cuttack
 
 1541.1.1 = {
 	heir = {
-		name = "Chakrapret�pa"
-		monarch_name = "Chakrapret�pa"
+		name = "Chakrapret???pa"
+		monarch_name = "Chakrapret???pa"
 		dynasty = "Bhoi"
 		birth_date = 1520.1.1
 		death_date = 1557.1.1
@@ -177,7 +177,7 @@ capital = 552	# Cuttack
 
 1549.1.1 = {
 	monarch = {
-		name = "Chakrapret�pa"
+		name = "Chakrapret???pa"
 		dynasty = "Bhoi"
 		ADM = 0
 		DIP = 1
@@ -187,8 +187,8 @@ capital = 552	# Cuttack
 
 1549.1.1 = {
 	heir = {
-		name = "N�rashima Jana"
-		monarch_name = "N�rashima Jana"
+		name = "N???rashima Jana"
+		monarch_name = "N???rashima Jana"
 		dynasty = "Bhoi"
 		birth_date = 1540.1.1
 		death_date = 1558.1.1
@@ -201,7 +201,7 @@ capital = 552	# Cuttack
 
 1557.1.1 = {
 	monarch = {
-		name = "N�rashima Jana"
+		name = "N???rashima Jana"
 		dynasty = "Bhoi"
 		ADM = 0
 		DIP = 0
@@ -211,8 +211,8 @@ capital = 552	# Cuttack
 
 1557.1.1 = {
 	heir = {
-		name = "Raghur�ma Chhotra"
-		monarch_name = "Raghur�ma Chhotra"
+		name = "Raghur???ma Chhotra"
+		monarch_name = "Raghur???ma Chhotra"
 		dynasty = "Bhoi"
 		birth_date = 1530.1.1
 		death_date = 1560.1.1
@@ -225,7 +225,7 @@ capital = 552	# Cuttack
 
 1558.1.1 = {
 	monarch = {
-		name = "Raghur�ma Chhotra"
+		name = "Raghur???ma Chhotra"
 		dynasty = "Bhoi"
 		ADM = 0
 		DIP = 1
@@ -245,8 +245,8 @@ capital = 552	# Cuttack
 
 1560.1.1 = {
 	heir = {
-		name = "R�mchandra Deva"
-		monarch_name = "R�mchandra Deva I"
+		name = "R???mchandra Deva"
+		monarch_name = "R???mchandra Deva I"
 		dynasty = "Chalukya"
 		birth_date = 1540.1.1
 		death_date = 1607.1.1
@@ -259,7 +259,7 @@ capital = 552	# Cuttack
 
 1567.1.1 = {
 	monarch = {
-		name = "R�mchandra Deva I"
+		name = "R???mchandra Deva I"
 		dynasty = "Chalukya"
 		ADM = 4
 		DIP = 3

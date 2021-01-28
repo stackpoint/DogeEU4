@@ -41,7 +41,7 @@ vassal = {
 }
 
 
-# Provence and Lorraine under Ren� of Anjou
+# Provence and Lorraine under Ren??? of Anjou
 union = {
 	first = PRO
 	second = LOR

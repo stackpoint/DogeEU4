@@ -11,7 +11,7 @@ fixed_capital = 2448 # Cannot move capital away from this province & no power co
 
 1440.1.1 = {
 	monarch = {
-		name = "Abd�lazz�"
+		name = "Abd???lazz???"
 		dynasty = "Banu Sulaym"
 		adm = 0
 		dip = 0
@@ -21,7 +21,7 @@ fixed_capital = 2448 # Cannot move capital away from this province & no power co
 
 1480.1.1 = {
 	monarch = {
-		name = "Abd�lazz� II"
+		name = "Abd???lazz??? II"
 		dynasty = "Banu Sulaym"
 		adm = 1
 		dip = 0
@@ -31,7 +31,7 @@ fixed_capital = 2448 # Cannot move capital away from this province & no power co
 
 1520.1.1 = {
 	monarch = {
-		name = "Abd�lazz� III"
+		name = "Abd???lazz??? III"
 		dynasty = "Banu Sulaym"
 		adm = 1
 		dip = 0

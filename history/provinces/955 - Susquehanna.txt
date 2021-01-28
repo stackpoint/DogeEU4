@@ -21,7 +21,7 @@ native_hostileness = 4
 discovered_by = north_american
  
 
-1615.1.1 = { discovered_by = FRA } # Étienne Brûlé
+1615.1.1 = { discovered_by = FRA } # ?tienne Br?l?
 1650.1.1 = {
 	owner = SUS
 	controller = SUS

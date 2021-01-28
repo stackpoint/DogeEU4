@@ -26,7 +26,7 @@ historical_units = {
 }
 
 leader_names = {
-	Aimoré Prajé Takrukrak Krekmún Ituêto Futikrak Gueren Gutucrac Mekmek Minhagiran Nakrehê Naknyanúk
+	Aimor? Praj? Takrukrak Krekm?n Itu?to Futikrak Gueren Gutucrac Mekmek Minhagiran Nakreh? Naknyan?k
 }
 
 monarch_names = {
@@ -43,5 +43,5 @@ monarch_names = {
 }
 
 ship_names = {
-	Guatá Waitaká Takrukrak Futikrak Gueren Mekmek Minhagiran Naknyanúk Prajé Azelene
+	Guat? Waitak? Takrukrak Futikrak Gueren Mekmek Minhagiran Naknyan?k Praj? Azelene
 }

@@ -1,10 +1,10 @@
-#143 - Vlor� - Southern Albania
+#143 - Vlor??? - Southern Albania
 
 owner = ALB
 controller = ALB
 culture = albanian
 religion = orthodox
-capital = "Vlor�"
+capital = "Vlor???"
 trade_goods = wool #or salt
 hre = no
 base_tax = 2

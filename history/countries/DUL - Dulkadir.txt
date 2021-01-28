@@ -22,8 +22,8 @@ capital = 332	# Dulkadir
 
 1398.1.1 = {
 	heir = {
-		name = "S�laym�n"
-		monarch_name = "S�laym�n"
+		name = "S???laym???n"
+		monarch_name = "S???laym???n"
 		dynasty = "Dulkadiroglu"
 		birth_date = 1398.1.1
 		death_date = 1454.1.1
@@ -36,7 +36,7 @@ capital = 332	# Dulkadir
 
 1442.1.1 = {
 	monarch = {
-		name = "S�laym�n"
+		name = "S???laym???n"
 		dynasty = Dulkadiroglu
 		birth_date = 1398.1.1
 		adm = 2
@@ -74,7 +74,7 @@ capital = 332	# Dulkadir
 1454.1.1 = {
 	heir = {
 		name = "Budak"
-		monarch_name = "S�h Budak"
+		monarch_name = "S???h Budak"
 		dynasty = "Dulkadiroglu"
 		birth_date = 1430.1.1
 		death_date = 1492.10.1
@@ -87,7 +87,7 @@ capital = 332	# Dulkadir
 
 1465.1.1 = {
 	monarch = {
-		name = "S�h Budak"
+		name = "S???h Budak"
 		dynasty = Dulkadiroglu
 		birth_date = 1430.1.1
 		adm = 1
@@ -148,8 +148,8 @@ capital = 332	# Dulkadir
 
 1472.1.1 = {
 	heir = {
-		name = "Ala�ddevle"
-		monarch_name = "Ala�ddevle Bozkurt"
+		name = "Ala???ddevle"
+		monarch_name = "Ala???ddevle Bozkurt"
 		dynasty = "Dulkadiroglu"
 		birth_date = 1460.1.1
 		death_date = 1515.6.1
@@ -162,7 +162,7 @@ capital = 332	# Dulkadir
 
 1479.1.1 = {
 	monarch = {
-		name = "Ala�ddevle Bozkurt"
+		name = "Ala???ddevle Bozkurt"
 		dynasty = Dulkadiroglu
 		birth_date = 1460.1.1
 		adm = 4

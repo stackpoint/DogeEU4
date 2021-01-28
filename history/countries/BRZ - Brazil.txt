@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = brazilian
-capital = 756	# S�o Salvador
+capital = 756	# S???o Salvador
 
 
 

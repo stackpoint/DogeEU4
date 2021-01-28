@@ -1,7 +1,7 @@
 ########################################
 # General Flavor Events for Japan and Daimyos
 #
-# written by Sara Wendel-Örtqvist
+# written by Sara Wendel-?rtqvist
 ########################################
 # Reworked and given alternative effects for Mandate of Heaven / 1.20 by Drikus Kuiper.
 ########################################

@@ -84,7 +84,7 @@ fee_refused_league_aid = {
 	yearly_decay = 2
 }
 
-#Overlord destroy Norway’s Saint Olav Shrine
+#Overlord destroy Norway???s Saint Olav Shrine
 fee_olav_shrine_destroyed = {
 	opinion = -30
 	yearly_decay = 0.5

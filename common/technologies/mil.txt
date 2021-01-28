@@ -706,7 +706,7 @@ technology = {
 	# Tech 35
 	year = 1856
 
-	#Minié Ball
+	#Mini?? Ball
 	infantry_fire = 1.0
 
 	enable = dreyse_needle_gun

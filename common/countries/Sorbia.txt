@@ -70,8 +70,8 @@ monarch_names = {
 	"Maurycy #0" = 0
 	"Radomir #0" = 0
 	"Siegfried #0" = 0
-	"Tomás #0" = 0
-	"Václav #0" = 0
+	"Tom?s #0" = 0
+	"V?clav #0" = 0
 	"Wilhelm #0" = 0
 	
 	"Heinrike #0" = -1
@@ -88,6 +88,6 @@ leader_names = {
 ship_names = {
 	Teschen Falkenberg "Cosel-Beuthen" Oppeln Ratibor
 	Breslau Sagan Oels Steinau "Liegnitz-Brieg" Glogau
-	Münsterberg "Neisse-Ottmachau" "Schweidnitz-Jauer"
-	Zossen Guben Cottbus Luckau Spremberg Bautzen Görlitz
+	M?nsterberg "Neisse-Ottmachau" "Schweidnitz-Jauer"
+	Zossen Guben Cottbus Luckau Spremberg Bautzen G?rlitz
 }

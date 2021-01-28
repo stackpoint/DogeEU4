@@ -88,7 +88,7 @@ capital = 390	# Sana'a
 
 1597.1.1 = {
 	monarch = {
-		name = "al-Q�sim"
+		name = "al-Q???sim"
 		dynasty = "Qasimid"
 		adm = 4
 		dip = 3
@@ -124,8 +124,8 @@ capital = 390	# Sana'a
 
 1620.2.18 = {
 	heir = {
-		name = "Ism�'�l"
-		monarch_name = "Ism�'�l"
+		name = "Ism???'???l"
+		monarch_name = "Ism???'???l"
 		dynasty = "Qasimid"
 		birth_date = 1610.1.1
 		death_Date = 1676.8.15
@@ -138,7 +138,7 @@ capital = 390	# Sana'a
 
 1644.9.30 = {
 	monarch = {
-		name = "Ism�'�l"
+		name = "Ism???'???l"
 		dynasty = "Qasimid"
 		adm = 2
 		dip = 4
@@ -220,8 +220,8 @@ capital = 390	# Sana'a
 
 1686.1.1 = {
 	heir = {
-		name = "al-Q�sim"
-		monarch_name = "al-Q�sim I"
+		name = "al-Q???sim"
+		monarch_name = "al-Q???sim I"
 		dynasty = "Qasimid"
 		birth_date = 1670.1.1
 		death_date = 1727.1.1
@@ -234,7 +234,7 @@ capital = 390	# Sana'a
 
 1718.1.1 = {
 	monarch = {
-		name = "al-Q�sim I"
+		name = "al-Q???sim I"
 		dynasty = "Qasimid"
 		adm = 2
 		dip = 1
@@ -268,8 +268,8 @@ capital = 390	# Sana'a
 
 1727.1.1 = {
 	heir = {
-		name = "al-'Abb�s"
-		monarch_name = "al-'Abb�s"
+		name = "al-'Abb???s"
+		monarch_name = "al-'Abb???s"
 		dynasty = "Qasimid"
 		birth_date = 1719.1.1
 		death_date = 1775.9.4
@@ -282,7 +282,7 @@ capital = 390	# Sana'a
 
 1748.3.6 = {
 	monarch = {
-		name = "al-'Abb�s"
+		name = "al-'Abb???s"
 		dynasty = "Qasimid"
 		adm = 2
 		dip = 1
@@ -292,8 +292,8 @@ capital = 390	# Sana'a
 
 1748.3.6 = {
 	heir = {
-		name = "'Al�"
-		monarch_name = "'Al� I"
+		name = "'Al???"
+		monarch_name = "'Al??? I"
 		dynasty = "Qasimid"
 		birth_date = 1738.1.1
 		death_date = 1809.10.25
@@ -306,7 +306,7 @@ capital = 390	# Sana'a
 
 1775.1.1 = {
 	monarch = {
-		name = "'Al� I"
+		name = "'Al??? I"
 		dynasty = "Qasimid"
 		adm = 3
 		dip = 3

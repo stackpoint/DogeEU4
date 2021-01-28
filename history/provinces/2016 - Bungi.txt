@@ -28,7 +28,7 @@ discovered_by = north_american
 	remove_core = ASI
 	culture = dakota 
 } 
-1732.1.1 = { discovered_by = FRA } # La Vérendrye
+1732.1.1 = { discovered_by = FRA } # La V?rendrye
 1808.1.1 = {
 	owner = GBR
 	controller = GBR

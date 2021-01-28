@@ -24,38 +24,38 @@ historical_units = {
 }
 
 leader_names = {
-	Piratininga Tabajara Temimin� Tamoio Tabajara Caet� Tupina� Temimin� Tupina Aricob�
+	Piratininga Tabajara Temimin??? Tamoio Tabajara Caet??? Tupina??? Temimin??? Tupina Aricob???
 }
 
 monarch_names = {
 	"Cunhambebe" = 10
-	"Ararib�ia" = 10
-	"Maracaj�" = 10
+	"Ararib???ia" = 10
+	"Maracaj???" = 10
 	"Ramalho" = 10
 	"Italo" = 10
 	"Arah" = 10
-	"Pirij�" = 10
+	"Pirij???" = 10
 	"Arata" = 10
-	"Toru�" = 10
+	"Toru???" = 10
 	"Yperoig" = 10
-	"Tibiri�� " = 10
+	"Tibiri?????? " = 10
 	"Piquerobi " = 10
 	"Caiubi" = 10
 	"Ramalho" = 10
 	"Italo" = 10
 	"Arah" = 10
-	"Pirij�" = 10
+	"Pirij???" = 10
 	"Arata " = 10
-	"Toru� " = 10
+	"Toru??? " = 10
 	"Mbicy" = 10
 	
 	"Bartira" = -1
-	"Guaibimpar�" = -1
+	"Guaibimpar???" = -1
 	"Azelene" = -1
 	"Potira" = -1
 }
 
 ship_names = {
-	Bartira Cacique Guaibimpar� Italo Niter�i Piratininga Pirij� Potira Piquerobi Ubatuba Toru� Uru�umirim "Kari'boka"
+	Bartira Cacique Guaibimpar??? Italo Niter???i Piratininga Pirij??? Potira Piquerobi Ubatuba Toru??? Uru???umirim "Kari'boka"
 }
 

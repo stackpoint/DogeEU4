@@ -1,4 +1,4 @@
-#85 - K˜ln
+#85 - K?ln
 
 owner = KOL
 controller = KOL
@@ -6,7 +6,7 @@ add_core = KOL
 culture = hessian
 religion = waldensian
 trade_goods = paper
-capital = "K˜ln"
+capital = "K?ln"
 base_tax = 6 
 base_production = 6
 base_manpower = 3

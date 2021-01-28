@@ -44,9 +44,9 @@ monarch_names = {
 	"Muhammad #1" = 20
 	"Sati Beg #1" = 20
 	"Solayman #1" = 20
-	"Jahan Temür #1" = 20
+	"Jahan Tem?r #1" = 20
 	"Jahan #0" = 10
-	"Temür #0" = 10
+	"Tem?r #0" = 10
 	"Anushirwan #1" = 20
 
 	"Fatin #1" = -1
@@ -58,25 +58,25 @@ monarch_names = {
 
 leader_names = {
 	Genghisid Genghisid Genghisid Genghisid Genghisid Borjigin Borjigin Borjigin Borjigin Borjigin # Ghengisid supremacy among the Mongols
-	Abbâs
-	Abû Bakr
+	Abb?s
+	Ab? Bakr
 	Akbar
 	Jahagir
-	Jalâl
-	Jâmî
+	Jal?l
+	J?m?
 	Khalil
 	Mohsin
-	"ud-Dîn"
+	"ud-D?n"
 	Zaman
 }
 
 ship_names = {
 	Yingchang Karakorum Hohhot Chagaan
-	"Ghengis Khan" Jöchi Ögödei Tolui
-	Möngke Qubilai Hülegü Böke
-	Jinggim Kamala Dharmapala "Örüg Temür"
+	"Ghengis Khan" J?chi ?g?dei Tolui
+	M?ngke Qubilai H?leg? B?ke
+	Jinggim Kamala Dharmapala "?r?g Tem?r"
 	Adai Elbeg Batu Mugali "Bo'orchu" Borokhula Chilaun
 	Khubilai Jelme Jebe Subutai
-	"Yelü Chucai" Shikhikhutug "Sorqan Shira" "Khar Khiruge"
-	"Dörben Külü'üd" "Dörben Noyas"
+	"Yel? Chucai" Shikhikhutug "Sorqan Shira" "Khar Khiruge"
+	"D?rben K?l?'?d" "D?rben Noyas"
 }

@@ -40,27 +40,27 @@ monarch_names = {
 	"Jean #2" = 40
 	"Huges #2" = 10
 	"Anne #1" = -10
-	"Adhémar #0" = 0
+	"Adh?mar #0" = 0
 	"Arnaud #0" = 0
 	"Aymeric #0" = 0
 	"Bartomiu #0" = 0
 	"Bernat #0" = 0
 	"Bertran #0" = 0		
 	"Charles #0" = 0
-	"Damián #0" = 0
+	"Dami?n #0" = 0
 	"Enric #0" = 0
-	"Estève #0" = 0
-	"Ferrán #0" = 0
+	"Est?ve #0" = 0
+	"Ferr?n #0" = 0
 	"Folquet #0" = 0
 	"Frances #0" = 0
-	"Gastó #0" = 0
-	"Gaufré #0" = 0
+	"Gast? #0" = 0
+	"Gaufr? #0" = 0
 	"Guilhem #0" = 0
 	"Ignaci #0" = 0
 	"Jacme #0" = 0
 	"Jordan #0" = 0
 	"Loys #0" = 0
-	"Martí #0" = 0
+	"Mart? #0" = 0
 	"Matheu #0" = 0
 	"Miqueu #0" = 0
 	"Nicolau #0" = 0
@@ -85,17 +85,17 @@ monarch_names = {
 }
 
 leader_names = {
-        d'Abon d'Agoult "Agrain des Ubaz" d'Alande-Mirabel d'Alauzon d'Albon Alleman d'Andrevet d'Angerès d'Arbalestier d'Arcilay Artaud d'Aspremont
+        d'Abon d'Agoult "Agrain des Ubaz" d'Alande-Mirabel d'Alauzon d'Albon Alleman d'Andrevet d'Anger?s d'Arbalestier d'Arcilay Artaud d'Aspremont
         "de Balathier" "de Bardonnenche" "de Beaumont" "de Belmont" "de Bernard" "de Bocsozel" "de Bompart" "de Bonlieu" "de Boulieu" "de Bressieu"
-        "de Calignon" "de Chalendar" "de Chambarlhac" "de Chambly" "de la Chambre" "de Champiney" "de Cheilus" "de Clérieux"
-        "de Dié" "de Domaine"
+        "de Calignon" "de Chalendar" "de Chambarlhac" "de Chambly" "de la Chambre" "de Champiney" "de Cheilus" "de Cl?rieux"
+        "de Di?" "de Domaine"
         "de l'Espine"
         "de Forbin"
-        "de Gandil" "de Genève" "de Granges"
-        "de La Balme" "de La Farge" "de La Porte" "de La Tour du Pin" Lesdiguières
-        "de Marcieu" "de Mérins" "de Miribel" "de Mollin" "de Montchenu" "de Montferrat"
-        "Pape de Saint Auban" "de Peccat" "de Peloux" "de Périssol" "de Perdrix" "de Pracomtal"
-        "de Révilasc"
+        "de Gandil" "de Gen?ve" "de Granges"
+        "de La Balme" "de La Farge" "de La Porte" "de La Tour du Pin" Lesdigui?res
+        "de Marcieu" "de M?rins" "de Miribel" "de Mollin" "de Montchenu" "de Montferrat"
+        "Pape de Saint Auban" "de Peccat" "de Peloux" "de P?rissol" "de Perdrix" "de Pracomtal"
+        "de R?vilasc"
         "de Sassenage" "de Seyssel"
         "du Terrail"
         "de Virieu"
@@ -103,26 +103,26 @@ leader_names = {
 
 ship_names = {
         Apprieu 
-        Barnave Beaurepaire Bellegarde-Poussieu Bourg-de-Péage "Bourg d'Oisans" "Bourgoin" "Briançon"
+        Barnave Beaurepaire Bellegarde-Poussieu Bourg-de-P?age "Bourg d'Oisans" "Bourgoin" "Brian?on"
         Cessieu Clelles Crolles
         Dieu-le-Fit
         Embrun
         Gap Grenoble
         Huez
-        "La Côte Saint André" "La Mure" "La Tour du Pin" "Le Poet-Laval" "Le Pont de Claix" "Le Teil" Livet-et-Gavet "Les Abrets" Loriol "Lus la Croix Haute"
-        Mens Moirans Montélimar
+        "La C?te Saint Andr?" "La Mure" "La Tour du Pin" "Le Poet-Laval" "Le Pont de Claix" "Le Teil" Livet-et-Gavet "Les Abrets" Loriol "Lus la Croix Haute"
+        Mens Moirans Mont?limar
         Rochemaure Roussillon
-        Saillans "Saint Clair de la Tour" "Saint Etienne en Dévoluy" "Saint Geoir" "Saint Jean de Bournay" "Saint Laurent en Royan" "Saint Roman" Sauzet Serres
+        Saillans "Saint Clair de la Tour" "Saint Etienne en D?voluy" "Saint Geoir" "Saint Jean de Bournay" "Saint Laurent en Royan" "Saint Roman" Sauzet Serres
         Tullin
         Valbonnais Valence Venosc Veynes Vienne Vif Vizille Voiron Voreppe
 }
 
 
 army_names = {
-         "Armée du Dauphin"     "Armée du Viennois"  "Armée du Grésivaudan"
-         "Armée du Valentinois" "Armée du Royans"    "Armée du Queyras"   
-         "Armée de l'Embrunais" "Armée du Gapençais" "Armée du Briançonnais" 
-         "Armée du Diois"       "Armée du Dévoluy"   "Armée du Vercors"   
-         "Armée des Baronnies"  "Armée du Trièves"   "Armée du Champsaur"
-	 "Armée de $PROVINCE$" 
+         "Arm?e du Dauphin"     "Arm?e du Viennois"  "Arm?e du Gr?sivaudan"
+         "Arm?e du Valentinois" "Arm?e du Royans"    "Arm?e du Queyras"   
+         "Arm?e de l'Embrunais" "Arm?e du Gapen?ais" "Arm?e du Brian?onnais" 
+         "Arm?e du Diois"       "Arm?e du D?voluy"   "Arm?e du Vercors"   
+         "Arm?e des Baronnies"  "Arm?e du Tri?ves"   "Arm?e du Champsaur"
+	 "Arm?e de $PROVINCE$" 
 }

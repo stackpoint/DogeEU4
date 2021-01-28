@@ -1,8 +1,8 @@
-# 193 Franche-Comté - Principal cities: Besançon
+# 193 Franche-Comt? - Principal cities: Besan?on
 
 owner = BUR
 controller = BUR 
-capital = "Besançon"
+capital = "Besan?on"
 is_city = yes
 culture = burgundian
 religion = catholic

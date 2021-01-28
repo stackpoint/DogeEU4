@@ -45,8 +45,8 @@ capital = 416 # Tabriz
 
 1420.1.1 = {
 	heir = {
-		name = "Jah�n"
-		monarch_name = "Jah�n Sh�h"
+		name = "Jah???n"
+		monarch_name = "Jah???n Sh???h"
 		dynasty = "Qara Qoyunlu"
 		birth_date = 1420.1.1
 		death_date = 1467.11.11
@@ -59,7 +59,7 @@ capital = 416 # Tabriz
 
 1438.4.22 = {
 	monarch = {
-		name = "Jah�n Sh�h"
+		name = "Jah???n Sh???h"
 		dynasty = "Qara Qoyunlu"
 		birth_date = 1420.1.1
 		adm = 3

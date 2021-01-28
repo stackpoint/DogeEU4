@@ -669,7 +669,7 @@ country_event = {
 	}
 }
 
-# Bloody Mary and King Felip� of England
+# Bloody Mary and King Felip??? of England
 country_event = {
 	id = flavor_eng.9114
 	title = "flavor_eng.EVTNAME9114"

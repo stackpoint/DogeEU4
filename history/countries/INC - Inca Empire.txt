@@ -93,8 +93,8 @@ capital = 808	# Cuzco
 
 1503.1.1 = {
 	heir = {
-		name = "Hu�scar"
-		monarch_name = "Hu�scar I"
+		name = "Hu???scar"
+		monarch_name = "Hu???scar I"
 		dynasty = "Hanan"
 		birth_date = 1503.1.1
 		death_date = 1532.1.1
@@ -102,7 +102,7 @@ capital = 808	# Cuzco
 		adm = 3
 		dip = 0
 		mil = 1
-		leader = { name = "Hu�scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+		leader = { name = "Hu???scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
 	}
 }
 
@@ -110,12 +110,12 @@ capital = 808	# Cuzco
 
 1527.1.1 = {
 	monarch = {
-		name = "Hu�scar I"
+		name = "Hu???scar I"
 		dynasty = "Hanan"
 		adm = 3
 		dip = 0
 		mil = 1
-		leader = { name = "Hu�scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+		leader = { name = "Hu???scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
 	}
 }
 

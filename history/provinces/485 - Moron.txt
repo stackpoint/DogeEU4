@@ -23,7 +23,7 @@ discovered_by = ARW
 	culture = castillian
 	religion = catholic
 	trade_goods = coffee 
-} # Founded by Diego Velázquez
+} # Founded by Diego Vel?zquez
 1516.1.23 = {
 	discovered_by = SPA
 	owner = SPA

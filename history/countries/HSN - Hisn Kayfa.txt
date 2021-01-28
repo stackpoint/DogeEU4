@@ -11,7 +11,7 @@ add_accepted_culture = al_suryah_arabic
 
 1378.1.1 = {
 	monarch = {
-		name = "al-�Adil Fakhr al-Din"
+		name = "al-???Adil Fakhr al-Din"
 		dynasty = "Ayyubid"
 		adm = 2
 		dip = 2

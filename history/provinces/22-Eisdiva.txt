@@ -24,7 +24,7 @@ discovered_by = ottoman
 	controller = DAN
 	add_core = DAN
 	religion = protestant
-} # 'Handfästningen'(Unknown date)
+} # 'Handf?stningen'(Unknown date)
 1630.1.1 = { trade_goods = copper } # Approximate date
 1814.1.14 = {
 	owner = SWE

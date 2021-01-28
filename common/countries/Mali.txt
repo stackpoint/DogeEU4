@@ -83,7 +83,7 @@ leader_names = {
 	Konare
 	Deo
 	Keita
-	Traoré
+	Traor?
 	Toure
 	Diarra
 	Moussa

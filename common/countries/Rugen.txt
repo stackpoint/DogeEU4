@@ -45,7 +45,7 @@ monarch_names = {
 	"Kazimierz #0" = 10
 	"Klaus #0" = 100
 	"Hennig #0" = 10
-	"Gödeke #0" = 30
+	"G?deke #0" = 30
 	"Albrecht #0" = 0
 	"Arnt #0" = 0
 	"August #0" = 0
@@ -85,18 +85,18 @@ monarch_names = {
 }
 
 leader_names = {
-	Wygbold Störtebeker Kurzhöfer Michels Wichmann Scheld Stuke Mandüvel Milies
+	Wygbold St?rtebeker Kurzh?fer Michels Wichmann Scheld Stuke Mand?vel Milies
 	"von Pommern" Haufoote Boniface Rainbek "von Wethemonkule"
-	Beyse Kurzmann Jürgens Stellmacher Heidmann
-	Grosch Krumtum Miercke Rähl Wessel Meuseling
+	Beyse Kurzmann J?rgens Stellmacher Heidmann
+	Grosch Krumtum Miercke R?hl Wessel Meuseling
 	"von Wolin" "von Wolgatz"
-	"von Wolgast" "von Cammin" "von Stettin" "von Rügen" "von Stolp" "von Kolberg" "von Greifswald" "von Stralsund"
+	"von Wolgast" "von Cammin" "von Stettin" "von R?gen" "von Stolp" "von Kolberg" "von Greifswald" "von Stralsund"
 	"von Schwerin" "von Eickstedt" "Normann" "von Borcke"
 }
 
 ship_names = {
-	"Fräulein von Rügen" "Die Schwarze Perle" "Störtebekers Rache" "Fräulein Stina" "Die Geißel von Pommern" "Schrecken der Hanse"
-	"Schnelltrinker" "Der Drache des Nordens" "Dänisches Feuer" "Odins Zorn" "Wikingertochter" "Der Sturm von Gottland" "Bornholmer Drachenboot"
-	"Der Greif von Pommern" "Danziger Schmetterer" "Der Hammer von Stettin" "Der Öresundsschrecken" "Tochter der Vitalienbrüder" "Michels Augenklappe"
-	"Rückkehr der Likedeeler"
+	"Fr?ulein von R?gen" "Die Schwarze Perle" "St?rtebekers Rache" "Fr?ulein Stina" "Die Gei?el von Pommern" "Schrecken der Hanse"
+	"Schnelltrinker" "Der Drache des Nordens" "D?nisches Feuer" "Odins Zorn" "Wikingertochter" "Der Sturm von Gottland" "Bornholmer Drachenboot"
+	"Der Greif von Pommern" "Danziger Schmetterer" "Der Hammer von Stettin" "Der ?resundsschrecken" "Tochter der Vitalienbr?der" "Michels Augenklappe"
+	"R?ckkehr der Likedeeler"
 }

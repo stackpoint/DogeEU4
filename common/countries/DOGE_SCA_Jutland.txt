@@ -58,7 +58,7 @@ monarch_names = {
 	"Hans #0" = 20
 	"Henrik #0" = 0
 	"Holger #0" = 0
-	"Jørgen #0" = 0
+	"J?rgen #0" = 0
 	"Kasper #0" = 0
 	"Peter #0" = 0
 	"Poul #0" = 0
@@ -81,33 +81,33 @@ leader_names = {
 	Daa
 	Ebbesen Eberstein Ellbrecht 
 	Falkenskjold Fischer
-	Galt Gersdorff Gjedde Gyldenløve Gyldenstjerne Gøye
-	Harboe Hardenberg Holstein Huitfeldt Høegh
+	Galt Gersdorff Gjedde Gyldenl?ve Gyldenstjerne G?ye
+	Harboe Hardenberg Holstein Huitfeldt H?egh
 	Jensen Juel
 	Krabbe Krag Krumpen Knudtzon Kvistgaard Kaas
-	Lillienskjold Lingby Lunge Lützow Løvenørn
+	Lillienskjold Lingby Lunge L?tzow L?ven?rn
 	Moltke Moth Munk
 	Norby
 	Pedersen Povlsen Pallesen Pil
-	Rantzau Reventlow Rosenkrantz Rosenørn
+	Rantzau Reventlow Rosenkrantz Rosen?rn
 	Schlentz Schack Scholten Sehested Skram
 	Thomsen "von Trampe" Trolle
 	Ulfeldt
 }
 
 ship_names = {
-	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
-	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
-	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
-	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	Achilles "Arche Noa" Arken Beskjermer "Byens L?ffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christians? "Christianus IV" "Christianus V" Churprindsen 
+	Concordia C?sar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhi?rningen Fides Flores 
 	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
-	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
-	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Gyldenl?ve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hi?lperen Hjort H?yenhald Hummer "Hvide ?rn" H?jenhald Island Jernv?gen J?germester 
 	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
-	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
-	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"L?vendals Gallej" Makal?s Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske L?ve" Oldenborg Papegoye Patienta Pelican Ph?nix "Prinds Carl" 
 	"Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
 	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
-	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
-	Victoria Vindhunden Wenden Ørnen
+	Svaerdfisk Svan "Svenske Jomfru" S?ridder Tomler "To L?ver" "Tre L?ver" Trefoldighed 
+	Victoria Vindhunden Wenden ?rnen
 }

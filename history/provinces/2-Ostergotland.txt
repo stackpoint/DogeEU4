@@ -1,4 +1,4 @@
-#Östergötland, contains Norrköping, Linköping etc.
+#?sterg?tland, contains Norrk?ping, Link?ping etc.
 
 add_core = GTA
 owner = GTA
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 trade_goods = grain
 base_manpower = 2
-capital = "Linköping"
+capital = "Link?ping"
 is_city = yes # Estimated
 discovered_by = western
 discovered_by = eastern

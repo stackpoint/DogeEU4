@@ -1,4 +1,4 @@
-# 182 Valois - Principal cities: Compiùgne + Soissons
+# 182 Valois - Principal cities: Compi?gne + Soissons
 
 owner = ORL
 controller = ORL

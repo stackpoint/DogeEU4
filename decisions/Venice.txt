@@ -23,7 +23,7 @@ confirm_thalassocracy = {
 					is_strongest_trade_power = ROOT
 				}
 				
-				45 = {	# L�beck
+				45 = {	# L???beck
 					is_strongest_trade_power = ROOT
 				}
 				1926 = { #Baltic Sea
@@ -71,7 +71,7 @@ confirm_thalassocracy = {
 					}
 				}
 				AND = {
-					45 = {	# L�beck
+					45 = {	# L???beck
 						is_strongest_trade_power = ROOT
 					}
 					1926 = { #Baltic Sea

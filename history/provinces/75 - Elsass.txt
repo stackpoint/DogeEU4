@@ -2,7 +2,7 @@
 
 owner = ALS
 controller = ALS 
-capital = "Stra�burg"
+capital = "Stra???burg"
 is_city = yes
 culture = swabian
 religion = catholic

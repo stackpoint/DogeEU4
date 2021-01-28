@@ -326,7 +326,7 @@ massif_central_area = { #3
 	190 195 199 4697 4777
 }
 
-savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
+savoy_dauphine_area = { #3 Savoy and Dauphin??, Upper Burgundy 
 	203 204 205 4719
 }
 
@@ -600,11 +600,11 @@ skaneland_area = { #4
 	6  26 1982 4165
 }
 
-gotaland_area = { #3 Östra Götaland
+gotaland_area = { #3 ??stra G??taland
 	2 3 25 4166
 }
 
-vastra_gotaland_area = { #Västra Götaland #4
+vastra_gotaland_area = { #V??stra G??taland #4
 	7 16 4163 4164
 }
 

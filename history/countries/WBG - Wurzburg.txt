@@ -5,7 +5,7 @@ add_government_reform = leading_clergy_reform
 technology_group = western
 primary_culture = franconian
 religion = catholic
-capital = 79	# W�rzburg
+capital = 79	# W???rzburg
 fixed_capital = 79 # Cannot move capital away from this province & no power cost to move to it
 
 

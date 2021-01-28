@@ -23,7 +23,7 @@ discovered_by = north_american
 	add_core = ILL
 	is_city = yes 
 }
-1659.1.1 = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1659.1.1 = { discovered_by = FRA } # M?dard Chouart Des Groseilliers
 1701.8.14 = {
 	owner = ---
 	controller = ---

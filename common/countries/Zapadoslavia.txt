@@ -127,9 +127,9 @@ ship_names = {
 }
 
 army_names = {
-	Zajíc
+	Zaj?c
 	Jiskra
-	Zelezný
+	Zelezn?
 	Capek
 	Thurn
 	Kolowrat
@@ -137,14 +137,14 @@ army_names = {
 	"z Rozmberka"
 	Velen
 	Sokol
-	"ze Zerotína"
+	"ze Zerot?na"
 	"z Husi"
 	"z Polzic"
 	Harant
-	"z Brandýsa"
+	"z Brand?sa"
 	Purkyne
-	"z Veleslavína"
-	"z Rozmitálu"
+	"z Veleslav?na"
+	"z Rozmit?lu"
 	Berka
 	"z Pardubic"
 	"ze Lvovic"
@@ -153,10 +153,10 @@ army_names = {
 	"ze Svamberka"
 	"z Vartemberka"
 	"z Mitrovic"
-	Píka
+	P?ka
 	Mansfeld
-	Veliký
-	Syrový
+	Velik?
+	Syrov?
 	"z Otradovic"
 	"z Falkensteina"
 	"Army of Finland"

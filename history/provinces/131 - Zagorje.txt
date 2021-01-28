@@ -28,7 +28,7 @@ discovered_by = ottoman
 	owner = HAB
 	controller = HAB
 	add_core = HAB
-} # Battle of Mohács
+} # Battle of Moh?cs
 1573.1.20 = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Peasant uprising against Habsburg rule & the feudal system
 1573.2.9 = { revolt = {} controller = HAB } # Decisively defeated
 1671.1.1 = { unrest = 5 } # Conspiracy against Habsburg rule uncovered

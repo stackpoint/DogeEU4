@@ -49,9 +49,9 @@ monarch_names = {
 	"Ondrej #0" = 10
 	"Anton #0" = 10
 	"Karol #0" = 10
-	"Hugolín #0" = 10
+	"Hugol?n #0" = 10
 	"Tomas #0" = 10
-	"Ludovít #0" = 10
+	"Ludov?t #0" = 10
 	"Viliam #0" = 10
 	"Mikulas #0" = 10
 	"Ignac #0" = 10
@@ -73,8 +73,8 @@ monarch_names = {
 	"Mojmir #0" = 0
 	"Dobroslav #0" = 0
 	"Radoslav #0" = 0
-	"Radomír #0" = 0
-	"Kazimír #0" = 0
+	"Radom?r #0" = 0
+	"Kazim?r #0" = 0
 	"Vlastimil #0" = 0
 	"Vitazoslav #0" = 0
 	"Blahoslav #0" = 0
@@ -102,21 +102,21 @@ leader_names = {
 	Stibor
 	Bel
 	Kollar
-	Podmanický
-	Hatnanský
+	Podmanick?
+	Hatnansk?
 	Pongrac
 	Bosniak
-	Veseléni
-	Pongrácz
-	Wesselényi
-	Beckovský
-	Jesenský
+	Vesel?ni
+	Pongr?cz
+	Wessel?nyi
+	Beckovsk?
+	Jesensk?
 	Benyovszky
-	Elefánthy
-	Balaša
+	Elef?nthy
+	Bala?a
 }
 
 ship_names = { 
-	Bodrog Bebrava Belá Blava Bodva Dunajec "Cierna voda" Hornád Ipel
-	Latorica Morava Ondava Poprad Rimava Slaná Žitava Torysa
+	Bodrog Bebrava Bel? Blava Bodva Dunajec "Cierna voda" Horn?d Ipel
+	Latorica Morava Ondava Poprad Rimava Slan? ?itava Torysa
 }

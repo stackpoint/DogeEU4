@@ -1,4 +1,4 @@
-#128 - K�rnten
+#128 - K???rnten
 
 owner = STY
 controller = STY

@@ -1,8 +1,8 @@
-# 93 Li�ge - Principal cities: Li�ge & Namur
+# 93 Li???ge - Principal cities: Li???ge & Namur
 
 owner = LIE
 controller = LIE
-capital = "Li�ge"
+capital = "Li???ge"
 is_city = yes
 culture = wallonian
 religion = catholic

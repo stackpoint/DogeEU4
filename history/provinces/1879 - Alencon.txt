@@ -1,9 +1,9 @@
-# 1879 - Alençon
+# 1879 - Alen?on
 
 owner = NRM
 controller = NRM
 add_core = NRM
-capital = "Alençon"
+capital = "Alen?on"
 is_city = yes
 culture = normand
 religion = catholic

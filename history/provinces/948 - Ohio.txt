@@ -30,7 +30,7 @@ discovered_by = north_american
 	culture = iroquois
 }#Driven off by Iroquois raids
 1671.1.1 = { discovered_by = ENG } # Abraham Wood
-1679.1.1 = { discovered_by = FRA } # René-Robert Cavelier
+1679.1.1 = { discovered_by = FRA } # Ren?-Robert Cavelier
 1701.8.14 = {
 	owner = ---
 	controller = ---

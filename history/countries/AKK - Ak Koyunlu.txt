@@ -11,7 +11,7 @@ capital = 418
 
 1396.1.1 = {
 	monarch = {
-		name = "Qara Y�l�q Osman"
+		name = "Qara Y???l???q Osman"
 		dynasty = "Aq Qoyunlu"
 		adm = 2
 		dip = 1
@@ -111,8 +111,8 @@ capital = 418
 
 1453.1.1 = {
 	heir = {
-		name = "Hal�l"
-		monarch_name = "Hal�l"
+		name = "Hal???l"
+		monarch_name = "Hal???l"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1453.1.1
 		death_date = 1478.7.16
@@ -127,7 +127,7 @@ capital = 418
 
 1478.1.6 = {
 	monarch = {
-		name = "Hal�l"
+		name = "Hal???l"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1453.1.1
 		adm = 2
@@ -138,8 +138,8 @@ capital = 418
 
 1478.1.6 = {
 	heir = {
-		name = "Yaq�b"
-		monarch_name = "Yaq�b"
+		name = "Yaq???b"
+		monarch_name = "Yaq???b"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1458.1.1
 		death_date = 1490.12.25
@@ -152,7 +152,7 @@ capital = 418
 
 1478.7.16 = {
 	monarch = {
-		name = "Yaq�b"
+		name = "Yaq???b"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1458.1.1
 		adm = 1
@@ -188,8 +188,8 @@ capital = 418
 
 1490.12.25 = {
 	heir = {
-		name = "R�stem"
-		monarch_name = "R�stem"
+		name = "R???stem"
+		monarch_name = "R???stem"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1470.1.1
 		death_date = 1496.2.8
@@ -202,7 +202,7 @@ capital = 418
 
 1492.5.23 = {
 	monarch = {
-		name = "R�stem"
+		name = "R???stem"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1470.1.1
 		adm = 0
@@ -214,7 +214,7 @@ capital = 418
 1492.5.23 = {
 	heir = {
 		name = "Ahmed"
-		monarch_name = "Ahmed G�vde"
+		monarch_name = "Ahmed G???vde"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		death_date = 1497.1.1
@@ -227,7 +227,7 @@ capital = 418
 
 1496.2.8 = {
 	monarch = {
-		name = "Ahmed G�vde"
+		name = "Ahmed G???vde"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		adm = 1
@@ -238,8 +238,8 @@ capital = 418
 
 1496.2.8 = {
 	heir = {
-		name = "Mur�d"
-		monarch_name = "Mur�d"
+		name = "Mur???d"
+		monarch_name = "Mur???d"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		death_date = 1498.1.1
@@ -252,7 +252,7 @@ capital = 418
 
 1497.1.1 = {
 	monarch = {
-		name = "Mur�d"
+		name = "Mur???d"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		adm = 0
@@ -288,8 +288,8 @@ capital = 418
 
 1498.1.1 = {
 	heir = {
-		name = "Mur�d"
-		monarch_name = "Mur�d"
+		name = "Mur???d"
+		monarch_name = "Mur???d"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		death_date = 1508.1.1
@@ -302,7 +302,7 @@ capital = 418
 
 1501.7.1 = {
 	monarch = {
-		name = "Mur�d"
+		name = "Mur???d"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1475.1.1
 		adm = 0

@@ -18,7 +18,7 @@ capital = 831	# Caracas
 
 1813.8.7 = {
 	monarch = {
-		name = "Sim�n Bol�var"
+		name = "Sim???n Bol???var"
 		adm = 3
 		dip = 3
 		mil = 4

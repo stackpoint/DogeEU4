@@ -31,7 +31,7 @@ capital = 416 # Tabriz
 
 1483.1.1 = {
 	monarch = {
-		name = "Ism�'�l I"
+		name = "Ism???'???l I"
 		dynasty = "Safavid"
 		adm = 6
 		dip = 5
@@ -44,7 +44,7 @@ capital = 416 # Tabriz
 
 1524.5.24 = {
 	monarch = {
-		name = "Tham�sp I"
+		name = "Tham???sp I"
 		dynasty = "Safavid"
 		adm = 2
 		dip = 0
@@ -57,7 +57,7 @@ capital = 416 # Tabriz
 
 1576.5.15 = {
 	monarch = {
-		name = "Ism�'�l II"
+		name = "Ism???'???l II"
 		dynasty = "Safavid"
 		adm = 1
 		dip = 0
@@ -335,7 +335,7 @@ capital = 416 # Tabriz
 
 1797.6.18 = {
 	monarch = {
-		name = "Fath Al�"
+		name = "Fath Al???"
 		dynasty = "Qajar"
 		adm = 2
 		dip = 2

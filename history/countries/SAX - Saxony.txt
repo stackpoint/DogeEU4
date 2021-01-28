@@ -128,7 +128,7 @@ capital = 62 # Leipzig
 1471.8.27 = {
 	heir = {
 		name = "Georg"
-		monarch_name = "Georg der B�rtige"
+		monarch_name = "Georg der B???rtige"
 		dynasty = "von Wettin"
 		birth_date = 1471.8.27
 		death_date = 1539.4.17
@@ -141,7 +141,7 @@ capital = 62 # Leipzig
 
 1500.9.12 = {
 	monarch = {
-		name = "Georg der B�rtige"
+		name = "Georg der B???rtige"
 		dynasty = "von Wettin"
 		birth_date = 1471.8.27
 		dip = 1
@@ -373,7 +373,7 @@ capital = 62 # Leipzig
 	}
 }
 
-1670.1.1 = { leader = {	name = "Sch�nfeld"             	type = general	fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1690.1.1 } }
+1670.1.1 = { leader = {	name = "Sch???nfeld"             	type = general	fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1690.1.1 } }
 
 1675.1.1 = { leader = {	name = "Toppauer"              	type = general	fire = 3	shock = 2	manuever = 2	siege = 1	death_date = 1699.1.1 } }
 

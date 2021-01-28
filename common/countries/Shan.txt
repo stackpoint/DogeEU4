@@ -100,7 +100,7 @@ leader_names = {
 	Kokang
 	Kyon
 	Kyaukku
-	Lègya
+	L?gya
 	Yatsauk
 	Lwee
 	Lwelong
@@ -114,9 +114,9 @@ leader_names = {
 	Bawnin
 	Bawzaing
 	Mogaung
-	Mönglong
+	M?nglong
 	Momeik
-	Monè
+	Mon?
 	Mongnawng
 	Mobye
 	"Mong Pan"
@@ -124,7 +124,7 @@ leader_names = {
 	Maingseik
 	Maington
 	Mohnyin
-	Möngyawng
+	M?ngyawng
 	Nanke
 	Nankok
 	Nankon

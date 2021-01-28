@@ -19,7 +19,7 @@ fixed_capital = 52 # Cannot move capital away from this province & no power cost
 
 1403.1.1 = {
 	monarch = {
-		name = "G�nther II"
+		name = "G???nther II"
 		culture = saxon
 		birth_date = 1382.1.1
 		adm = 1
