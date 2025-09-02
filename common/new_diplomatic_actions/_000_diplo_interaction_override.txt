@@ -70,10 +70,6 @@ sell_indulgence = {
 			limit = { NOT = { has_country_flag = me_pap_unlocks_selling_indulgences } }
 			add_papal_influence = -50
 		}
-		else_if = {
-			limit = { has_country_flag = me_pap_unlocks_selling_indulgences }
-			add_papal_influence = -25
-		}
 		else = {
 			add_corruption = 0.5
 		}
