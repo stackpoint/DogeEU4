@@ -917,7 +917,9 @@ christian = {
 						}
 					}
 				}
+				custom_tooltip = "EMPTY"				
 				add_years_of_income = 1.0
+				custom_tooltip = "EMPTY"
 				hidden_effect = {
 					random_owned_province = {
 						limit = {
@@ -931,11 +933,12 @@ christian = {
 				}
 				custom_tooltip = CENTER_OF_REFORMATION_POSSIBLE
 			}
-			
+			custom_tooltip = "EMPTY"
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}			
+			custom_tooltip = "EMPTY"
 			set_country_flag = reformation_money
 			every_known_country = {
 				limit = {
@@ -1035,7 +1038,9 @@ christian = {
 						}
 					}
 				}
+				custom_tooltip = "EMPTY"
 				add_years_of_income = 1.0
+				custom_tooltip = "EMPTY"
 				hidden_effect = {
 					random_owned_province = {
 						limit = {
@@ -1049,10 +1054,12 @@ christian = {
 				}
 				custom_tooltip = CENTER_OF_REFORMATION_POSSIBLE
 			}
+			
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
 			}
+			custom_tooltip = "EMPTY"
 			set_country_flag = "reformation_money"
 			every_known_country = {
 				limit = {
@@ -1856,7 +1863,14 @@ christian = {
 		province = {
 			local_missionary_strength = -0.02
 		}
-		
+
+		will_get_center = { #Refered to even for initial CoR Spawn
+			any_owned_province = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = cathar
+				}
+			}
+		}		
 		
 		heretic = { bogomilist lollard waldensian anglican protestant reformed malankara orthodox coptic hussite catholic }
 		
