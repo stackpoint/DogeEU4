@@ -328,7 +328,7 @@ l_english:
  is_privateering_or_protecting_trade_10_percent_tt: "§Y[Root.GetName]§! has at least §Y10%§! or more §YTrade Power§! or §Y[Root.GetAdjective]§! Privateers have at least §Y10%§! or more §YTrade Power§!"
  HNS_get_cores_baltic: "Get §YCores§! on the §YHanseatic Outposts§! in the §YBaltic Sea§! Coast"
  HNS_get_cores_north_sea: "Get §YCores§! on the §YHanseatic Outposts§! in the §YNorth Sea§! Coast"
- HNS_skane_market: "Strengthen '§YSkane Market§!' in §Y[6.GetName]§! by §G+0.50§! Local Goods Produced\nPrevents the '§YHerring Runs Out§!' Event from firing."
+ HNS_skane_market_tt: "Strengthen '§YSkane Market§!' in §Y[6.GetName]§! by §G+1§! Local Goods Produced\nPrevents the '§YHerring Runs Out§!' Event from firing."
  HNS_skane_market_bring_back: "Return the '§YSkane Market§!' modifier to §Y[6.GetName]§! and strengthen it by §G+0.50§! Local Goods Produced\nPrevents the '§YHerring Runs Out§!' Event from firing again."
  HNS_nothing_changes: "Nothing Changes. §Y[12.GetName]§! will keep the §YSound Toll§! Modifier."
  HNS_capital_get_50_prosperity: "Get §G+50.0§! Progress towards §YProsperity§! in §YCapital§!"
