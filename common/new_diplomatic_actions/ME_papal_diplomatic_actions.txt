@@ -73,6 +73,8 @@ convert_country_to_catholic = {
 				NOT = {
 					has_country_flag = pap_requested_conversion
 				}
+			}
+			FROM = {
 				had_country_flag = {
 					flag = pap_requested_conversion
 					days = 3650

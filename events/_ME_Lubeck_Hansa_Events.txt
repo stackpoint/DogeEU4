@@ -437,7 +437,7 @@ country_event = { #Hanseatic Fish Route
 			limit = {
 				6 = { has_province_modifier = skanemarket }
 			}
-			custom_tooltip = HNS_skane_market
+			custom_tooltip = HNS_skane_market_tt
 		}
 		else = {
 			custom_tooltip = HNS_skane_market_bring_back

@@ -1928,6 +1928,7 @@ gme_the_bock = {
 					owner = {
 						OR = {
 							mission_completed = LUX_thungen
+							has_country_flag = LUX_bock_flag
 							#mission_completed = ME_bur_the_bock
 							#overlord = {
 							#	mission_completed = ME_bur_the_bock

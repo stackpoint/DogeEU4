@@ -43,6 +43,7 @@ HNS_yarmouth_market = {
 }
 
 HNS_skane_market = {
+	picture = "market_modifier_icon"
 	trade_goods_size = 2
 }
 

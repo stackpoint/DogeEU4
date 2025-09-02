@@ -660,3 +660,6 @@
  cb_restore_curia_control_desc: "We won't allow other nations to mingle in matters of Christ. We shalle retake mantle of pope, we bow to no one!"
  take_capital_curia: "Retake Curia Control"
  take_capital_curia_desc: "We shall retake control of Curia!"
+
+ #
+ pap_requested_conversion: "Recently requested conversion"
